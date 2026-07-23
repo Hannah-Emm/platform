@@ -22,6 +22,5 @@ surface_material_override/0 = SubResource("StandardMaterial3D_c6gwx")
 [node name="NavigationAgent3D" type="NavigationAgent3D" parent="." unique_id=1047425466]
 path_height_offset = -0.5
 avoidance_enabled = true
-debug_enabled = true
 
 [connection signal="velocity_computed" from="NavigationAgent3D" to="." method="_on_navigation_agent_3d_velocity_computed"]

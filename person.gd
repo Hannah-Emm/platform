@@ -5,6 +5,10 @@ extends CharacterBody3D
 var rng: RandomNumberGenerator = RandomNumberGenerator.new()
 
 @onready var navigation_agent: NavigationAgent3D = $NavigationAgent3D
+@onready var goal_1: PathFollow3D = get_parent().get_node("Goal1").get_node("Path")
+@onready var goal_2: PathFollow3D = get_parent().get_node("Goal2").get_node("Path")
+@onready var goals: Array[PathFollow3D] = [goal_1, goal_2]
+var current_goal_index: int = 0
 
 func _ready() -> void:
 	# These values need to be adjusted for the actor's speed
@@ -20,15 +24,22 @@ func actor_setup() -> void:
 	await get_tree().physics_frame
 
 	# Now that the navigation map is no longer empty, set the movement target.
-	set_random_movement_target()
+	navigate_to_goal()
 
-func set_random_movement_target() -> void:
-	var movement_target: Vector3 = Vector3(rng.randf_range(-5, 5), 0.0, rng.randf_range(-5, 5))
-	navigation_agent.set_target_position(movement_target)
+func navigate_to_next_goal() -> void:
+	current_goal_index += 1
+	if current_goal_index >= goals.size():
+		current_goal_index = 0
+	navigate_to_goal()
+
+func navigate_to_goal() -> void:
+	var current_goal: PathFollow3D = goals[current_goal_index]
+	current_goal.progress_ratio = rng.randf()
+	navigation_agent.set_target_position(current_goal.global_position)
 
 func _physics_process(_delta) -> void:
 	if navigation_agent.is_navigation_finished():
-		set_random_movement_target()
+		navigate_to_next_goal()
 
 	var current_agent_position: Vector3 = global_position
 	var next_path_position: Vector3 = navigation_agent.get_next_path_position()
