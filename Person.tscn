@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://cg6rt3sbg0xlm"]
+
+[ext_resource type="Script" uid="uid://c6cuvcu6v04si" path="res://person.gd" id="1_0dfyj"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_sndfc"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_sndfc"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_c6gwx"]
+albedo_color = Color(0, 0.7115168, 0.71646464, 1)
+
+[node name="Player" type="CharacterBody3D" unique_id=1811871723]
+script = ExtResource("1_0dfyj")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=677414686]
+shape = SubResource("CapsuleShape3D_sndfc")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=373736888]
+mesh = SubResource("CapsuleMesh_sndfc")
+surface_material_override/0 = SubResource("StandardMaterial3D_c6gwx")
+
+[node name="NavigationAgent3D" type="NavigationAgent3D" parent="." unique_id=1047425466]
+path_height_offset = -0.5
+avoidance_enabled = true
+debug_enabled = true

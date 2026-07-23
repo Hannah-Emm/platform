@@ -1,0 +1,27 @@
+[gd_scene format=3 uid="uid://4ypf5a8phhak"]
+
+[ext_resource type="Script" uid="uid://dpaxefdxeu02m" path="res://player.gd" id="1_igigs"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_nh7yb"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_igigs"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ii5br"]
+albedo_color = Color(1, 0, 1, 1)
+
+[sub_resource type="Environment" id="Environment_fevu2"]
+ambient_light_color = Color(1, 1, 1, 1)
+
+[node name="PlayerBody" type="CharacterBody3D" unique_id=1754152850]
+script = ExtResource("1_igigs")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=2063064648]
+shape = SubResource("CapsuleShape3D_nh7yb")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=1457303584]
+mesh = SubResource("CapsuleMesh_igigs")
+surface_material_override/0 = SubResource("StandardMaterial3D_ii5br")
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=104731213]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.45, 0)
+environment = SubResource("Environment_fevu2")
