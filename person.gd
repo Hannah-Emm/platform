@@ -1,6 +1,6 @@
 extends CharacterBody3D
 
-var movement_speed: float = 2.0
+@export var movement_speed: float = 2.0
 
 var rng: RandomNumberGenerator = RandomNumberGenerator.new()
 
@@ -32,9 +32,8 @@ func _physics_process(_delta) -> void:
 
 	var current_agent_position: Vector3 = global_position
 	var next_path_position: Vector3 = navigation_agent.get_next_path_position()
-	velocity = current_agent_position.direction_to(next_path_position) * movement_speed
+	navigation_agent.set_velocity(current_agent_position.direction_to(next_path_position) * movement_speed)
 
 func _on_navigation_agent_3d_velocity_computed(safe_velocity: Vector3) -> void:
 	velocity = safe_velocity
-	navigation_agent.velocity = safe_velocity
 	move_and_slide()
