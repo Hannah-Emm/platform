@@ -5,10 +5,8 @@ extends CharacterBody3D
 var rng: RandomNumberGenerator = RandomNumberGenerator.new()
 
 @onready var navigation_agent: NavigationAgent3D = $NavigationAgent3D
-@onready var goal_1: PathFollow3D = get_parent().get_node("Goal1").get_node("Path")
-@onready var goal_2: PathFollow3D = get_parent().get_node("Goal2").get_node("Path")
-@onready var goals: Array[PathFollow3D] = [goal_1, goal_2]
-var current_goal_index: int = 0
+var goal_position: Vector3
+var reset: bool = false
 
 func _ready() -> void:
 	# These values need to be adjusted for the actor's speed
@@ -24,22 +22,36 @@ func actor_setup() -> void:
 	await get_tree().physics_frame
 
 	# Now that the navigation map is no longer empty, set the movement target.
-	navigate_to_goal()
+	reset = true
 
-func navigate_to_next_goal() -> void:
-	current_goal_index += 1
-	if current_goal_index >= goals.size():
-		current_goal_index = 0
-	navigate_to_goal()
+func start_new_goal() -> void:
+	var goals: Array[Node] = get_tree().get_nodes_in_group("Goals").duplicate()
+	goals.shuffle()
+	var spawn_point: Path3D = goals.pop_front()
+	var spawn_point_path: PathFollow3D = spawn_point.get_node("Path")
+	spawn_point_path.progress_ratio = rng.randf()
 
-func navigate_to_goal() -> void:
-	var current_goal: PathFollow3D = goals[current_goal_index]
-	current_goal.progress_ratio = rng.randf()
-	navigation_agent.set_target_position(current_goal.global_position)
+
+	var goal: Path3D = goals.pop_front()
+	var goal_path: PathFollow3D = goal.get_node("Path")
+	goal_path.progress_ratio = rng.randf()
+	goal_position = goal_path.global_position
+
+	global_position.x = spawn_point_path.global_position.x
+	global_position.z = spawn_point_path.global_position.z
+	velocity = Vector3.ZERO
+	reset_physics_interpolation.call_deferred()
+	navigation_agent.set_target_position.call_deferred(goal_position)
+	reset = false
 
 func _physics_process(_delta) -> void:
+	if reset:
+		start_new_goal()
+		return
+
 	if navigation_agent.is_navigation_finished():
-		navigate_to_next_goal()
+		reset = true
+		return
 
 	var next_path_position: Vector3 = navigation_agent.get_next_path_position()
 	navigation_agent.set_velocity(global_position.direction_to(next_path_position) * movement_speed)

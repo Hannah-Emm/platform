@@ -11,6 +11,7 @@ albedo_color = Color(0, 0.7115168, 0.71646464, 1)
 
 [node name="Player" type="CharacterBody3D" unique_id=1811871723]
 script = ExtResource("1_0dfyj")
+movement_speed = 10.0
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=677414686]
 shape = SubResource("CapsuleShape3D_sndfc")
