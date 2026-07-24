@@ -14,6 +14,7 @@ ambient_light_color = Color(1, 1, 1, 1)
 
 [node name="PlayerBody" type="CharacterBody3D" unique_id=1754152850]
 script = ExtResource("1_igigs")
+movement_speed = 50.0
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=2063064648]
 shape = SubResource("CapsuleShape3D_nh7yb")
