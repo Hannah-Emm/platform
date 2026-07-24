@@ -2,21 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bakifbu30uqdx"
-path.s3tc="res://.godot/imported/Tiles141.jpg-10bcb4381ab307249bf513f79a83d2ee.s3tc.ctex"
+uid="uid://5ic8fe87dqyw"
+path="res://.godot/imported/Tiles107_ao.jpg-01deeb961a04ab7496b524e5f5bb2857.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
-"vram_texture": true
+"vram_texture": false
 }
 
 [deps]
 
-source_file="res://trenchbroom/textures/Tiles141.jpg"
-dest_files=["res://.godot/imported/Tiles141.jpg-10bcb4381ab307249bf513f79a83d2ee.s3tc.ctex"]
+source_file="res://trenchbroom/textures/Tiles107/Tiles107_ao.jpg"
+dest_files=["res://.godot/imported/Tiles107_ao.jpg-01deeb961a04ab7496b524e5f5bb2857.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
