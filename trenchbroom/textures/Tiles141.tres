@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bidj3xy80rx15"]
+
+[ext_resource type="Texture2D" uid="uid://bakifbu30uqdx" path="res://trenchbroom/textures/Tiles141.jpg" id="1_p5ico"]
+[ext_resource type="Texture2D" uid="uid://c3bllxalmlcbh" path="res://trenchbroom/textures/Tiles141/Tiles141_normal.jpg" id="2_6gmvn"]
+[ext_resource type="Texture2D" uid="uid://x0b2r0tnr7sc" path="res://trenchbroom/textures/Tiles141/Tiles141_roughness.jpg" id="3_87ow2"]
+
+[resource]
+albedo_texture = ExtResource("1_p5ico")
+metallic_specular = 0.0
+roughness_texture = ExtResource("3_87ow2")
+normal_enabled = true
+normal_texture = ExtResource("2_6gmvn")
+texture_filter = 2
