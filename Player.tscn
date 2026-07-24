@@ -12,9 +12,12 @@ albedo_color = Color(1, 0, 1, 1)
 [sub_resource type="Environment" id="Environment_fevu2"]
 ambient_light_color = Color(1, 1, 1, 1)
 
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_vvhp7"]
+
 [node name="PlayerBody" type="CharacterBody3D" unique_id=1754152850]
 script = ExtResource("1_igigs")
-movement_speed = 50.0
+acceleration = 0.5
+deceleration = 1.0
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=2063064648]
 shape = SubResource("CapsuleShape3D_nh7yb")
@@ -26,3 +29,17 @@ surface_material_override/0 = SubResource("StandardMaterial3D_ii5br")
 [node name="Camera3D" type="Camera3D" parent="." unique_id=104731213]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.45, 0)
 environment = SubResource("Environment_fevu2")
+
+[node name="HitBox" type="Area3D" parent="." unique_id=368456919]
+monitorable = false
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="HitBox" unique_id=1233732956]
+transform = Transform3D(1.1, 0, 0, 0, 1.1, 0, 0, 0, 1.1, 0, 0, 0)
+shape = SubResource("CapsuleShape3D_vvhp7")
+
+[node name="DashTimer" type="Timer" parent="." unique_id=1362416141]
+wait_time = 0.24
+one_shot = true
+
+[connection signal="body_shape_entered" from="HitBox" to="." method="_on_hit_box_body_shape_entered"]
+[connection signal="timeout" from="DashTimer" to="." method="_on_dash_timer_timeout"]
