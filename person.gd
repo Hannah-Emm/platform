@@ -1,12 +1,15 @@
 extends CharacterBody3D
 
-@export var movement_speed: float = 2.0
+@export var min_movement_speed: float = 2.0
+@export var max_movement_speed: float = 15.0
 
 var rng: RandomNumberGenerator = RandomNumberGenerator.new()
 
 @onready var navigation_agent: NavigationAgent3D = $NavigationAgent3D
 var goal_position: Vector3
 var reset: bool = false
+var movement_speed: float
+
 
 func _ready() -> void:
 	# These values need to be adjusted for the actor's speed
@@ -42,6 +45,9 @@ func start_new_goal() -> void:
 	velocity = Vector3.ZERO
 	reset_physics_interpolation.call_deferred()
 	navigation_agent.set_target_position.call_deferred(goal_position)
+
+	movement_speed = rng.randf_range(min_movement_speed, max_movement_speed)
+
 	reset = false
 
 func _physics_process(_delta) -> void:
