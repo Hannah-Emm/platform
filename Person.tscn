@@ -9,6 +9,8 @@
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_c6gwx"]
 albedo_color = Color(0, 0.7115168, 0.71646464, 1)
 
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_vvhp7"]
+
 [node name="Player" type="CharacterBody3D" unique_id=1811871723]
 script = ExtResource("1_0dfyj")
 
@@ -22,5 +24,11 @@ surface_material_override/0 = SubResource("StandardMaterial3D_c6gwx")
 [node name="NavigationAgent3D" type="NavigationAgent3D" parent="." unique_id=1047425466]
 path_height_offset = -0.5
 avoidance_enabled = true
+
+[node name="Area3D" type="Area3D" parent="." unique_id=1947384780]
+monitoring = false
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D" unique_id=952782929]
+shape = SubResource("CapsuleShape3D_vvhp7")
 
 [connection signal="velocity_computed" from="NavigationAgent3D" to="." method="_on_navigation_agent_3d_velocity_computed"]
