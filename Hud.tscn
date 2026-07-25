@@ -1,0 +1,26 @@
+[gd_scene format=3 uid="uid://dwsa40ry2jpru"]
+
+[ext_resource type="Script" uid="uid://5k5om4dmgyt" path="res://rage_bar.gd" id="1_37p78"]
+
+[sub_resource type="Gradient" id="Gradient_n2snw"]
+interpolation_mode = 1
+offsets = PackedFloat32Array(0, 0)
+colors = PackedColorArray(0.83251697, 0.10789225, 1.92523e-07, 1, 1, 1, 1, 1)
+
+[sub_resource type="GradientTexture1D" id="GradientTexture1D_sndfc"]
+gradient = SubResource("Gradient_n2snw")
+
+[node name="HUD" type="CanvasLayer" unique_id=182429545]
+
+[node name="RageBar" type="TextureRect" parent="." unique_id=668765763]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -745.5
+offset_right = 745.5
+offset_bottom = 40.0
+grow_horizontal = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+texture = SubResource("GradientTexture1D_sndfc")
+script = ExtResource("1_37p78")
