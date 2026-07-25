@@ -72,12 +72,12 @@ func _input(event: InputEvent) -> void:
 
 func add_rage(amount: float) -> void:
 	current_rage_level = min(current_rage_level + amount, max_rage_level)
-	rage_level.emit(current_rage_level / max_rage_level)
+	rage_level.emit((current_rage_level / max_rage_level) * 100)
 
 func use_rage(cost: float) -> bool:
 	if current_rage_level >= cost:
 		current_rage_level -= cost
-		rage_level.emit(current_rage_level / max_rage_level)
+		rage_level.emit((current_rage_level / max_rage_level) * 100)
 		return true
 	return false
 
