@@ -2,7 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://4ypf5a8phhak" path="res://Player.tscn" id="1_2dftf"]
 [ext_resource type="Script" uid="uid://d3y82pme7fjfq" path="res://game.gd" id="1_bcbcq"]
-[ext_resource type="PackedScene" uid="uid://cg6rt3sbg0xlm" path="res://Person.tscn" id="2_bcbcq"]
+[ext_resource type="PackedScene" uid="uid://dwsa40ry2jpru" path="res://Hud.tscn" id="2_wygdx"]
 [ext_resource type="Script" uid="uid://cwu5cf7a0awcd" path="res://addons/func_godot/src/map/func_godot_map.gd" id="3_p1v5b"]
 [ext_resource type="Resource" uid="uid://bkhxcqsquw1yg" path="res://addons/func_godot/func_godot_default_map_settings.tres" id="4_wygdx"]
 [ext_resource type="Material" uid="uid://bidj3xy80rx15" path="res://trenchbroom/textures/Tiles141.tres" id="6_fv4w7"]
@@ -71,19 +71,14 @@ point_count = 2
 
 [node name="World" type="Node3D" unique_id=499472384]
 script = ExtResource("1_bcbcq")
+person_count = 5
+
+[node name="HUD" parent="." unique_id=182429545 instance=ExtResource("2_wygdx")]
 
 [node name="Player" parent="." unique_id=1754152850 instance=ExtResource("1_2dftf")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
-
-[node name="Person" parent="." unique_id=1344351512 instance=ExtResource("2_bcbcq")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.2024608, 0.6758795, 0)
-
-[node name="Person2" parent="." unique_id=1811871723 instance=ExtResource("2_bcbcq")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.7977705, 1, 0)
-
-[node name="Person3" parent="." unique_id=1242539890 instance=ExtResource("2_bcbcq")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 1, 3.3142102)
-movement_speed = 5.0
+acceleration = 4.0
+deceleration = 40.0
 
 [node name="NavigationRegion3D" type="NavigationRegion3D" parent="." unique_id=438364753]
 navigation_mesh = SubResource("NavigationMesh_sndfc")
@@ -97,7 +92,7 @@ mesh = SubResource("PlaneMesh_sndfc")
 shape = SubResource("HeightMapShape3D_lnp11")
 
 [node name="FuncGodotMap" type="Node3D" parent="." unique_id=749979681]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.178362, 0, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.178362, 0, 10.584345)
 script = ExtResource("3_p1v5b")
 local_map_file = "uid://chc2erytr0u2q"
 map_settings = ExtResource("4_wygdx")
@@ -138,7 +133,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 49, 0, 0)
 curve = SubResource("Curve3D_2dftf")
 
 [node name="Path" type="PathFollow3D" parent="Goal2" unique_id=795867594]
-transform = Transform3D(0.9999999, 2.556148e-11, 0.000429002, 8.673618e-19, 1, -5.95836e-08, -0.000429002, 5.958359e-08, 0.9999999, 0.0051498413, 0, 4.012821)
+transform = Transform3D(0.99999934, 2.556148e-11, 0.00042900175, 8.673614e-19, 1, -5.9583567e-08, -0.00042900175, 5.958359e-08, 0.99999934, 0.0051498413, 0, 4.012821)
 
 [node name="Goal3" type="Path3D" parent="." unique_id=1155682285 groups=["Goals"]]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -49, 0, 0)

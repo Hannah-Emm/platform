@@ -41,5 +41,10 @@ shape = SubResource("CapsuleShape3D_vvhp7")
 wait_time = 0.24
 one_shot = true
 
+[node name="FreezeTimer" type="Timer" parent="." unique_id=1451416954]
+wait_time = 0.5
+one_shot = true
+
 [connection signal="body_shape_entered" from="HitBox" to="." method="_on_hit_box_body_shape_entered"]
 [connection signal="timeout" from="DashTimer" to="." method="_on_dash_timer_timeout"]
+[connection signal="timeout" from="FreezeTimer" to="." method="_on_freeze_timer_timeout"]
