@@ -1548,6 +1548,16 @@ _data = {
 }
 point_count = 2
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_sndfc"]
+size = Vector3(1, 1, 0.16357422)
+
+[sub_resource type="BoxMesh" id="BoxMesh_sndfc"]
+size = Vector3(1, 1, 0.18701172)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_wygdx"]
+transparency = 1
+albedo_color = Color(0, 1, 0, 1)
+
 [node name="World" type="Node3D" unique_id=499472384]
 script = ExtResource("1_bcbcq")
 person_count = 250
@@ -3113,3 +3123,23 @@ curve = SubResource("Curve3D_p1v5b")
 transform = Transform3D(-0.012623732, 0, -0.99992007, 0, 0.99999976, 0, 0.9999201, 0, -0.012623731, -5.717758, -1, -2.8221588)
 
 [node name="HUD" parent="." unique_id=182429545 instance=ExtResource("2_wygdx")]
+
+[node name="LevelTimer" type="Timer" parent="." unique_id=1528744251]
+wait_time = 10.0
+one_shot = true
+autostart = true
+
+[node name="Finish" type="Area3D" parent="." unique_id=1093085811]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.2121162, -2.5363495, -43.83172)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Finish" unique_id=444467818]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0)
+shape = SubResource("BoxShape3D_sndfc")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Finish" unique_id=684369745]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0)
+mesh = SubResource("BoxMesh_sndfc")
+surface_material_override/0 = SubResource("StandardMaterial3D_wygdx")
+
+[connection signal="timeout" from="LevelTimer" to="." method="_on_level_timer_timeout"]
+[connection signal="body_entered" from="Finish" to="." method="_on_finish_body_entered"]
