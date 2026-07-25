@@ -1491,6 +1491,9 @@ person_count = 250
 
 [node name="Player" parent="." unique_id=1754152850 instance=ExtResource("1_2dftf")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+max_speed = 25.0
+acceleration = 4.0
+deceleration = 40.0
 
 [node name="FuncGodotMap" type="Node3D" parent="." unique_id=749979681]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.50511, 0, 11.415487)
@@ -3035,3 +3038,5 @@ curve = SubResource("Curve3D_p1v5b")
 
 [node name="Path" type="PathFollow3D" parent="Goal15" unique_id=1385033507]
 transform = Transform3D(-0.012623732, 0, -0.99992007, 0, 0.99999976, 0, 0.9999201, 0, -0.012623731, -5.717758, -1, -2.8221588)
+
+[node name="HUD" parent="." unique_id=182429545 instance=ExtResource("2_wygdx")]

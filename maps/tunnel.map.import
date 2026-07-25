@@ -1,0 +1,14 @@
+[remap]
+
+importer="func_godot.map"
+type="Resource"
+uid="uid://b4rb3a4euq7ax"
+path="res://.godot/imported/tunnel.map-853c1af02df7794d08c675022960241a.tres"
+
+[deps]
+
+source_file="res://maps/tunnel.map"
+dest_files=["res://.godot/imported/tunnel.map-853c1af02df7794d08c675022960241a.tres"]
+
+[params]
+
