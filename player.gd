@@ -92,8 +92,12 @@ func hit_person():
 		is_frozen = true
 
 func _on_hit_box_body_shape_entered(_body_rid: RID, body: Node3D, _body_shape_index: int, _local_shape_index: int) -> void:
-	if body is CharacterBody3D and body != self:
-		hit_person()
+	if !is_frozen and body is CharacterBody3D and body != self:
+		var is_player_facing: bool = global_position.direction_to(body.global_position).dot(-global_transform.basis.z) > 0
+		var is_player_moving_towards: bool = global_position.direction_to(body.global_position).dot(velocity.normalized()) > 0
+		print("Hit! Player facing: ", str(is_player_facing), " moving towards: ", str(is_player_moving_towards))
+		if is_player_facing or is_player_moving_towards:
+			hit_person()
 
 func _on_dash_timer_timeout() -> void:
 	current_speed = max_speed
