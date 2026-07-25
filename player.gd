@@ -19,6 +19,7 @@ signal hit()
 @onready var dash_timer: Timer = $DashTimer
 @onready var freeze_timer: Timer = $FreezeTimer
 
+var is_alive: bool = true
 var current_rage_level: float = 0.0
 var current_speed: float = 0
 var is_dashing: bool = false
@@ -37,12 +38,12 @@ func _physics_process(delta: float) -> void:
 		velocity += get_gravity() * delta
 
 	if Input.mouse_mode == Input.MOUSE_MODE_CAPTURED:
-		if Input.is_action_just_pressed("move_jump") and is_on_floor() and use_rage(jump_cost):
+		if is_alive and Input.is_action_just_pressed("move_jump") and is_on_floor() and use_rage(jump_cost):
 			velocity.y = jump_velocity
 		if !is_frozen:
 			var input_dir := Input.get_vector("move_left", "move_right", "move_foward", "move_backward")
 			var direction := (transform.basis * Vector3(input_dir.x, 0, input_dir.y)).normalized()
-			if direction and !is_dashing:
+			if direction and !is_dashing and is_alive:
 				if Input.is_action_just_pressed("move_dash") and use_rage(dash_cost):
 					dash_timer.start()
 					is_dashing = true
@@ -71,6 +72,8 @@ func _input(event: InputEvent) -> void:
 		camera.rotation.x = clampf(camera.rotation.x, -deg_to_rad(70), deg_to_rad(70))
 
 func add_rage(amount: float) -> void:
+	if !is_alive:
+		return
 	current_rage_level = min(current_rage_level + amount, max_rage_level)
 	rage_level.emit((current_rage_level / max_rage_level) * 100)
 
@@ -81,12 +84,16 @@ func use_rage(cost: float) -> bool:
 		return true
 	return false
 
+func kill() -> void:
+	is_alive = false
+
+
 func hit_person():
 	current_speed = 0
 	velocity.x = 0
 	velocity.z = 0
 	is_dashing = false
-	if freeze_timer.is_stopped() or !is_frozen:
+	if (freeze_timer.is_stopped() or !is_frozen) and is_alive:
 		freeze_timer.start()
 		cooldown.emit(freeze_timer.wait_time)
 		hit.emit()
