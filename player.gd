@@ -11,6 +11,7 @@ signal hit()
 @export var dash_speed: float = 60.0
 @export var max_rage_level: float = 1000.0
 @export var dash_cost: float = 100.0
+@export var jump_cost: float = 25.0
 var current_rage_level: float = 0.0
 var current_speed: float = 0
 var is_dashing: bool = false
@@ -33,19 +34,17 @@ func _physics_process(delta: float) -> void:
 
 	if Input.mouse_mode == Input.MOUSE_MODE_CAPTURED:
 		# Handle jump.
-		if Input.is_action_just_pressed("move_jump") and is_on_floor():
+		if Input.is_action_just_pressed("move_jump") and is_on_floor() and use_rage(jump_cost):
 			velocity.y = jump_velocity
 
 		# Get the input direction and handle the movement/deceleration.
 		var input_dir := Input.get_vector("move_left", "move_right", "move_foward", "move_backward")
 		var direction := (transform.basis * Vector3(input_dir.x, 0, input_dir.y)).normalized()
 		if direction and !is_dashing:
-			if Input.is_action_just_pressed("move_dash") and current_rage_level >= dash_cost:
+			if Input.is_action_just_pressed("move_dash") and use_rage(dash_cost):
 				$DashTimer.start()
 				is_dashing = true
 				current_speed = dash_speed
-				current_rage_level -= dash_cost
-				rage_level.emit(current_rage_level / max_rage_level)
 			elif $DashTimer.is_stopped():
 				current_speed = min(current_speed + acceleration, max_speed)
 			velocity.x = direction.x * current_speed
@@ -69,12 +68,19 @@ func _input(event: InputEvent) -> void:
 		camera.rotate_x(-event.relative.y * mouse_sensitivity)
 		camera.rotation.x = clampf(camera.rotation.x, -deg_to_rad(70), deg_to_rad(70))
 
+func use_rage(cost: float) -> bool:
+	if current_rage_level >= cost:
+		current_rage_level -= cost
+		rage_level.emit(current_rage_level / max_rage_level)
+		return true
+	return false
+
 func hit_person():
 	hit.emit()
 	current_speed = 0
 	is_dashing = false
 
-func _on_hit_box_body_shape_entered(body_rid: RID, body: Node3D, body_shape_index: int, local_shape_index: int) -> void:
+func _on_hit_box_body_shape_entered(_body_rid: RID, body: Node3D, _body_shape_index: int, _local_shape_index: int) -> void:
 	if body is CharacterBody3D and body != self:
 		hit_person()
 
