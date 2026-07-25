@@ -16,6 +16,7 @@ ambient_light_color = Color(1, 1, 1, 1)
 
 [node name="PlayerBody" type="CharacterBody3D" unique_id=1754152850]
 script = ExtResource("1_igigs")
+max_speed = 20.0
 acceleration = 0.5
 deceleration = 1.0
 
