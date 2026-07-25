@@ -6,14 +6,15 @@ signal hit()
 
 @export var jump_velocity: float = 4.5
 @export var mouse_sensitivity: float = 0.01
-@export var max_speed: float = 5.0
-@export var acceleration: float = 5.0
-@export var deceleration: float = 5.0
+@export var max_speed: float = 25.0
+@export var acceleration: float = 4.0
+@export var deceleration: float = 40.0
 @export var dash_speed: float = 60.0
 @export var max_rage_level: float = 1000.0
 @export var dash_cost: float = 100.0
 @export var jump_cost: float = 25.0
 @export var unstuck_rage_bonus: float = 100.0
+@export var max_rage_gain_speed: float = 50.0
 
 @onready var dash_timer: Timer = $DashTimer
 @onready var freeze_timer: Timer = $FreezeTimer
@@ -28,10 +29,8 @@ var is_frozen: bool = false
 var mouse_motion: Vector2 = Vector2()
 
 func _process(delta: float) -> void:
-	if velocity.x == 0 and velocity.z == 0:
-		add_rage(10 * delta)
-	else:
-		add_rage(1 * delta)
+	if !is_dashing:
+		add_rage((1 - (current_speed / max_speed)) * max_rage_gain_speed * delta)
 
 func _physics_process(delta: float) -> void:
 	if not is_on_floor():
@@ -49,13 +48,13 @@ func _physics_process(delta: float) -> void:
 					is_dashing = true
 					current_speed = dash_speed
 				else:
-					current_speed = min(current_speed + acceleration, max_speed)
+					current_speed = min(current_speed + (acceleration * delta), max_speed)
 				velocity.x = direction.x * current_speed
 				velocity.z = direction.z * current_speed
-			elif !is_dashing:
-				current_speed = max(current_speed - deceleration, 0)
-				velocity.x = move_toward(velocity.x, 0, deceleration)
-				velocity.z = move_toward(velocity.z, 0, deceleration)
+			elif !is_dashing and is_on_floor():
+				current_speed = max(current_speed - (deceleration * delta), 0)
+				velocity.x = move_toward(velocity.x, 0, deceleration * delta)
+				velocity.z = move_toward(velocity.z, 0, deceleration * delta)
 
 	move_and_slide()
 
