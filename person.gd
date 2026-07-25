@@ -40,8 +40,9 @@ func start_new_goal() -> void:
 	goal_path.progress_ratio = rng.randf()
 	goal_position = goal_path.global_position
 
-	global_position.x = spawn_point_path.global_position.x
-	global_position.z = spawn_point_path.global_position.z
+	#global_position.x = spawn_point_path.global_position.x
+	#global_position.z = spawn_point_path.global_position.z
+	global_position = spawn_point_path.global_position
 	velocity = Vector3.ZERO
 	reset_physics_interpolation.call_deferred()
 	navigation_agent.set_target_position.call_deferred(goal_position)
