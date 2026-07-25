@@ -1,6 +1,7 @@
 extends CharacterBody3D
 
 signal rage_level(level: float)
+signal cooldown(duration: float)
 signal hit()
 
 @export var jump_velocity: float = 4.5
@@ -88,6 +89,7 @@ func hit_person():
 	is_dashing = false
 	if freeze_timer.is_stopped() or !is_frozen:
 		freeze_timer.start()
+		cooldown.emit(freeze_timer.wait_time)
 		hit.emit()
 		is_frozen = true
 

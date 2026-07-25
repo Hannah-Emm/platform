@@ -1,9 +1,13 @@
 [gd_scene format=3 uid="uid://dwsa40ry2jpru"]
 
 [ext_resource type="Script" uid="uid://5k5om4dmgyt" path="res://rage_bar.gd" id="1_37p78"]
+[ext_resource type="Script" uid="uid://dp4jauyrtndqf" path="res://cooldown_bar.gd" id="2_n10im"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_d4yu0"]
 bg_color = Color(0.6985559, 0, 0.036940448, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_sndfc"]
+bg_color = Color(1, 1, 1, 1)
 
 [node name="HUD" type="CanvasLayer" unique_id=182429545]
 
@@ -20,3 +24,20 @@ size_flags_vertical = 4
 theme_override_styles/fill = SubResource("StyleBoxFlat_d4yu0")
 show_percentage = false
 script = ExtResource("1_37p78")
+
+[node name="CooldownBar" type="ProgressBar" parent="." unique_id=1018512946]
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -138.5
+offset_top = -27.0
+offset_right = 138.5
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/fill = SubResource("StyleBoxFlat_sndfc")
+show_percentage = false
+script = ExtResource("2_n10im")
