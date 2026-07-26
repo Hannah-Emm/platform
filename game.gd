@@ -15,6 +15,7 @@ func _ready() -> void:
 	reset_level()
 
 func reset_level() -> void:
+	display_message.emit("")
 	get_tree().call_group("People", "queue_free")
 	spawn_people()
 	spawn_player()
