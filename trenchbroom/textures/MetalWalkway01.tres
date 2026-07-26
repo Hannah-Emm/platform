@@ -1,8 +1,0 @@
-[gd_resource type="StandardMaterial3D" format=3 uid="uid://dh20iv54us0g6"]
-
-[ext_resource type="Texture2D" uid="uid://bpcosb0w1qtnx" path="res://trenchbroom/textures/MetalWalkway01.jpg" id="1_fbyet"]
-
-[resource]
-albedo_texture = ExtResource("1_fbyet")
-metallic_specular = 0.0
-texture_filter = 2

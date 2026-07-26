@@ -1,8 +1,0 @@
-[gd_resource type="StandardMaterial3D" format=3 uid="uid://dvxnjx5ct4fvj"]
-
-[ext_resource type="Texture2D" uid="uid://beja54smeyhp4" path="res://trenchbroom/textures/Terrazzo004.jpg" id="1_wurmy"]
-
-[resource]
-albedo_texture = ExtResource("1_wurmy")
-metallic_specular = 0.0
-texture_filter = 2

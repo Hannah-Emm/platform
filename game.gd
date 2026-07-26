@@ -76,5 +76,6 @@ func _on_finish_body_entered(body: Node3D) -> void:
 		reset_level()
 
 func _input(_event: InputEvent) -> void:
-	if waiting_to_reset and Input.is_action_just_pressed("action_reset"):
+	# if waiting_to_reset and Input.is_action_just_pressed("action_reset"):
+	if Input.is_action_just_pressed("action_reset"):
 		reset_level()

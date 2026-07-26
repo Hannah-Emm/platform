@@ -2,16 +2,16 @@
 
 [ext_resource type="Script" uid="uid://cwu5cf7a0awcd" path="res://addons/func_godot/src/map/func_godot_map.gd" id="1_qyg83"]
 [ext_resource type="Resource" uid="uid://bkhxcqsquw1yg" path="res://addons/func_godot/func_godot_default_map_settings.tres" id="2_ko15c"]
-[ext_resource type="Texture2D" uid="uid://7kuuax824smi" path="res://trenchbroom/textures/Tiles141/Tiles141_Displacement.jpg" id="3_ko15c"]
-[ext_resource type="Texture2D" uid="uid://hoonqusbh48w" path="res://trenchbroom/textures/Tiles141.jpg" id="4_xkhh4"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_udpkv"]
-albedo_texture = ExtResource("3_ko15c")
 metallic_specular = 0.0
 texture_filter = 2
 
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_atoot"]
+load_path = "res://.godot/imported/Tiles141.jpg-10bcb4381ab307249bf513f79a83d2ee.s3tc.ctex"
+
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_kr6mp"]
-albedo_texture = ExtResource("4_xkhh4")
+albedo_texture = SubResource("CompressedTexture2D_atoot")
 metallic_specular = 0.0
 texture_filter = 2
 
