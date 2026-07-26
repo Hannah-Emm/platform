@@ -1,6 +1,8 @@
 [gd_scene format=3 uid="uid://4ypf5a8phhak"]
 
 [ext_resource type="Script" uid="uid://dpaxefdxeu02m" path="res://player.gd" id="1_igigs"]
+[ext_resource type="AudioStream" uid="uid://dtq28jqtgvi7a" path="res://audio/universfield-combat-impact-352458.mp3" id="2_kne1u"]
+[ext_resource type="AudioStream" uid="uid://5dihp1icslba" path="res://audio/soundreality-whoosh-bamboo-389752.mp3" id="3_kne1u"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_nh7yb"]
 
@@ -45,6 +47,12 @@ one_shot = true
 [node name="FreezeTimer" type="Timer" parent="." unique_id=1451416954]
 wait_time = 0.5
 one_shot = true
+
+[node name="ImpactPersonSound" type="AudioStreamPlayer" parent="." unique_id=1390439908]
+stream = ExtResource("2_kne1u")
+
+[node name="DashSound" type="AudioStreamPlayer" parent="." unique_id=2068959285]
+stream = ExtResource("3_kne1u")
 
 [connection signal="body_shape_entered" from="HitBox" to="." method="_on_hit_box_body_shape_entered"]
 [connection signal="timeout" from="DashTimer" to="." method="_on_dash_timer_timeout"]

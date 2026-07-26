@@ -9,3 +9,5 @@ func _ready() -> void:
 		var person = person_scene.instantiate()
 		add_child(person)
 		person.add_to_group("People")
+		$CrowdSound.play()
+		$PlatformSound.play()

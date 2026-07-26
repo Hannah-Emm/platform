@@ -47,6 +47,7 @@ func _physics_process(delta: float) -> void:
 					dash_timer.start()
 					is_dashing = true
 					current_speed = dash_speed
+					$DashSound.play()
 				else:
 					current_speed = min(current_speed + (acceleration * delta), max_speed)
 				velocity.x = direction.x * current_speed
@@ -86,6 +87,7 @@ func hit_person():
 	velocity.x = 0
 	velocity.z = 0
 	is_dashing = false
+	$ImpactPersonSound.play()
 	if freeze_timer.is_stopped() or !is_frozen:
 		freeze_timer.start()
 		cooldown.emit(freeze_timer.wait_time)
