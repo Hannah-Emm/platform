@@ -4,6 +4,7 @@
 [ext_resource type="Script" uid="uid://dp4jauyrtndqf" path="res://cooldown_bar.gd" id="2_n10im"]
 [ext_resource type="Script" uid="uid://me2uaffsmnib" path="res://countdown_display.gd" id="3_u6ohr"]
 [ext_resource type="Script" uid="uid://bu1l5y8odbubf" path="res://message.gd" id="4_6quqj"]
+[ext_resource type="Script" uid="uid://dicua26vcj6wp" path="res://temporary_message.gd" id="5_5e3vm"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_d4yu0"]
 bg_color = Color(0.6985559, 0, 0.036940448, 1)
@@ -16,6 +17,9 @@ font_size = 32
 
 [sub_resource type="LabelSettings" id="LabelSettings_5e3vm"]
 font_size = 64
+
+[sub_resource type="LabelSettings" id="LabelSettings_8hvrr"]
+font_size = 32
 
 [node name="HUD" type="CanvasLayer" unique_id=182429545]
 
@@ -74,3 +78,17 @@ grow_vertical = 2
 size_flags_horizontal = 4
 label_settings = SubResource("LabelSettings_5e3vm")
 script = ExtResource("4_6quqj")
+
+[node name="TemporaryMessage" type="Label" parent="." unique_id=908756840]
+anchors_preset = 13
+anchor_left = 0.5
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -0.5
+offset_top = 41.0
+offset_right = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+label_settings = SubResource("LabelSettings_8hvrr")
+script = ExtResource("5_5e3vm")

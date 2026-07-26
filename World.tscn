@@ -3045,20 +3045,6 @@ curve = SubResource("Curve3D_p1v5b")
 [node name="Path" type="PathFollow3D" parent="Goal4" unique_id=1219294099]
 transform = Transform3D(-0.012623732, 0, -0.99992007, 0, 0.99999976, 0, 0.9999201, 0, -0.012623731, -5.717758, -1, -2.8221588)
 
-[node name="Goal5" type="Path3D" parent="." unique_id=384834077 groups=["Goals"]]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9, -4, -40)
-curve = SubResource("Curve3D_p1v5b")
-
-[node name="Path" type="PathFollow3D" parent="Goal5" unique_id=1283276845]
-transform = Transform3D(-0.012623732, 0, -0.99992007, 0, 0.99999976, 0, 0.9999201, 0, -0.012623731, -5.717758, -1, -2.8221588)
-
-[node name="Goal6" type="Path3D" parent="." unique_id=1186786356 groups=["Goals"]]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -4, -40)
-curve = SubResource("Curve3D_p1v5b")
-
-[node name="Path" type="PathFollow3D" parent="Goal6" unique_id=1173330124]
-transform = Transform3D(-0.012623732, 0, -0.99992007, 0, 0.99999976, 0, 0.9999201, 0, -0.012623731, -5.717758, -1, -2.8221588)
-
 [node name="Goal7" type="Path3D" parent="." unique_id=2052897079 groups=["Goals"]]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 14, -4, 87)
 curve = SubResource("Curve3D_p1v5b")
@@ -3129,17 +3115,30 @@ wait_time = 18.0
 one_shot = true
 autostart = true
 
-[node name="Finish" type="Area3D" parent="." unique_id=1093085811]
-transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -209.51682, -2.5363495, 67.56607)
+[node name="PlayerGoal1" type="Area3D" parent="." unique_id=1369435518 groups=["PlayerGoals"]]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -4.929475, -2.4067621, -43.971455)
+metadata/platform_color = "Green"
 
-[node name="CollisionShape3D" type="CollisionShape3D" parent="Finish" unique_id=444467818]
+[node name="CollisionShape3D" type="CollisionShape3D" parent="PlayerGoal1" unique_id=1716893354]
 transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0)
 shape = SubResource("BoxShape3D_sndfc")
 
-[node name="MeshInstance3D" type="MeshInstance3D" parent="Finish" unique_id=684369745]
-transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0.096343994, 0, -2.9738007)
+[node name="MeshInstance3D" type="MeshInstance3D" parent="PlayerGoal1" unique_id=941025775]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0)
+mesh = SubResource("BoxMesh_sndfc")
+surface_material_override/0 = SubResource("StandardMaterial3D_wygdx")
+
+[node name="PlayerGoal2" type="Area3D" parent="." unique_id=1093085811 groups=["PlayerGoals"]]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -212.4827, -2.5363495, 67.56607)
+metadata/platform_color = "Red"
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="PlayerGoal2" unique_id=444467818]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0)
+shape = SubResource("BoxShape3D_sndfc")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="PlayerGoal2" unique_id=684369745]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0)
 mesh = SubResource("BoxMesh_sndfc")
 surface_material_override/0 = SubResource("StandardMaterial3D_wygdx")
 
 [connection signal="timeout" from="LevelTimer" to="." method="_on_level_timer_timeout"]
-[connection signal="body_entered" from="Finish" to="." method="_on_finish_body_entered"]
