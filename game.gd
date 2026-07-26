@@ -1,6 +1,7 @@
 extends Node3D
 
 signal display_message(message: String)
+signal display_temporary_message(message: String, duration: float)
 
 @export var person_count: int = 25
 
@@ -38,6 +39,7 @@ func spawn_player() -> void:
 	goal_point = goals.pop_front()
 	goal_point.body_entered.connect(_on_finish_body_entered.bind())
 	goal_point.show()
+	display_temporary_message.emit("Your train is on the " + goal_point.get_meta("platform_color") + " platform!", 5.0)
 
 	player.global_position = spawn_point.global_position
 	player.rotation = spawn_point.rotation
