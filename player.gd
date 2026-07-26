@@ -5,7 +5,7 @@ signal cooldown(duration: float)
 signal hit()
 
 @export var jump_velocity: float = 4.5
-@export var mouse_sensitivity: float = 0.01
+@export var mouse_sensitivity: float = 0.005
 @export var max_speed: float = 25.0
 @export var acceleration: float = 4.0
 @export var deceleration: float = 40.0
