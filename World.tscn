@@ -3045,20 +3045,6 @@ curve = SubResource("Curve3D_p1v5b")
 [node name="Path" type="PathFollow3D" parent="Goal4" unique_id=1219294099]
 transform = Transform3D(-0.012623732, 0, -0.99992007, 0, 0.99999976, 0, 0.9999201, 0, -0.012623731, -5.717758, -1, -2.8221588)
 
-[node name="Goal5" type="Path3D" parent="." unique_id=384834077 groups=["Goals"]]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9, -4, -40)
-curve = SubResource("Curve3D_p1v5b")
-
-[node name="Path" type="PathFollow3D" parent="Goal5" unique_id=1283276845]
-transform = Transform3D(-0.012623732, 0, -0.99992007, 0, 0.99999976, 0, 0.9999201, 0, -0.012623731, -5.717758, -1, -2.8221588)
-
-[node name="Goal6" type="Path3D" parent="." unique_id=1186786356 groups=["Goals"]]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -4, -40)
-curve = SubResource("Curve3D_p1v5b")
-
-[node name="Path" type="PathFollow3D" parent="Goal6" unique_id=1173330124]
-transform = Transform3D(-0.012623732, 0, -0.99992007, 0, 0.99999976, 0, 0.9999201, 0, -0.012623731, -5.717758, -1, -2.8221588)
-
 [node name="Goal7" type="Path3D" parent="." unique_id=2052897079 groups=["Goals"]]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 14, -4, 87)
 curve = SubResource("Curve3D_p1v5b")
