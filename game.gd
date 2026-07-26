@@ -30,11 +30,14 @@ func spawn_player() -> void:
 	if goal_point != null:
 		goal_point.body_entered.disconnect(_on_finish_body_entered.bind())
 
+	get_tree().call_group("PlayerGoals", "hide")
 	var goals = get_tree().get_nodes_in_group("PlayerGoals").duplicate()
 	goals.shuffle()
 	var spawn_point: Node3D = goals.pop_front()
 	goal_point = goals.pop_front()
 	goal_point.body_entered.connect(_on_finish_body_entered.bind())
+	goal_point.show()
+
 
 	player.global_position = spawn_point.global_position
 	player.rotation = spawn_point.rotation
