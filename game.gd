@@ -38,10 +38,10 @@ func spawn_player() -> void:
 	goal_point.body_entered.connect(_on_finish_body_entered.bind())
 	goal_point.show()
 
-
 	player.global_position = spawn_point.global_position
 	player.rotation = spawn_point.rotation
 	player.velocity = Vector3.ZERO
+	player.reset()
 	player.reset_physics_interpolation.call_deferred()
 
 func reset_timer() -> void:
@@ -53,7 +53,7 @@ func _on_level_timer_timeout() -> void:
 	player.kill()
 
 func _on_finish_body_entered(body: Node3D) -> void:
-	if body == player:
+	if body == player and player.is_alive():
 		display_message.emit("You win!")
 		level_timer.paused = true
 		player.kill()

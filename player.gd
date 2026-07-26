@@ -19,18 +19,18 @@ signal hit()
 @onready var dash_timer: Timer = $DashTimer
 @onready var freeze_timer: Timer = $FreezeTimer
 
-var is_alive: bool = true
+var alive: bool = true
 var current_rage_level: float = 0.0
 var current_speed: float = 0
-var is_dashing: bool = false
-var is_frozen: bool = false
+var dashing: bool = false
+var frozen: bool = false
 
 
 @onready var camera: Camera3D = $Camera3D
 var mouse_motion: Vector2 = Vector2()
 
 func _process(delta: float) -> void:
-	if !is_dashing:
+	if !dashing:
 		add_rage((1 - (current_speed / max_speed)) * max_rage_gain_speed * delta)
 
 func _physics_process(delta: float) -> void:
@@ -38,21 +38,21 @@ func _physics_process(delta: float) -> void:
 		velocity += get_gravity() * delta
 
 	if Input.mouse_mode == Input.MOUSE_MODE_CAPTURED:
-		if is_alive and Input.is_action_just_pressed("move_jump") and is_on_floor() and use_rage(jump_cost):
+		if alive and Input.is_action_just_pressed("move_jump") and is_on_floor() and use_rage(jump_cost):
 			velocity.y = jump_velocity
-		if !is_frozen:
+		if !frozen:
 			var input_dir := Input.get_vector("move_left", "move_right", "move_foward", "move_backward")
 			var direction := (transform.basis * Vector3(input_dir.x, 0, input_dir.y)).normalized()
-			if direction and !is_dashing and is_alive:
+			if direction and !dashing and alive:
 				if Input.is_action_just_pressed("move_dash") and use_rage(dash_cost):
 					dash_timer.start()
-					is_dashing = true
+					dashing = true
 					current_speed = dash_speed
 				else:
 					current_speed = min(current_speed + (acceleration * delta), max_speed)
 				velocity.x = direction.x * current_speed
 				velocity.z = direction.z * current_speed
-			elif !is_dashing and is_on_floor():
+			elif !dashing and is_on_floor():
 				current_speed = max(current_speed - (deceleration * delta), 0)
 				velocity.x = move_toward(velocity.x, 0, deceleration * delta)
 				velocity.z = move_toward(velocity.z, 0, deceleration * delta)
@@ -72,7 +72,7 @@ func _input(event: InputEvent) -> void:
 		camera.rotation.x = clampf(camera.rotation.x, -deg_to_rad(70), deg_to_rad(70))
 
 func add_rage(amount: float) -> void:
-	if !is_alive:
+	if !alive:
 		return
 	current_rage_level = min(current_rage_level + amount, max_rage_level)
 	rage_level.emit((current_rage_level / max_rage_level) * 100)
@@ -85,22 +85,29 @@ func use_rage(cost: float) -> bool:
 	return false
 
 func kill() -> void:
-	is_alive = false
+	alive = false
 
+func reset() -> void:
+	alive = true
+	current_rage_level = 0
+	rage_level.emit(0)
+
+func is_alive() -> bool:
+	return alive
 
 func hit_person():
 	current_speed = 0
 	velocity.x = 0
 	velocity.z = 0
-	is_dashing = false
-	if (freeze_timer.is_stopped() or !is_frozen) and is_alive:
+	dashing = false
+	if (freeze_timer.is_stopped() or !frozen) and alive:
 		freeze_timer.start()
 		cooldown.emit(freeze_timer.wait_time)
 		hit.emit()
-		is_frozen = true
+		frozen = true
 
 func _on_hit_box_body_shape_entered(_body_rid: RID, body: Node3D, _body_shape_index: int, _local_shape_index: int) -> void:
-	if !is_frozen and body is CharacterBody3D and body != self:
+	if !frozen and body is CharacterBody3D and body != self:
 		var is_player_facing: bool = global_position.direction_to(body.global_position).dot(-global_transform.basis.z) > 0
 		var is_player_moving_towards: bool = global_position.direction_to(body.global_position).dot(velocity.normalized()) > 0
 		print("Hit! Player facing: ", str(is_player_facing), " moving towards: ", str(is_player_moving_towards))
@@ -109,8 +116,8 @@ func _on_hit_box_body_shape_entered(_body_rid: RID, body: Node3D, _body_shape_in
 
 func _on_dash_timer_timeout() -> void:
 	current_speed = max_speed
-	is_dashing = false
+	dashing = false
 
 func _on_freeze_timer_timeout() -> void:
 	add_rage(unstuck_rage_bonus)
-	is_frozen = false
+	frozen = false
