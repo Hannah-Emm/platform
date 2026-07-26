@@ -14,6 +14,7 @@ var person_scene = load("res://Person.tscn")
 var person_count: int = initial_person_count
 var goal_point: Area3D
 var waiting_to_reset: bool = false
+var trains_caught: int = 0
 
 func _ready() -> void:
 	reset_level()
@@ -21,6 +22,7 @@ func _ready() -> void:
 func reset_level() -> void:
 	waiting_to_reset = false
 	display_message.emit("")
+	trains_caught = 0
 	get_tree().call_group("People", "queue_free")
 	spawn_people()
 	spawn_player()
@@ -56,7 +58,7 @@ func reset_timer() -> void:
 	level_timer.start()
 
 func _on_level_timer_timeout() -> void:
-	display_message.emit("You missed the train!\nPress Q to try again")
+	display_message.emit("You missed the train!\n\nTrains caught: " + str(trains_caught) + "\nPress Q to try again")
 	player.kill()
 	person_count = initial_person_count
 	waiting_to_reset = true
@@ -67,6 +69,7 @@ func _on_finish_body_entered(body: Node3D) -> void:
 		level_timer.paused = true
 		player.kill()
 		person_count += person_count_increment
+		trains_caught += 1
 		await get_tree().create_timer(2.0).timeout
 		display_message.emit("But you have another train to catch...")
 		await get_tree().create_timer(2.0).timeout
