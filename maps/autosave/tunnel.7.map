@@ -1348,21 +1348,21 @@
 }
 // brush 149
 {
-( 1792 -6832 -160 ) ( 1792 -6831 -160 ) ( 1792 -6832 -159 ) kenney_prototype-textures/PNG/Green/texture_02 192 256 0 0.25 0.25
-( 2048 -6960 -176 ) ( 2047 -6960 -176 ) ( 2048 -6960 -175 ) kenney_prototype-textures/PNG/Green/texture_02 0 256 180 0.25 -0.25
-( 2048 -6960 -176 ) ( 2048 -6959 -176 ) ( 2047 -6960 -176 ) kenney_prototype-textures/PNG/Green/texture_02 192 0 90 0.25 0.25
-( 1920 -6832 -160 ) ( 1919 -6832 -160 ) ( 1920 -6831 -160 ) kenney_prototype-textures/PNG/Green/texture_02 192 0 90 0.25 0.25
-( 1920 -6704 -160 ) ( 1920 -6704 -159 ) ( 1919 -6704 -160 ) kenney_prototype-textures/PNG/Green/texture_02 0 256 180 0.25 -0.25
-( 2048 -6960 -176 ) ( 2048 -6960 -175 ) ( 2048 -6959 -176 ) kenney_prototype-textures/PNG/Green/texture_02 192 256 0 0.25 0.25
+( 1792 -6832 -160 ) ( 1792 -6831 -160 ) ( 1792 -6832 -159 ) kenney_prototype-textures/PNG/Light/texture_06 192 256 0 0.25 0.25
+( 2048 -6960 -176 ) ( 2047 -6960 -176 ) ( 2048 -6960 -175 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 180 0.25 -0.25
+( 2048 -6960 -176 ) ( 2048 -6959 -176 ) ( 2047 -6960 -176 ) kenney_prototype-textures/PNG/Light/texture_06 192 0 90 0.25 0.25
+( 1920 -6832 -160 ) ( 1919 -6832 -160 ) ( 1920 -6831 -160 ) kenney_prototype-textures/PNG/Light/texture_06 192 0 90 0.25 0.25
+( 1920 -6704 -160 ) ( 1920 -6704 -159 ) ( 1919 -6704 -160 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 180 0.25 -0.25
+( 2048 -6960 -176 ) ( 2048 -6960 -175 ) ( 2048 -6959 -176 ) kenney_prototype-textures/PNG/Light/texture_06 192 256 0 0.25 0.25
 }
 // brush 150
 {
-( 1536 -6832 -160 ) ( 1536 -6831 -160 ) ( 1536 -6832 -159 ) kenney_prototype-textures/PNG/Green/texture_02 192 256 0 0.25 0.25
-( 1792 -6960 -176 ) ( 1791 -6960 -176 ) ( 1792 -6960 -175 ) kenney_prototype-textures/PNG/Green/texture_02 0 256 180 0.25 -0.25
-( 1792 -6960 -176 ) ( 1792 -6959 -176 ) ( 1791 -6960 -176 ) kenney_prototype-textures/PNG/Green/texture_02 192 0 90 0.25 0.25
-( 1664 -6832 -160 ) ( 1663 -6832 -160 ) ( 1664 -6831 -160 ) kenney_prototype-textures/PNG/Green/texture_02 192 0 90 0.25 0.25
-( 1664 -6704 -160 ) ( 1664 -6704 -159 ) ( 1663 -6704 -160 ) kenney_prototype-textures/PNG/Green/texture_02 0 256 180 0.25 -0.25
-( 1792 -6960 -176 ) ( 1792 -6960 -175 ) ( 1792 -6959 -176 ) kenney_prototype-textures/PNG/Green/texture_02 192 256 0 0.25 0.25
+( 1536 -6832 -160 ) ( 1536 -6831 -160 ) ( 1536 -6832 -159 ) kenney_prototype-textures/PNG/Light/texture_06 192 256 0 0.25 0.25
+( 1792 -6960 -176 ) ( 1791 -6960 -176 ) ( 1792 -6960 -175 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 180 0.25 -0.25
+( 1792 -6960 -176 ) ( 1792 -6959 -176 ) ( 1791 -6960 -176 ) kenney_prototype-textures/PNG/Light/texture_06 192 0 90 0.25 0.25
+( 1664 -6832 -160 ) ( 1663 -6832 -160 ) ( 1664 -6831 -160 ) kenney_prototype-textures/PNG/Light/texture_06 192 0 90 0.25 0.25
+( 1664 -6704 -160 ) ( 1664 -6704 -159 ) ( 1663 -6704 -160 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 180 0.25 -0.25
+( 1792 -6960 -176 ) ( 1792 -6960 -175 ) ( 1792 -6959 -176 ) kenney_prototype-textures/PNG/Light/texture_06 192 256 0 0.25 0.25
 }
 // brush 151
 {
@@ -2626,21 +2626,21 @@
 }
 // brush 291
 {
-( -1792 -304 -176 ) ( -1792 -303 -176 ) ( -1792 -304 -175 ) kenney_prototype-textures/PNG/Orange/texture_02 192 256 0 0.25 0.25
-( -1792 -304 -176 ) ( -1792 -304 -175 ) ( -1791 -304 -176 ) kenney_prototype-textures/PNG/Orange/texture_02 0 256 0 0.25 0.25
-( -1792 -304 -176 ) ( -1791 -304 -176 ) ( -1792 -303 -176 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -192 0 0.25 0.25
-( -1664 -176 -160 ) ( -1664 -175 -160 ) ( -1663 -176 -160 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -192 0 0.25 0.25
-( -1664 -48 -160 ) ( -1663 -48 -160 ) ( -1664 -48 -159 ) kenney_prototype-textures/PNG/Orange/texture_02 0 256 0 0.25 0.25
-( -1536 -176 -160 ) ( -1536 -176 -159 ) ( -1536 -175 -160 ) kenney_prototype-textures/PNG/Orange/texture_02 192 256 0 0.25 0.25
+( -1792 -304 -176 ) ( -1792 -303 -176 ) ( -1792 -304 -175 ) kenney_prototype-textures/PNG/Light/texture_06 192 256 0 0.25 0.25
+( -1792 -304 -176 ) ( -1792 -304 -175 ) ( -1791 -304 -176 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 0 0.25 0.25
+( -1792 -304 -176 ) ( -1791 -304 -176 ) ( -1792 -303 -176 ) kenney_prototype-textures/PNG/Light/texture_06 0 -192 0 0.25 0.25
+( -1664 -176 -160 ) ( -1664 -175 -160 ) ( -1663 -176 -160 ) kenney_prototype-textures/PNG/Light/texture_06 0 -192 0 0.25 0.25
+( -1664 -48 -160 ) ( -1663 -48 -160 ) ( -1664 -48 -159 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 0 0.25 0.25
+( -1536 -176 -160 ) ( -1536 -176 -159 ) ( -1536 -175 -160 ) kenney_prototype-textures/PNG/Light/texture_06 192 256 0 0.25 0.25
 }
 // brush 292
 {
-( -1792 -560 -176 ) ( -1792 -559 -176 ) ( -1792 -560 -175 ) kenney_prototype-textures/PNG/Orange/texture_02 192 256 0 0.25 0.25
-( -1792 -560 -176 ) ( -1792 -560 -175 ) ( -1791 -560 -176 ) kenney_prototype-textures/PNG/Orange/texture_02 0 256 0 0.25 0.25
-( -1792 -560 -176 ) ( -1791 -560 -176 ) ( -1792 -559 -176 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -192 0 0.25 0.25
-( -1664 -432 -160 ) ( -1664 -431 -160 ) ( -1663 -432 -160 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -192 0 0.25 0.25
-( -1664 -304 -160 ) ( -1663 -304 -160 ) ( -1664 -304 -159 ) kenney_prototype-textures/PNG/Orange/texture_02 0 256 0 0.25 0.25
-( -1536 -432 -160 ) ( -1536 -432 -159 ) ( -1536 -431 -160 ) kenney_prototype-textures/PNG/Orange/texture_02 192 256 0 0.25 0.25
+( -1792 -560 -176 ) ( -1792 -559 -176 ) ( -1792 -560 -175 ) kenney_prototype-textures/PNG/Light/texture_06 192 256 0 0.25 0.25
+( -1792 -560 -176 ) ( -1792 -560 -175 ) ( -1791 -560 -176 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 0 0.25 0.25
+( -1792 -560 -176 ) ( -1791 -560 -176 ) ( -1792 -559 -176 ) kenney_prototype-textures/PNG/Light/texture_06 0 -192 0 0.25 0.25
+( -1664 -432 -160 ) ( -1664 -431 -160 ) ( -1663 -432 -160 ) kenney_prototype-textures/PNG/Light/texture_06 0 -192 0 0.25 0.25
+( -1664 -304 -160 ) ( -1663 -304 -160 ) ( -1664 -304 -159 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 0 0.25 0.25
+( -1536 -432 -160 ) ( -1536 -432 -159 ) ( -1536 -431 -160 ) kenney_prototype-textures/PNG/Light/texture_06 192 256 0 0.25 0.25
 }
 // brush 293
 {
@@ -4183,192 +4183,192 @@
 }
 // brush 464
 {
-( 1776 -6624 80 ) ( 1776 -6623 80 ) ( 1776 -6624 81 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1776 -6960 80 ) ( 1776 -6960 81 ) ( 1777 -6960 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1776 -6624 80 ) ( 1777 -6624 80 ) ( 1776 -6623 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1808 -6432 96 ) ( 1808 -6431 96 ) ( 1809 -6432 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1808 -3392 96 ) ( 1809 -3392 96 ) ( 1808 -3392 97 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1808 -6432 96 ) ( 1808 -6432 97 ) ( 1808 -6431 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
+( 1776 -6624 80 ) ( 1776 -6623 80 ) ( 1776 -6624 81 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1776 -6960 80 ) ( 1776 -6960 81 ) ( 1777 -6960 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1776 -6624 80 ) ( 1777 -6624 80 ) ( 1776 -6623 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1808 -6432 96 ) ( 1808 -6431 96 ) ( 1809 -6432 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1808 -3392 96 ) ( 1809 -3392 96 ) ( 1808 -3392 97 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1808 -6432 96 ) ( 1808 -6432 97 ) ( 1808 -6431 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
 }
 // brush 465
 {
-( 1776 -3392 80 ) ( 1776 -3391 80 ) ( 1776 -3392 81 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1776 -3392 80 ) ( 1776 -3392 81 ) ( 1777 -3392 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1776 -3392 80 ) ( 1777 -3392 80 ) ( 1776 -3391 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1872 -3360 96 ) ( 1872 -3359 96 ) ( 1873 -3360 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1872 -3360 96 ) ( 1873 -3360 96 ) ( 1872 -3360 97 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3312 -3360 96 ) ( 3312 -3360 97 ) ( 3312 -3359 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
+( 1776 -3392 80 ) ( 1776 -3391 80 ) ( 1776 -3392 81 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1776 -3392 80 ) ( 1776 -3392 81 ) ( 1777 -3392 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1776 -3392 80 ) ( 1777 -3392 80 ) ( 1776 -3391 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1872 -3360 96 ) ( 1872 -3359 96 ) ( 1873 -3360 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1872 -3360 96 ) ( 1873 -3360 96 ) ( 1872 -3360 97 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3312 -3360 96 ) ( 3312 -3360 97 ) ( 3312 -3359 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
 }
 // brush 466
 {
-( 3312 -3392 80 ) ( 3312 -3391 80 ) ( 3312 -3392 81 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3312 -3392 80 ) ( 3312 -3392 81 ) ( 3313 -3392 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3312 -3392 80 ) ( 3313 -3392 80 ) ( 3312 -3391 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3344 -3216 96 ) ( 3344 -3215 96 ) ( 3345 -3216 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3344 -832 96 ) ( 3345 -832 96 ) ( 3344 -832 97 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3344 -3216 96 ) ( 3344 -3216 97 ) ( 3344 -3215 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
+( 3312 -3392 80 ) ( 3312 -3391 80 ) ( 3312 -3392 81 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3312 -3392 80 ) ( 3312 -3392 81 ) ( 3313 -3392 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3312 -3392 80 ) ( 3313 -3392 80 ) ( 3312 -3391 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3344 -3216 96 ) ( 3344 -3215 96 ) ( 3345 -3216 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3344 -832 96 ) ( 3345 -832 96 ) ( 3344 -832 97 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3344 -3216 96 ) ( 3344 -3216 97 ) ( 3344 -3215 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
 }
 // brush 467
 {
-( 2320 -832 80 ) ( 2320 -831 80 ) ( 2320 -832 81 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3008 -832 80 ) ( 3008 -832 81 ) ( 3009 -832 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3008 -832 80 ) ( 3009 -832 80 ) ( 3008 -831 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3344 -800 96 ) ( 3344 -799 96 ) ( 3345 -800 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3344 -800 96 ) ( 3345 -800 96 ) ( 3344 -800 97 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3344 -800 96 ) ( 3344 -800 97 ) ( 3344 -799 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
+( 2320 -832 80 ) ( 2320 -831 80 ) ( 2320 -832 81 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3008 -832 80 ) ( 3008 -832 81 ) ( 3009 -832 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3008 -832 80 ) ( 3009 -832 80 ) ( 3008 -831 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3344 -800 96 ) ( 3344 -799 96 ) ( 3345 -800 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3344 -800 96 ) ( 3345 -800 96 ) ( 3344 -800 97 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3344 -800 96 ) ( 3344 -800 97 ) ( 3344 -799 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
 }
 // brush 468
 {
-( 2288 -832 80 ) ( 2288 -831 80 ) ( 2288 -832 81 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2288 -832 80 ) ( 2288 -832 81 ) ( 2289 -832 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2288 -832 80 ) ( 2289 -832 80 ) ( 2288 -831 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2320 -320 96 ) ( 2320 -319 96 ) ( 2321 -320 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2320 -320 96 ) ( 2321 -320 96 ) ( 2320 -320 97 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2320 -320 96 ) ( 2320 -320 97 ) ( 2320 -319 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
+( 2288 -832 80 ) ( 2288 -831 80 ) ( 2288 -832 81 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2288 -832 80 ) ( 2288 -832 81 ) ( 2289 -832 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2288 -832 80 ) ( 2289 -832 80 ) ( 2288 -831 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2320 -320 96 ) ( 2320 -319 96 ) ( 2321 -320 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2320 -320 96 ) ( 2321 -320 96 ) ( 2320 -320 97 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2320 -320 96 ) ( 2320 -320 97 ) ( 2320 -319 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
 }
 // brush 469
 {
-( -1792 -320 80 ) ( -1792 -319 80 ) ( -1792 -320 81 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1904 -320 80 ) ( 1904 -320 81 ) ( 1905 -320 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 1904 -320 80 ) ( 1905 -320 80 ) ( 1904 -319 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2320 -288 96 ) ( 2320 -287 96 ) ( 2321 -288 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2320 -288 96 ) ( 2321 -288 96 ) ( 2320 -288 97 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2320 -288 96 ) ( 2320 -288 97 ) ( 2320 -287 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
+( -1792 -320 80 ) ( -1792 -319 80 ) ( -1792 -320 81 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1904 -320 80 ) ( 1904 -320 81 ) ( 1905 -320 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 1904 -320 80 ) ( 1905 -320 80 ) ( 1904 -319 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2320 -288 96 ) ( 2320 -287 96 ) ( 2321 -288 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2320 -288 96 ) ( 2321 -288 96 ) ( 2320 -288 97 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2320 -288 96 ) ( 2320 -288 97 ) ( 2320 -287 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
 }
 // brush 470
 {
-( 3344 -832 80 ) ( 3344 -831 80 ) ( 3344 -832 81 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3344 -832 80 ) ( 3344 -832 81 ) ( 3345 -832 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3344 -832 80 ) ( 3345 -832 80 ) ( 3344 -831 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3600 -800 96 ) ( 3600 -799 96 ) ( 3601 -800 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 3600 -800 96 ) ( 3601 -800 96 ) ( 3600 -800 97 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 4400 -800 96 ) ( 4400 -800 97 ) ( 4400 -799 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
+( 3344 -832 80 ) ( 3344 -831 80 ) ( 3344 -832 81 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3344 -832 80 ) ( 3344 -832 81 ) ( 3345 -832 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3344 -832 80 ) ( 3345 -832 80 ) ( 3344 -831 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3600 -800 96 ) ( 3600 -799 96 ) ( 3601 -800 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 3600 -800 96 ) ( 3601 -800 96 ) ( 3600 -800 97 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 4400 -800 96 ) ( 4400 -800 97 ) ( 4400 -799 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
 }
 // brush 471
 {
-( 4368 -1680 80 ) ( 4368 -1679 80 ) ( 4368 -1680 81 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 4368 -1856 80 ) ( 4368 -1856 81 ) ( 4369 -1856 80 ) kenney_prototype-textures/PNG/Light/texture_01 96 0 0 1 1
-( 4368 -1680 80 ) ( 4369 -1680 80 ) ( 4368 -1679 80 ) kenney_prototype-textures/PNG/Light/texture_01 96 0 0 1 1
-( 4400 -832 96 ) ( 4400 -831 96 ) ( 4401 -832 96 ) kenney_prototype-textures/PNG/Light/texture_01 96 0 0 1 1
-( 4400 -832 96 ) ( 4401 -832 96 ) ( 4400 -832 97 ) kenney_prototype-textures/PNG/Light/texture_01 96 0 0 1 1
-( 4400 -832 96 ) ( 4400 -832 97 ) ( 4400 -831 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
+( 4368 -1680 80 ) ( 4368 -1679 80 ) ( 4368 -1680 81 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 4368 -1856 80 ) ( 4368 -1856 81 ) ( 4369 -1856 80 ) kenney_prototype-textures/PNG/Orange/texture_10 96 0 0 1 1
+( 4368 -1680 80 ) ( 4369 -1680 80 ) ( 4368 -1679 80 ) kenney_prototype-textures/PNG/Orange/texture_10 96 0 0 1 1
+( 4400 -832 96 ) ( 4400 -831 96 ) ( 4401 -832 96 ) kenney_prototype-textures/PNG/Orange/texture_10 96 0 0 1 1
+( 4400 -832 96 ) ( 4401 -832 96 ) ( 4400 -832 97 ) kenney_prototype-textures/PNG/Orange/texture_10 96 0 0 1 1
+( 4400 -832 96 ) ( 4400 -832 97 ) ( 4400 -831 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
 }
 // brush 472
 {
-( 4400 -1856 80 ) ( 4400 -1855 80 ) ( 4400 -1856 81 ) kenney_prototype-textures/PNG/Light/texture_01 -256 0 0 1 1
-( 4400 -1856 80 ) ( 4400 -1856 81 ) ( 4401 -1856 80 ) kenney_prototype-textures/PNG/Light/texture_01 96 0 0 1 1
-( 4400 -1856 80 ) ( 4401 -1856 80 ) ( 4400 -1855 80 ) kenney_prototype-textures/PNG/Light/texture_01 96 256 0 1 1
-( 4496 -1824 96 ) ( 4496 -1823 96 ) ( 4497 -1824 96 ) kenney_prototype-textures/PNG/Light/texture_01 96 256 0 1 1
-( 4496 -1824 96 ) ( 4497 -1824 96 ) ( 4496 -1824 97 ) kenney_prototype-textures/PNG/Light/texture_01 96 0 0 1 1
-( 4912 -1824 96 ) ( 4912 -1824 97 ) ( 4912 -1823 96 ) kenney_prototype-textures/PNG/Light/texture_01 -256 0 0 1 1
+( 4400 -1856 80 ) ( 4400 -1855 80 ) ( 4400 -1856 81 ) kenney_prototype-textures/PNG/Orange/texture_10 -256 0 0 1 1
+( 4400 -1856 80 ) ( 4400 -1856 81 ) ( 4401 -1856 80 ) kenney_prototype-textures/PNG/Orange/texture_10 96 0 0 1 1
+( 4400 -1856 80 ) ( 4401 -1856 80 ) ( 4400 -1855 80 ) kenney_prototype-textures/PNG/Orange/texture_10 96 256 0 1 1
+( 4496 -1824 96 ) ( 4496 -1823 96 ) ( 4497 -1824 96 ) kenney_prototype-textures/PNG/Orange/texture_10 96 256 0 1 1
+( 4496 -1824 96 ) ( 4497 -1824 96 ) ( 4496 -1824 97 ) kenney_prototype-textures/PNG/Orange/texture_10 96 0 0 1 1
+( 4912 -1824 96 ) ( 4912 -1824 97 ) ( 4912 -1823 96 ) kenney_prototype-textures/PNG/Orange/texture_10 -256 0 0 1 1
 }
 // brush 473
 {
-( 4912 -1760 96 ) ( 4912 -1759 96 ) ( 4912 -1760 97 ) kenney_prototype-textures/PNG/Light/texture_01 208 0 0 1 1
-( 4944 -1856 80 ) ( 4943 -1856 80 ) ( 4944 -1856 81 ) kenney_prototype-textures/PNG/Light/texture_01 784 0 180 1 -1
-( 4944 -1856 80 ) ( 4944 -1855 80 ) ( 4943 -1856 80 ) kenney_prototype-textures/PNG/Light/texture_01 208 -784 90 1 1
-( 4912 -1760 96 ) ( 4911 -1760 96 ) ( 4912 -1759 96 ) kenney_prototype-textures/PNG/Light/texture_01 208 -784 90 1 1
-( 4912 -1344 96 ) ( 4912 -1344 97 ) ( 4911 -1344 96 ) kenney_prototype-textures/PNG/Light/texture_01 784 0 180 1 -1
-( 4944 -1856 80 ) ( 4944 -1856 81 ) ( 4944 -1855 80 ) kenney_prototype-textures/PNG/Light/texture_01 208 0 0 1 1
+( 4912 -1760 96 ) ( 4912 -1759 96 ) ( 4912 -1760 97 ) kenney_prototype-textures/PNG/Orange/texture_10 208 0 0 1 1
+( 4944 -1856 80 ) ( 4943 -1856 80 ) ( 4944 -1856 81 ) kenney_prototype-textures/PNG/Orange/texture_10 784 0 180 1 -1
+( 4944 -1856 80 ) ( 4944 -1855 80 ) ( 4943 -1856 80 ) kenney_prototype-textures/PNG/Orange/texture_10 208 -784 90 1 1
+( 4912 -1760 96 ) ( 4911 -1760 96 ) ( 4912 -1759 96 ) kenney_prototype-textures/PNG/Orange/texture_10 208 -784 90 1 1
+( 4912 -1344 96 ) ( 4912 -1344 97 ) ( 4911 -1344 96 ) kenney_prototype-textures/PNG/Orange/texture_10 784 0 180 1 -1
+( 4944 -1856 80 ) ( 4944 -1856 81 ) ( 4944 -1855 80 ) kenney_prototype-textures/PNG/Orange/texture_10 208 0 0 1 1
 }
 // brush 474
 {
-( 4944 -1376 80 ) ( 4944 -1375 80 ) ( 4944 -1376 81 ) kenney_prototype-textures/PNG/Light/texture_01 544 0 0 1 1
-( 4944 -1376 80 ) ( 4944 -1376 81 ) ( 4945 -1376 80 ) kenney_prototype-textures/PNG/Light/texture_01 -576 0 0 1 1
-( 4944 -1376 80 ) ( 4945 -1376 80 ) ( 4944 -1375 80 ) kenney_prototype-textures/PNG/Light/texture_01 -576 -544 0 1 1
-( 5200 -1344 96 ) ( 5200 -1343 96 ) ( 5201 -1344 96 ) kenney_prototype-textures/PNG/Light/texture_01 -576 -544 0 1 1
-( 5200 -1344 96 ) ( 5201 -1344 96 ) ( 5200 -1344 97 ) kenney_prototype-textures/PNG/Light/texture_01 -576 0 0 1 1
-( 5968 -1344 96 ) ( 5968 -1344 97 ) ( 5968 -1343 96 ) kenney_prototype-textures/PNG/Light/texture_01 544 0 0 1 1
+( 4944 -1376 80 ) ( 4944 -1375 80 ) ( 4944 -1376 81 ) kenney_prototype-textures/PNG/Orange/texture_10 544 0 0 1 1
+( 4944 -1376 80 ) ( 4944 -1376 81 ) ( 4945 -1376 80 ) kenney_prototype-textures/PNG/Orange/texture_10 -576 0 0 1 1
+( 4944 -1376 80 ) ( 4945 -1376 80 ) ( 4944 -1375 80 ) kenney_prototype-textures/PNG/Orange/texture_10 -576 -544 0 1 1
+( 5200 -1344 96 ) ( 5200 -1343 96 ) ( 5201 -1344 96 ) kenney_prototype-textures/PNG/Orange/texture_10 -576 -544 0 1 1
+( 5200 -1344 96 ) ( 5201 -1344 96 ) ( 5200 -1344 97 ) kenney_prototype-textures/PNG/Orange/texture_10 -576 0 0 1 1
+( 5968 -1344 96 ) ( 5968 -1344 97 ) ( 5968 -1343 96 ) kenney_prototype-textures/PNG/Orange/texture_10 544 0 0 1 1
 }
 // brush 475
 {
-( 5968 -1376 80 ) ( 5968 -1375 80 ) ( 5968 -1376 81 ) kenney_prototype-textures/PNG/Light/texture_01 544 0 0 1 1
-( 5968 -1376 80 ) ( 5968 -1376 81 ) ( 5969 -1376 80 ) kenney_prototype-textures/PNG/Light/texture_01 -576 0 0 1 1
-( 5968 -1376 80 ) ( 5969 -1376 80 ) ( 5968 -1375 80 ) kenney_prototype-textures/PNG/Light/texture_01 -576 -544 0 1 1
-( 6224 -1344 96 ) ( 6224 -1343 96 ) ( 6225 -1344 96 ) kenney_prototype-textures/PNG/Light/texture_01 -576 -544 0 1 1
-( 6224 -1344 96 ) ( 6225 -1344 96 ) ( 6224 -1344 97 ) kenney_prototype-textures/PNG/Light/texture_01 -576 0 0 1 1
-( 7168 -1344 96 ) ( 7168 -1344 97 ) ( 7168 -1343 96 ) kenney_prototype-textures/PNG/Light/texture_01 544 0 0 1 1
+( 5968 -1376 80 ) ( 5968 -1375 80 ) ( 5968 -1376 81 ) kenney_prototype-textures/PNG/Orange/texture_10 544 0 0 1 1
+( 5968 -1376 80 ) ( 5968 -1376 81 ) ( 5969 -1376 80 ) kenney_prototype-textures/PNG/Orange/texture_10 -576 0 0 1 1
+( 5968 -1376 80 ) ( 5969 -1376 80 ) ( 5968 -1375 80 ) kenney_prototype-textures/PNG/Orange/texture_10 -576 -544 0 1 1
+( 6224 -1344 96 ) ( 6224 -1343 96 ) ( 6225 -1344 96 ) kenney_prototype-textures/PNG/Orange/texture_10 -576 -544 0 1 1
+( 6224 -1344 96 ) ( 6225 -1344 96 ) ( 6224 -1344 97 ) kenney_prototype-textures/PNG/Orange/texture_10 -576 0 0 1 1
+( 7168 -1344 96 ) ( 7168 -1344 97 ) ( 7168 -1343 96 ) kenney_prototype-textures/PNG/Orange/texture_10 544 0 0 1 1
 }
 // brush 476
 {
-( 2512 -3360 80 ) ( 2512 -3359 80 ) ( 2512 -3360 81 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2512 -3360 80 ) ( 2512 -3360 81 ) ( 2513 -3360 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2512 -3360 80 ) ( 2513 -3360 80 ) ( 2512 -3359 80 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2544 -3072 96 ) ( 2544 -3071 96 ) ( 2545 -3072 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2544 -3104 96 ) ( 2545 -3104 96 ) ( 2544 -3104 97 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
-( 2544 -3072 96 ) ( 2544 -3072 97 ) ( 2544 -3071 96 ) kenney_prototype-textures/PNG/Light/texture_01 0 0 0 1 1
+( 2512 -3360 80 ) ( 2512 -3359 80 ) ( 2512 -3360 81 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2512 -3360 80 ) ( 2512 -3360 81 ) ( 2513 -3360 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2512 -3360 80 ) ( 2513 -3360 80 ) ( 2512 -3359 80 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2544 -3072 96 ) ( 2544 -3071 96 ) ( 2545 -3072 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2544 -3104 96 ) ( 2545 -3104 96 ) ( 2544 -3104 97 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
+( 2544 -3072 96 ) ( 2544 -3072 97 ) ( 2544 -3071 96 ) kenney_prototype-textures/PNG/Orange/texture_10 0 0 0 1 1
 }
 // brush 477
 {
-( 2512 -2080 80 ) ( 2512 -2080 81 ) ( 2512 -2081 80 ) kenney_prototype-textures/PNG/Light/texture_01 240 0 180 1 -1
-( 2544 -3104 96 ) ( 2544 -3104 97 ) ( 2545 -3104 96 ) kenney_prototype-textures/PNG/Light/texture_01 -272 0 0 1 1
-( 2512 -2080 80 ) ( 2512 -2081 80 ) ( 2513 -2080 80 ) kenney_prototype-textures/PNG/Light/texture_01 240 272 270 1 1
-( 2544 -2336 96 ) ( 2545 -2336 96 ) ( 2544 -2337 96 ) kenney_prototype-textures/PNG/Light/texture_01 240 272 270 1 1
-( 2512 -2080 80 ) ( 2513 -2080 80 ) ( 2512 -2080 81 ) kenney_prototype-textures/PNG/Light/texture_01 -272 0 0 1 1
-( 2544 -2336 96 ) ( 2544 -2337 96 ) ( 2544 -2336 97 ) kenney_prototype-textures/PNG/Light/texture_01 240 0 180 1 -1
+( 2512 -2080 80 ) ( 2512 -2080 81 ) ( 2512 -2081 80 ) kenney_prototype-textures/PNG/Orange/texture_10 240 0 180 1 -1
+( 2544 -3104 96 ) ( 2544 -3104 97 ) ( 2545 -3104 96 ) kenney_prototype-textures/PNG/Orange/texture_10 -272 0 0 1 1
+( 2512 -2080 80 ) ( 2512 -2081 80 ) ( 2513 -2080 80 ) kenney_prototype-textures/PNG/Orange/texture_10 240 272 270 1 1
+( 2544 -2336 96 ) ( 2545 -2336 96 ) ( 2544 -2337 96 ) kenney_prototype-textures/PNG/Orange/texture_10 240 272 270 1 1
+( 2512 -2080 80 ) ( 2513 -2080 80 ) ( 2512 -2080 81 ) kenney_prototype-textures/PNG/Orange/texture_10 -272 0 0 1 1
+( 2544 -2336 96 ) ( 2544 -2337 96 ) ( 2544 -2336 97 ) kenney_prototype-textures/PNG/Orange/texture_10 240 0 180 1 -1
 }
 // brush 478
 {
-( 1520 -2080 80 ) ( 1520 -2079 80 ) ( 1520 -2080 81 ) kenney_prototype-textures/PNG/Light/texture_01 224 0 0 1 1
-( 1520 -2080 80 ) ( 1520 -2080 81 ) ( 1521 -2080 80 ) kenney_prototype-textures/PNG/Light/texture_01 800 0 0 1 1
-( 1520 -2080 80 ) ( 1521 -2080 80 ) ( 1520 -2079 80 ) kenney_prototype-textures/PNG/Light/texture_01 800 -224 0 1 1
-( 1776 -2048 96 ) ( 1776 -2047 96 ) ( 1777 -2048 96 ) kenney_prototype-textures/PNG/Light/texture_01 800 -224 0 1 1
-( 1776 -2048 96 ) ( 1777 -2048 96 ) ( 1776 -2048 97 ) kenney_prototype-textures/PNG/Light/texture_01 800 0 0 1 1
-( 2544 -2048 96 ) ( 2544 -2048 97 ) ( 2544 -2047 96 ) kenney_prototype-textures/PNG/Light/texture_01 224 0 0 1 1
+( 1520 -2080 80 ) ( 1520 -2079 80 ) ( 1520 -2080 81 ) kenney_prototype-textures/PNG/Orange/texture_10 224 0 0 1 1
+( 1520 -2080 80 ) ( 1520 -2080 81 ) ( 1521 -2080 80 ) kenney_prototype-textures/PNG/Orange/texture_10 800 0 0 1 1
+( 1520 -2080 80 ) ( 1521 -2080 80 ) ( 1520 -2079 80 ) kenney_prototype-textures/PNG/Orange/texture_10 800 -224 0 1 1
+( 1776 -2048 96 ) ( 1776 -2047 96 ) ( 1777 -2048 96 ) kenney_prototype-textures/PNG/Orange/texture_10 800 -224 0 1 1
+( 1776 -2048 96 ) ( 1777 -2048 96 ) ( 1776 -2048 97 ) kenney_prototype-textures/PNG/Orange/texture_10 800 0 0 1 1
+( 2544 -2048 96 ) ( 2544 -2048 97 ) ( 2544 -2047 96 ) kenney_prototype-textures/PNG/Orange/texture_10 224 0 0 1 1
 }
 // brush 479
 {
-( 496 -2080 80 ) ( 496 -2079 80 ) ( 496 -2080 81 ) kenney_prototype-textures/PNG/Light/texture_01 224 0 0 1 1
-( 496 -2080 80 ) ( 496 -2080 81 ) ( 497 -2080 80 ) kenney_prototype-textures/PNG/Light/texture_01 800 0 0 1 1
-( 496 -2080 80 ) ( 497 -2080 80 ) ( 496 -2079 80 ) kenney_prototype-textures/PNG/Light/texture_01 800 -224 0 1 1
-( 752 -2048 96 ) ( 752 -2047 96 ) ( 753 -2048 96 ) kenney_prototype-textures/PNG/Light/texture_01 800 -224 0 1 1
-( 752 -2048 96 ) ( 753 -2048 96 ) ( 752 -2048 97 ) kenney_prototype-textures/PNG/Light/texture_01 800 0 0 1 1
-( 1520 -2048 96 ) ( 1520 -2048 97 ) ( 1520 -2047 96 ) kenney_prototype-textures/PNG/Light/texture_01 224 0 0 1 1
+( 496 -2080 80 ) ( 496 -2079 80 ) ( 496 -2080 81 ) kenney_prototype-textures/PNG/Orange/texture_10 224 0 0 1 1
+( 496 -2080 80 ) ( 496 -2080 81 ) ( 497 -2080 80 ) kenney_prototype-textures/PNG/Orange/texture_10 800 0 0 1 1
+( 496 -2080 80 ) ( 497 -2080 80 ) ( 496 -2079 80 ) kenney_prototype-textures/PNG/Orange/texture_10 800 -224 0 1 1
+( 752 -2048 96 ) ( 752 -2047 96 ) ( 753 -2048 96 ) kenney_prototype-textures/PNG/Orange/texture_10 800 -224 0 1 1
+( 752 -2048 96 ) ( 753 -2048 96 ) ( 752 -2048 97 ) kenney_prototype-textures/PNG/Orange/texture_10 800 0 0 1 1
+( 1520 -2048 96 ) ( 1520 -2048 97 ) ( 1520 -2047 96 ) kenney_prototype-textures/PNG/Orange/texture_10 224 0 0 1 1
 }
 // brush 480
 {
-( -560 -2080 80 ) ( -560 -2079 80 ) ( -560 -2080 81 ) kenney_prototype-textures/PNG/Light/texture_01 224 0 0 1 1
-( -528 -2080 80 ) ( -528 -2080 81 ) ( -527 -2080 80 ) kenney_prototype-textures/PNG/Light/texture_01 800 0 0 1 1
-( -528 -2080 80 ) ( -527 -2080 80 ) ( -528 -2079 80 ) kenney_prototype-textures/PNG/Light/texture_01 800 -224 0 1 1
-( -272 -2048 96 ) ( -272 -2047 96 ) ( -271 -2048 96 ) kenney_prototype-textures/PNG/Light/texture_01 800 -224 0 1 1
-( -272 -2048 96 ) ( -271 -2048 96 ) ( -272 -2048 97 ) kenney_prototype-textures/PNG/Light/texture_01 800 0 0 1 1
-( 496 -2048 96 ) ( 496 -2048 97 ) ( 496 -2047 96 ) kenney_prototype-textures/PNG/Light/texture_01 224 0 0 1 1
+( -560 -2080 80 ) ( -560 -2079 80 ) ( -560 -2080 81 ) kenney_prototype-textures/PNG/Orange/texture_10 224 0 0 1 1
+( -528 -2080 80 ) ( -528 -2080 81 ) ( -527 -2080 80 ) kenney_prototype-textures/PNG/Orange/texture_10 800 0 0 1 1
+( -528 -2080 80 ) ( -527 -2080 80 ) ( -528 -2079 80 ) kenney_prototype-textures/PNG/Orange/texture_10 800 -224 0 1 1
+( -272 -2048 96 ) ( -272 -2047 96 ) ( -271 -2048 96 ) kenney_prototype-textures/PNG/Orange/texture_10 800 -224 0 1 1
+( -272 -2048 96 ) ( -271 -2048 96 ) ( -272 -2048 97 ) kenney_prototype-textures/PNG/Orange/texture_10 800 0 0 1 1
+( 496 -2048 96 ) ( 496 -2048 97 ) ( 496 -2047 96 ) kenney_prototype-textures/PNG/Orange/texture_10 224 0 0 1 1
 }
 // brush 481
 {
-( -592 -2816 96 ) ( -592 -2815 96 ) ( -592 -2816 97 ) kenney_prototype-textures/PNG/Light/texture_01 272 0 0 1 1
-( -560 -3072 80 ) ( -561 -3072 80 ) ( -560 -3072 81 ) kenney_prototype-textures/PNG/Light/texture_01 -368 0 180 1 -1
-( -560 -3072 80 ) ( -560 -3071 80 ) ( -561 -3072 80 ) kenney_prototype-textures/PNG/Light/texture_01 272 368 90 1 1
-( -592 -2816 96 ) ( -593 -2816 96 ) ( -592 -2815 96 ) kenney_prototype-textures/PNG/Light/texture_01 272 368 90 1 1
-( -592 -2048 96 ) ( -592 -2048 97 ) ( -593 -2048 96 ) kenney_prototype-textures/PNG/Light/texture_01 -368 0 180 1 -1
-( -560 -3072 80 ) ( -560 -3072 81 ) ( -560 -3071 80 ) kenney_prototype-textures/PNG/Light/texture_01 272 0 0 1 1
+( -592 -2816 96 ) ( -592 -2815 96 ) ( -592 -2816 97 ) kenney_prototype-textures/PNG/Orange/texture_10 272 0 0 1 1
+( -560 -3072 80 ) ( -561 -3072 80 ) ( -560 -3072 81 ) kenney_prototype-textures/PNG/Orange/texture_10 -368 0 180 1 -1
+( -560 -3072 80 ) ( -560 -3071 80 ) ( -561 -3072 80 ) kenney_prototype-textures/PNG/Orange/texture_10 272 368 90 1 1
+( -592 -2816 96 ) ( -593 -2816 96 ) ( -592 -2815 96 ) kenney_prototype-textures/PNG/Orange/texture_10 272 368 90 1 1
+( -592 -2048 96 ) ( -592 -2048 97 ) ( -593 -2048 96 ) kenney_prototype-textures/PNG/Orange/texture_10 -368 0 180 1 -1
+( -560 -3072 80 ) ( -560 -3072 81 ) ( -560 -3071 80 ) kenney_prototype-textures/PNG/Orange/texture_10 272 0 0 1 1
 }
 // brush 482
 {
-( -592 -3072 80 ) ( -592 -3072 81 ) ( -592 -3073 80 ) kenney_prototype-textures/PNG/Light/texture_01 -752 0 180 1 -1
-( -560 -4096 96 ) ( -560 -4096 97 ) ( -559 -4096 96 ) kenney_prototype-textures/PNG/Light/texture_01 -240 0 0 1 1
-( -592 -3072 80 ) ( -592 -3073 80 ) ( -591 -3072 80 ) kenney_prototype-textures/PNG/Light/texture_01 -752 240 270 1 1
-( -560 -3328 96 ) ( -559 -3328 96 ) ( -560 -3329 96 ) kenney_prototype-textures/PNG/Light/texture_01 -752 240 270 1 1
-( -592 -3072 80 ) ( -591 -3072 80 ) ( -592 -3072 81 ) kenney_prototype-textures/PNG/Light/texture_01 -240 0 0 1 1
-( -560 -3328 96 ) ( -560 -3329 96 ) ( -560 -3328 97 ) kenney_prototype-textures/PNG/Light/texture_01 -752 0 180 1 -1
+( -592 -3072 80 ) ( -592 -3072 81 ) ( -592 -3073 80 ) kenney_prototype-textures/PNG/Orange/texture_10 -752 0 180 1 -1
+( -560 -4096 96 ) ( -560 -4096 97 ) ( -559 -4096 96 ) kenney_prototype-textures/PNG/Orange/texture_10 -240 0 0 1 1
+( -592 -3072 80 ) ( -592 -3073 80 ) ( -591 -3072 80 ) kenney_prototype-textures/PNG/Orange/texture_10 -752 240 270 1 1
+( -560 -3328 96 ) ( -559 -3328 96 ) ( -560 -3329 96 ) kenney_prototype-textures/PNG/Orange/texture_10 -752 240 270 1 1
+( -592 -3072 80 ) ( -591 -3072 80 ) ( -592 -3072 81 ) kenney_prototype-textures/PNG/Orange/texture_10 -240 0 0 1 1
+( -560 -3328 96 ) ( -560 -3329 96 ) ( -560 -3328 97 ) kenney_prototype-textures/PNG/Orange/texture_10 -752 0 180 1 -1
 }
 // brush 483
 {
-( -1584 -4128 80 ) ( -1584 -4127 80 ) ( -1584 -4128 81 ) kenney_prototype-textures/PNG/Light/texture_01 224 0 0 1 1
-( -1584 -4128 80 ) ( -1584 -4128 81 ) ( -1583 -4128 80 ) kenney_prototype-textures/PNG/Light/texture_01 832 0 0 1 1
-( -1584 -4128 80 ) ( -1583 -4128 80 ) ( -1584 -4127 80 ) kenney_prototype-textures/PNG/Light/texture_01 832 -224 0 1 1
-( -1328 -4096 96 ) ( -1328 -4095 96 ) ( -1327 -4096 96 ) kenney_prototype-textures/PNG/Light/texture_01 832 -224 0 1 1
-( -1328 -4096 96 ) ( -1327 -4096 96 ) ( -1328 -4096 97 ) kenney_prototype-textures/PNG/Light/texture_01 832 0 0 1 1
-( -560 -4096 96 ) ( -560 -4096 97 ) ( -560 -4095 96 ) kenney_prototype-textures/PNG/Light/texture_01 224 0 0 1 1
+( -1584 -4128 80 ) ( -1584 -4127 80 ) ( -1584 -4128 81 ) kenney_prototype-textures/PNG/Orange/texture_10 224 0 0 1 1
+( -1584 -4128 80 ) ( -1584 -4128 81 ) ( -1583 -4128 80 ) kenney_prototype-textures/PNG/Orange/texture_10 832 0 0 1 1
+( -1584 -4128 80 ) ( -1583 -4128 80 ) ( -1584 -4127 80 ) kenney_prototype-textures/PNG/Orange/texture_10 832 -224 0 1 1
+( -1328 -4096 96 ) ( -1328 -4095 96 ) ( -1327 -4096 96 ) kenney_prototype-textures/PNG/Orange/texture_10 832 -224 0 1 1
+( -1328 -4096 96 ) ( -1327 -4096 96 ) ( -1328 -4096 97 ) kenney_prototype-textures/PNG/Orange/texture_10 832 0 0 1 1
+( -560 -4096 96 ) ( -560 -4096 97 ) ( -560 -4095 96 ) kenney_prototype-textures/PNG/Orange/texture_10 224 0 0 1 1
 }
 // brush 484
 {
-( -1616 -4512 96 ) ( -1616 -4511 96 ) ( -1616 -4512 97 ) kenney_prototype-textures/PNG/Light/texture_01 912 0 0 1 1
-( -1584 -4912 80 ) ( -1585 -4912 80 ) ( -1584 -4912 81 ) kenney_prototype-textures/PNG/Light/texture_01 -624 0 180 1 -1
-( -1584 -4608 80 ) ( -1584 -4607 80 ) ( -1585 -4608 80 ) kenney_prototype-textures/PNG/Light/texture_01 912 624 90 1 1
-( -1616 -4512 96 ) ( -1617 -4512 96 ) ( -1616 -4511 96 ) kenney_prototype-textures/PNG/Light/texture_01 912 624 90 1 1
-( -1616 -4096 96 ) ( -1616 -4096 97 ) ( -1617 -4096 96 ) kenney_prototype-textures/PNG/Light/texture_01 -624 0 180 1 -1
-( -1584 -4608 80 ) ( -1584 -4608 81 ) ( -1584 -4607 80 ) kenney_prototype-textures/PNG/Light/texture_01 912 0 0 1 1
+( -1616 -4512 96 ) ( -1616 -4511 96 ) ( -1616 -4512 97 ) kenney_prototype-textures/PNG/Orange/texture_10 912 0 0 1 1
+( -1584 -4912 80 ) ( -1585 -4912 80 ) ( -1584 -4912 81 ) kenney_prototype-textures/PNG/Orange/texture_10 -624 0 180 1 -1
+( -1584 -4608 80 ) ( -1584 -4607 80 ) ( -1585 -4608 80 ) kenney_prototype-textures/PNG/Orange/texture_10 912 624 90 1 1
+( -1616 -4512 96 ) ( -1617 -4512 96 ) ( -1616 -4511 96 ) kenney_prototype-textures/PNG/Orange/texture_10 912 624 90 1 1
+( -1616 -4096 96 ) ( -1616 -4096 97 ) ( -1617 -4096 96 ) kenney_prototype-textures/PNG/Orange/texture_10 -624 0 180 1 -1
+( -1584 -4608 80 ) ( -1584 -4608 81 ) ( -1584 -4607 80 ) kenney_prototype-textures/PNG/Orange/texture_10 912 0 0 1 1
 }
 // brush 485
 {
@@ -6284,7 +6284,7 @@
 ( -1872 -4160 -176 ) ( -1872 -4160 -175 ) ( -1871 -4160 -176 ) kenney_prototype-textures/PNG/Light/texture_13 -320 256 90 0.25 0.25
 ( -1872 -4160 -176 ) ( -1871 -4160 -176 ) ( -1872 -4159 -176 ) kenney_prototype-textures/PNG/Light/texture_13 256 256 90 0.25 0.25
 ( -1856 -4032 80 ) ( -1856 -4031 80 ) ( -1855 -4032 80 ) kenney_prototype-textures/PNG/Light/texture_13 -256 -320 270 0.25 0.25
-( -1856 -3888 -48 ) ( -1855 -3888 -48 ) ( -1856 -3888 -47 ) kenney_prototype-textures/PNG/Light/texture_13 320 -320 270 0.25 0.25
+( -1856 -3904 -48 ) ( -1855 -3904 -48 ) ( -1856 -3904 -47 ) kenney_prototype-textures/PNG/Light/texture_13 320 -320 270 0.25 0.25
 ( -1856 -4032 -48 ) ( -1856 -4032 -47 ) ( -1856 -4031 -48 ) kenney_prototype-textures/PNG/Light/texture_13 256 320 0 0.25 0.25
 }
 // brush 698
@@ -7081,21 +7081,21 @@
 }
 // brush 786
 {
-( -1600 -4784 -160 ) ( -1600 -4783 -160 ) ( -1600 -4784 -159 ) kenney_prototype-textures/PNG/Red/texture_02 -832 256 0 0.25 0.25
-( -1344 -4912 -176 ) ( -1345 -4912 -176 ) ( -1344 -4912 -175 ) kenney_prototype-textures/PNG/Red/texture_02 768 256 180 0.25 -0.25
-( -1344 -4912 -176 ) ( -1344 -4911 -176 ) ( -1345 -4912 -176 ) kenney_prototype-textures/PNG/Red/texture_02 -832 -768 90 0.25 0.25
-( -1472 -4784 -160 ) ( -1473 -4784 -160 ) ( -1472 -4783 -160 ) kenney_prototype-textures/PNG/Red/texture_02 -832 -768 90 0.25 0.25
-( -1472 -4656 -160 ) ( -1472 -4656 -159 ) ( -1473 -4656 -160 ) kenney_prototype-textures/PNG/Red/texture_02 768 256 180 0.25 -0.25
-( -1344 -4912 -176 ) ( -1344 -4912 -175 ) ( -1344 -4911 -176 ) kenney_prototype-textures/PNG/Red/texture_02 -832 256 0 0.25 0.25
+( -1600 -4784 -160 ) ( -1600 -4783 -160 ) ( -1600 -4784 -159 ) kenney_prototype-textures/PNG/Light/texture_06 -832 256 0 0.25 0.25
+( -1344 -4912 -176 ) ( -1345 -4912 -176 ) ( -1344 -4912 -175 ) kenney_prototype-textures/PNG/Light/texture_06 768 256 180 0.25 -0.25
+( -1344 -4912 -176 ) ( -1344 -4911 -176 ) ( -1345 -4912 -176 ) kenney_prototype-textures/PNG/Light/texture_06 -832 -768 90 0.25 0.25
+( -1472 -4784 -160 ) ( -1473 -4784 -160 ) ( -1472 -4783 -160 ) kenney_prototype-textures/PNG/Light/texture_06 -832 -768 90 0.25 0.25
+( -1472 -4656 -160 ) ( -1472 -4656 -159 ) ( -1473 -4656 -160 ) kenney_prototype-textures/PNG/Light/texture_06 768 256 180 0.25 -0.25
+( -1344 -4912 -176 ) ( -1344 -4912 -175 ) ( -1344 -4911 -176 ) kenney_prototype-textures/PNG/Light/texture_06 -832 256 0 0.25 0.25
 }
 // brush 787
 {
-( -1856 -4784 -160 ) ( -1856 -4783 -160 ) ( -1856 -4784 -159 ) kenney_prototype-textures/PNG/Red/texture_02 -832 256 0 0.25 0.25
-( -1600 -4912 -176 ) ( -1601 -4912 -176 ) ( -1600 -4912 -175 ) kenney_prototype-textures/PNG/Red/texture_02 768 256 180 0.25 -0.25
-( -1600 -4912 -176 ) ( -1600 -4911 -176 ) ( -1601 -4912 -176 ) kenney_prototype-textures/PNG/Red/texture_02 -832 -768 90 0.25 0.25
-( -1728 -4784 -160 ) ( -1729 -4784 -160 ) ( -1728 -4783 -160 ) kenney_prototype-textures/PNG/Red/texture_02 -832 -768 90 0.25 0.25
-( -1728 -4656 -160 ) ( -1728 -4656 -159 ) ( -1729 -4656 -160 ) kenney_prototype-textures/PNG/Red/texture_02 768 256 180 0.25 -0.25
-( -1600 -4912 -176 ) ( -1600 -4912 -175 ) ( -1600 -4911 -176 ) kenney_prototype-textures/PNG/Red/texture_02 -832 256 0 0.25 0.25
+( -1856 -4784 -160 ) ( -1856 -4783 -160 ) ( -1856 -4784 -159 ) kenney_prototype-textures/PNG/Light/texture_06 -832 256 0 0.25 0.25
+( -1600 -4912 -176 ) ( -1601 -4912 -176 ) ( -1600 -4912 -175 ) kenney_prototype-textures/PNG/Light/texture_06 768 256 180 0.25 -0.25
+( -1600 -4912 -176 ) ( -1600 -4911 -176 ) ( -1601 -4912 -176 ) kenney_prototype-textures/PNG/Light/texture_06 -832 -768 90 0.25 0.25
+( -1728 -4784 -160 ) ( -1729 -4784 -160 ) ( -1728 -4783 -160 ) kenney_prototype-textures/PNG/Light/texture_06 -832 -768 90 0.25 0.25
+( -1728 -4656 -160 ) ( -1728 -4656 -159 ) ( -1729 -4656 -160 ) kenney_prototype-textures/PNG/Light/texture_06 768 256 180 0.25 -0.25
+( -1600 -4912 -176 ) ( -1600 -4912 -175 ) ( -1600 -4911 -176 ) kenney_prototype-textures/PNG/Light/texture_06 -832 256 0 0.25 0.25
 }
 // brush 788
 {
@@ -7288,21 +7288,21 @@
 }
 // brush 809
 {
-( 6912 -1232 -160 ) ( 6912 -1232 -159 ) ( 6912 -1233 -160 ) kenney_prototype-textures/PNG/Purple/texture_02 704 256 180 0.25 -0.25
-( 7040 -1360 -160 ) ( 7039 -1360 -160 ) ( 7040 -1360 -159 ) kenney_prototype-textures/PNG/Purple/texture_02 0 256 180 0.25 -0.25
-( 7168 -1104 -176 ) ( 7167 -1104 -176 ) ( 7168 -1105 -176 ) kenney_prototype-textures/PNG/Purple/texture_02 0 -704 180 0.25 0.25
-( 7040 -1232 -160 ) ( 7040 -1233 -160 ) ( 7039 -1232 -160 ) kenney_prototype-textures/PNG/Purple/texture_02 0 -704 180 0.25 0.25
-( 7168 -1104 -176 ) ( 7168 -1104 -175 ) ( 7167 -1104 -176 ) kenney_prototype-textures/PNG/Purple/texture_02 0 256 180 0.25 -0.25
-( 7168 -1104 -176 ) ( 7168 -1105 -176 ) ( 7168 -1104 -175 ) kenney_prototype-textures/PNG/Purple/texture_02 704 256 180 0.25 -0.25
+( 6912 -1232 -160 ) ( 6912 -1232 -159 ) ( 6912 -1233 -160 ) kenney_prototype-textures/PNG/Light/texture_06 704 256 180 0.25 -0.25
+( 7040 -1360 -160 ) ( 7039 -1360 -160 ) ( 7040 -1360 -159 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 180 0.25 -0.25
+( 7168 -1104 -176 ) ( 7167 -1104 -176 ) ( 7168 -1105 -176 ) kenney_prototype-textures/PNG/Light/texture_06 0 -704 180 0.25 0.25
+( 7040 -1232 -160 ) ( 7040 -1233 -160 ) ( 7039 -1232 -160 ) kenney_prototype-textures/PNG/Light/texture_06 0 -704 180 0.25 0.25
+( 7168 -1104 -176 ) ( 7168 -1104 -175 ) ( 7167 -1104 -176 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 180 0.25 -0.25
+( 7168 -1104 -176 ) ( 7168 -1105 -176 ) ( 7168 -1104 -175 ) kenney_prototype-textures/PNG/Light/texture_06 704 256 180 0.25 -0.25
 }
 // brush 810
 {
-( 6912 -1488 -160 ) ( 6912 -1488 -159 ) ( 6912 -1489 -160 ) kenney_prototype-textures/PNG/Purple/texture_02 704 256 180 0.25 -0.25
-( 7040 -1616 -160 ) ( 7039 -1616 -160 ) ( 7040 -1616 -159 ) kenney_prototype-textures/PNG/Purple/texture_02 0 256 180 0.25 -0.25
-( 7168 -1360 -176 ) ( 7167 -1360 -176 ) ( 7168 -1361 -176 ) kenney_prototype-textures/PNG/Purple/texture_02 0 -704 180 0.25 0.25
-( 7040 -1488 -160 ) ( 7040 -1489 -160 ) ( 7039 -1488 -160 ) kenney_prototype-textures/PNG/Purple/texture_02 0 -704 180 0.25 0.25
-( 7168 -1360 -176 ) ( 7168 -1360 -175 ) ( 7167 -1360 -176 ) kenney_prototype-textures/PNG/Purple/texture_02 0 256 180 0.25 -0.25
-( 7168 -1360 -176 ) ( 7168 -1361 -176 ) ( 7168 -1360 -175 ) kenney_prototype-textures/PNG/Purple/texture_02 704 256 180 0.25 -0.25
+( 6912 -1488 -160 ) ( 6912 -1488 -159 ) ( 6912 -1489 -160 ) kenney_prototype-textures/PNG/Light/texture_06 704 256 180 0.25 -0.25
+( 7040 -1616 -160 ) ( 7039 -1616 -160 ) ( 7040 -1616 -159 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 180 0.25 -0.25
+( 7168 -1360 -176 ) ( 7167 -1360 -176 ) ( 7168 -1361 -176 ) kenney_prototype-textures/PNG/Light/texture_06 0 -704 180 0.25 0.25
+( 7040 -1488 -160 ) ( 7040 -1489 -160 ) ( 7039 -1488 -160 ) kenney_prototype-textures/PNG/Light/texture_06 0 -704 180 0.25 0.25
+( 7168 -1360 -176 ) ( 7168 -1360 -175 ) ( 7167 -1360 -176 ) kenney_prototype-textures/PNG/Light/texture_06 0 256 180 0.25 -0.25
+( 7168 -1360 -176 ) ( 7168 -1361 -176 ) ( 7168 -1360 -175 ) kenney_prototype-textures/PNG/Light/texture_06 704 256 180 0.25 -0.25
 }
 // brush 811
 {
@@ -7877,6 +7877,49 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Arrow"
+"_tb_id" "2"
+"_tb_linked_group_id" "1778899a-88a1-4189-b8a2-6e932f5436da"
+"_tb_transformation" "-1 -1.2246467991473532e-16 0 9344 -1.969382255562853e-32 1.6081226496766364e-16 -1 -575.9999999999999 1.2246467991473532e-16 -1 -1.6081226496766364e-16 -304.0000000000009 0 0 0 1"
+// brush 0
+{
+( 3712 -1072 64 ) ( 3712 -1072 16 ) ( 3712 -1056 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 992 270 1 -1
+( 3760 -1072 16 ) ( 3712 -1072 16 ) ( 3712 -1072 64 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 -448 180 1 1
+( 3712 -1056 16 ) ( 3712 -1072 16 ) ( 3760 -1072 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 992 180 1 1
+( 3712 -1056 64 ) ( 3712 -1056 16 ) ( 3760 -1056 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 -448 180 1 1
+( 3712 -1056 64 ) ( 3760 -1056 16 ) ( 3760 -1072 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -256 992 0 1 -1
+}
+// brush 1
+{
+( 3600 -1072 0 ) ( 3600 -1072 -16 ) ( 3600 -1056 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 992 270 1 -1
+( 3760 -1072 -16 ) ( 3600 -1072 -16 ) ( 3600 -1072 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 -464 180 1 1
+( 3600 -1056 -16 ) ( 3600 -1072 -16 ) ( 3760 -1072 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 992 180 1 1
+( 3776 -1072 0 ) ( 3600 -1072 0 ) ( 3600 -1056 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 992 180 1 1
+( 3600 -1056 0 ) ( 3600 -1056 -16 ) ( 3760 -1056 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 -464 180 1 1
+( 3760 -1072 -16 ) ( 3776 -1072 0 ) ( 3776 -1056 0 ) kenney_prototype-textures/PNG/Purple/texture_02 120 1000 180 1 1
+}
+// brush 2
+{
+( 3712 -1072 -16 ) ( 3712 -1072 -64 ) ( 3712 -1056 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 992 270 1 -1
+( 3760 -1072 -16 ) ( 3712 -1072 -64 ) ( 3712 -1072 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 -464 180 1 1
+( 3760 -1072 -16 ) ( 3712 -1072 -16 ) ( 3712 -1056 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 992 180 1 1
+( 3712 -1056 -16 ) ( 3712 -1056 -64 ) ( 3760 -1056 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 -464 180 1 1
+( 3712 -1056 -64 ) ( 3712 -1072 -64 ) ( 3760 -1072 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 144 992 180 1 1
+}
+// brush 3
+{
+( 3600 -1072 16 ) ( 3600 -1072 0 ) ( 3600 -1056 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 992 270 1 -1
+( 3776 -1072 0 ) ( 3600 -1072 0 ) ( 3600 -1072 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 -448 180 1 1
+( 3600 -1056 0 ) ( 3600 -1072 0 ) ( 3776 -1072 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 992 180 1 1
+( 3760 -1072 16 ) ( 3600 -1072 16 ) ( 3600 -1056 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 992 180 1 1
+( 3600 -1056 16 ) ( 3600 -1056 0 ) ( 3776 -1056 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -832 -448 180 1 1
+( 3760 -1056 16 ) ( 3776 -1056 0 ) ( 3776 -1072 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -248 1000 0 1 -1
+}
+}
+// entity 2
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "Arrow"
 "_tb_id" "3"
 "_tb_linked_group_id" "4adf92ef-bdd3-4292-b37d-f5a6f947426d"
 "_tb_transformation" "-4.440892098500626e-16 -2.8327694488239903e-16 -1 3040.0000000000027 1 1.2246467991473517e-16 -4.440892098500626e-16 -6112 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
@@ -7915,7 +7958,7 @@
 ( 2560 -368 16 ) ( 2560 -368 0 ) ( 2560 -544 0 ) kenney_prototype-textures/PNG/Purple/texture_02 32 -448 0 1 -1
 }
 }
-// entity 2
+// entity 3
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -7958,7 +8001,7 @@
 ( 3760 -560 16 ) ( 3776 -560 0 ) ( 3776 -576 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -248 504 0 1 -1
 }
 }
-// entity 3
+// entity 4
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8001,7 +8044,7 @@
 ( -1360 -48 16 ) ( -1344 -48 0 ) ( -1344 -64 0 ) kenney_prototype-textures/PNG/Purple/texture_02 320 48 0 1 -1
 }
 }
-// entity 4
+// entity 5
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8044,7 +8087,7 @@
 ( -1360 -544 16 ) ( -1344 -544 0 ) ( -1344 -560 0 ) kenney_prototype-textures/PNG/Purple/texture_02 776 488 0 1 -1
 }
 }
-// entity 5
+// entity 6
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8087,7 +8130,7 @@
 ( -1168 -48 16 ) ( -1152 -48 0 ) ( -1152 -64 0 ) kenney_prototype-textures/PNG/Red/texture_02 128 48 0 1 -1
 }
 }
-// entity 6
+// entity 7
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8130,7 +8173,7 @@
 ( -976 -48 16 ) ( -960 -48 0 ) ( -960 -64 0 ) kenney_prototype-textures/PNG/Green/texture_02 960 48 0 1 -1
 }
 }
-// entity 7
+// entity 8
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8173,7 +8216,7 @@
 ( -1168 -544 16 ) ( -1152 -544 0 ) ( -1152 -560 0 ) kenney_prototype-textures/PNG/Red/texture_02 128 544 0 1 -1
 }
 }
-// entity 8
+// entity 9
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8216,7 +8259,7 @@
 ( -976 -544 16 ) ( -960 -544 0 ) ( -960 -560 0 ) kenney_prototype-textures/PNG/Green/texture_02 960 544 0 1 -1
 }
 }
-// entity 9
+// entity 10
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8259,7 +8302,7 @@
 ( 2560 16 16 ) ( 2560 16 0 ) ( 2560 -160 0 ) kenney_prototype-textures/PNG/Red/texture_02 -15.515152 -16 0 1.03125 -1
 }
 }
-// entity 10
+// entity 11
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8302,7 +8345,7 @@
 ( 2560 -176 16 ) ( 2560 -176 0 ) ( 2560 -352 0 ) kenney_prototype-textures/PNG/Green/texture_02 -853.3331 -16 0 1.03125 -1
 }
 }
-// entity 11
+// entity 12
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8345,7 +8388,7 @@
 ( 3584 -1088 16 ) ( 3584 -1088 0 ) ( 3584 -1264 0 ) kenney_prototype-textures/PNG/Red/texture_02 -992.9697 -16 0 1.03125 -1
 }
 }
-// entity 12
+// entity 13
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8388,7 +8431,7 @@
 ( 3584 -1280 16 ) ( 3584 -1280 0 ) ( 3584 -1456 0 ) kenney_prototype-textures/PNG/Green/texture_02 -806.7877 -16 0 1.03125 -1
 }
 }
-// entity 13
+// entity 14
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8431,7 +8474,7 @@
 ( 3520 -3616 16 ) ( 3520 -3616 0 ) ( 3520 -3632 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 -560 270 1 1
 }
 }
-// entity 14
+// entity 15
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8474,7 +8517,7 @@
 ( 3328 -3616 16 ) ( 3328 -3616 0 ) ( 3328 -3632 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 -560 270 1 1
 }
 }
-// entity 15
+// entity 16
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8517,7 +8560,7 @@
 ( 1552 -3296 16 ) ( 1552 -3296 0 ) ( 1552 -3472 0 ) kenney_prototype-textures/PNG/Green/texture_02 124.12134 -16 0 1.03125 -1
 }
 }
-// entity 16
+// entity 17
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8560,7 +8603,7 @@
 ( 2320 -2928 0 ) ( 2320 -3104 0 ) ( 2320 -3104 16 ) kenney_prototype-textures/PNG/Red/texture_02 62.060547 -16 180 1.03125 1
 }
 }
-// entity 17
+// entity 18
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8603,7 +8646,7 @@
 ( 2608 -1840 16 ) ( 2608 -1840 0 ) ( 2608 -1856 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 -832 270 1 1
 }
 }
-// entity 18
+// entity 19
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8646,7 +8689,7 @@
 ( -816 -2032 16 ) ( -816 -2032 0 ) ( -816 -2208 0 ) kenney_prototype-textures/PNG/Red/texture_02 -77.57593 -16 0 1.03125 -1
 }
 }
-// entity 19
+// entity 20
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -8687,1940 +8730,5 @@
 ( -656 -4368 16 ) ( -496 -4368 16 ) ( -496 -4384 16 ) kenney_prototype-textures/PNG/Red/texture_02 529.0669 -288 0 0.9375 1
 ( -672 -4368 0 ) ( -496 -4368 0 ) ( -496 -4368 16 ) kenney_prototype-textures/PNG/Red/texture_02 480.96973 -16 0 1.03125 -1
 ( -496 -4368 16 ) ( -496 -4368 0 ) ( -496 -4384 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 -288 270 1 1
-}
-}
-// entity 20
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "21"
-"_tb_linked_group_id" "af16fab9-838a-47b9-8d61-be9e4458560b"
-"_tb_transformation" "9.333295331607266e-15 -6.123233995736654e-17 -1 -1360.0000000000528 1 1.2246467991473591e-16 9.333295331607266e-15 -9824.000000000004 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( -1856 -4240 16 ) ( -1856 -4192 16 ) ( -1856 -4192 64 ) kenney_prototype-textures/PNG/Red/texture_02 887.46606 -978.49084 45 0.9943691 -0.9943682
-( -1840 -4192 64 ) ( -1840 -4240 16 ) ( -1856 -4240 16 ) kenney_prototype-textures/PNG/Red/texture_02 -211.30127 816 270 0.984375 -1
-( -1840 -4192 16 ) ( -1856 -4192 16 ) ( -1856 -4240 16 ) kenney_prototype-textures/PNG/Red/texture_02 162.53955 816 90 0.984375 1
-( -1856 -4192 64 ) ( -1856 -4192 16 ) ( -1840 -4192 16 ) kenney_prototype-textures/PNG/Red/texture_02 16.25397 816 270 0.984375 -1
-( -1840 -4192 64 ) ( -1840 -4192 16 ) ( -1840 -4240 16 ) kenney_prototype-textures/PNG/Red/texture_02 162.53955 -65.015884 0 0.984375 -0.984375
-}
-// brush 1
-{
-( -1856 -4240 -16 ) ( -1856 -4080 -16 ) ( -1856 -4080 0 ) kenney_prototype-textures/PNG/Red/texture_02 884.3635 0 0 1.03125 -1
-( -1856 -4240 -16 ) ( -1856 -4256 0 ) ( -1840 -4256 0 ) kenney_prototype-textures/PNG/Red/texture_02 144 816 90 1 1
-( -1840 -4080 -16 ) ( -1856 -4080 -16 ) ( -1856 -4240 -16 ) kenney_prototype-textures/PNG/Red/texture_02 256.0005 816 90 0.9375 1
-( -1856 -4256 0 ) ( -1856 -4080 0 ) ( -1840 -4080 0 ) kenney_prototype-textures/PNG/Red/texture_02 884.3638 816 90 1.03125 1
-( -1856 -4080 0 ) ( -1856 -4080 -16 ) ( -1840 -4080 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -16 816 270 1 -1
-( -1840 -4080 0 ) ( -1840 -4080 -16 ) ( -1840 -4240 -16 ) kenney_prototype-textures/PNG/Red/texture_02 884.3635 0 0 1.03125 -1
-}
-// brush 2
-{
-( -1856 -4240 -16 ) ( -1856 -4192 -64 ) ( -1856 -4192 -16 ) kenney_prototype-textures/PNG/Red/texture_02 162.53955 16.253971 0 0.984375 -0.984375
-( -1840 -4192 -64 ) ( -1856 -4192 -64 ) ( -1856 -4240 -16 ) kenney_prototype-textures/PNG/Red/texture_02 162.53955 816 90 0.984375 1
-( -1856 -4240 -16 ) ( -1856 -4192 -16 ) ( -1840 -4192 -16 ) kenney_prototype-textures/PNG/Red/texture_02 162.53955 816 90 0.984375 1
-( -1856 -4192 -16 ) ( -1856 -4192 -64 ) ( -1840 -4192 -64 ) kenney_prototype-textures/PNG/Red/texture_02 -65.01587 816 270 0.984375 -1
-( -1840 -4192 -16 ) ( -1840 -4192 -64 ) ( -1840 -4240 -16 ) kenney_prototype-textures/PNG/Red/texture_02 887.46924 944.35254 315 0.9943682 -0.99437
-}
-// brush 3
-{
-( -1856 -4256 0 ) ( -1856 -4080 0 ) ( -1856 -4080 16 ) kenney_prototype-textures/PNG/Red/texture_02 884.3635 -16 0 1.03125 -1
-( -1840 -4240 16 ) ( -1840 -4256 0 ) ( -1856 -4256 0 ) kenney_prototype-textures/PNG/Red/texture_02 -160 816 270 1 -1
-( -1840 -4080 0 ) ( -1856 -4080 0 ) ( -1856 -4256 0 ) kenney_prototype-textures/PNG/Red/texture_02 884.3638 816 90 1.03125 1
-( -1856 -4240 16 ) ( -1856 -4080 16 ) ( -1840 -4080 16 ) kenney_prototype-textures/PNG/Red/texture_02 256.0005 816 90 0.9375 1
-( -1856 -4080 16 ) ( -1856 -4080 0 ) ( -1840 -4080 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 816 270 1 -1
-( -1840 -4080 16 ) ( -1840 -4080 0 ) ( -1840 -4256 0 ) kenney_prototype-textures/PNG/Red/texture_02 884.3635 -16 0 1.03125 -1
-}
-}
-// entity 21
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "22"
-"_tb_linked_group_id" "627f15a0-ce53-4296-b8c7-b75ed112e54f"
-"_tb_transformation" "-1 -1.2246467991473532e-16 -2.4492935982947064e-16 3904 2.4492935982947064e-16 -6.123233995736762e-17 -1 -3408.000000000002 1.2246467991473532e-16 -1 6.123233995736766e-17 -288.00000000000097 0 0 0 1"
-// brush 0
-{
-( -1728 -3904 80 ) ( -1728 -3904 32 ) ( -1728 -3888 32 ) kenney_prototype-textures/PNG/Green/texture_02 32.507935 816 270 0.984375 -1
-( -1680 -3904 32 ) ( -1728 -3904 32 ) ( -1728 -3904 80 ) kenney_prototype-textures/PNG/Green/texture_02 -261.68848 147.90967 135 0.9943691 0.99437
-( -1728 -3888 32 ) ( -1728 -3904 32 ) ( -1680 -3904 32 ) kenney_prototype-textures/PNG/Green/texture_02 -731.4287 816 180 0.984375 1
-( -1728 -3888 80 ) ( -1728 -3888 32 ) ( -1680 -3888 32 ) kenney_prototype-textures/PNG/Green/texture_02 -731.4287 -81.26985 180 0.984375 0.984375
-( -1728 -3888 80 ) ( -1680 -3888 32 ) ( -1680 -3904 32 ) kenney_prototype-textures/PNG/Green/texture_02 682.667 816 0 0.984375 -1
-}
-// brush 1
-{
-( -1840 -3904 16 ) ( -1840 -3904 0 ) ( -1840 -3888 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 816 270 1 -1
-( -1680 -3904 0 ) ( -1840 -3904 0 ) ( -1840 -3904 16 ) kenney_prototype-textures/PNG/Green/texture_02 -760.2422 -16 180 1.03125 1
-( -1840 -3888 0 ) ( -1840 -3904 0 ) ( -1680 -3904 0 ) kenney_prototype-textures/PNG/Green/texture_02 -938.667 816 180 0.9375 1
-( -1664 -3904 16 ) ( -1840 -3904 16 ) ( -1840 -3888 16 ) kenney_prototype-textures/PNG/Green/texture_02 -760.2427 816 180 1.03125 1
-( -1840 -3888 16 ) ( -1840 -3888 0 ) ( -1680 -3888 0 ) kenney_prototype-textures/PNG/Green/texture_02 -760.2422 -16 180 1.03125 1
-( -1680 -3904 0 ) ( -1664 -3904 16 ) ( -1664 -3888 16 ) kenney_prototype-textures/PNG/Green/texture_02 -656 816 180 1 1
-}
-// brush 2
-{
-( -1728 -3904 0 ) ( -1728 -3904 -48 ) ( -1728 -3888 -48 ) kenney_prototype-textures/PNG/Green/texture_02 975.23804 816 270 0.984375 -1
-( -1680 -3904 0 ) ( -1728 -3904 -48 ) ( -1728 -3904 0 ) kenney_prototype-textures/PNG/Green/texture_02 -731.4287 0 180 0.984375 0.984375
-( -1680 -3904 0 ) ( -1728 -3904 0 ) ( -1728 -3888 0 ) kenney_prototype-textures/PNG/Green/texture_02 -731.4287 816 180 0.984375 1
-( -1728 -3888 0 ) ( -1728 -3888 -48 ) ( -1680 -3888 0 ) kenney_prototype-textures/PNG/Green/texture_02 -238.9331 -204.80078 225 0.9943691 0.9943682
-( -1728 -3888 -48 ) ( -1728 -3904 -48 ) ( -1680 -3904 0 ) kenney_prototype-textures/PNG/Green/texture_02 -731.4287 816 180 0.984375 1
-}
-// brush 3
-{
-( -1840 -3904 32 ) ( -1840 -3904 16 ) ( -1840 -3888 16 ) kenney_prototype-textures/PNG/Green/texture_02 16 816 270 1 -1
-( -1664 -3904 16 ) ( -1840 -3904 16 ) ( -1840 -3904 32 ) kenney_prototype-textures/PNG/Green/texture_02 -760.2422 -32 180 1.03125 1
-( -1840 -3888 16 ) ( -1840 -3904 16 ) ( -1664 -3904 16 ) kenney_prototype-textures/PNG/Green/texture_02 -760.2427 816 180 1.03125 1
-( -1680 -3904 32 ) ( -1840 -3904 32 ) ( -1840 -3888 32 ) kenney_prototype-textures/PNG/Green/texture_02 -938.667 816 180 0.9375 1
-( -1840 -3888 32 ) ( -1840 -3888 16 ) ( -1664 -3888 16 ) kenney_prototype-textures/PNG/Green/texture_02 -760.2422 -32 180 1.03125 1
-( -1680 -3888 32 ) ( -1664 -3888 16 ) ( -1664 -3904 16 ) kenney_prototype-textures/PNG/Green/texture_02 640 816 0 1 -1
-}
-}
-// entity 22
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "23"
-"_tb_linked_group_id" "f90d4132-0e74-4ed3-bfa0-01b53ec309a9"
-"_tb_transformation" "-1 -1.224646799147352e-16 3.8285686989269494e-16 4096 -3.8285686989269494e-16 -2.8327694488239903e-16 -1 -3407.999999999998 1.2246467991473532e-16 -1 2.83276944882399e-16 -288.000000000001 0 0 0 1"
-// brush 0
-{
-( -1536 -3904 80 ) ( -1536 -3904 32 ) ( -1536 -3888 32 ) kenney_prototype-textures/PNG/Purple/texture_02 464 752 270 1 -1
-( -1488 -3904 32 ) ( -1536 -3904 32 ) ( -1536 -3904 80 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 -464 180 1 1
-( -1536 -3888 32 ) ( -1536 -3904 32 ) ( -1488 -3904 32 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 752 180 1 1
-( -1536 -3888 80 ) ( -1536 -3888 32 ) ( -1488 -3888 32 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 -464 180 1 1
-( -1536 -3888 80 ) ( -1488 -3888 32 ) ( -1488 -3904 32 ) kenney_prototype-textures/PNG/Purple/texture_02 896 752 0 1 -1
-}
-// brush 1
-{
-( -1648 -3904 16 ) ( -1648 -3904 0 ) ( -1648 -3888 0 ) kenney_prototype-textures/PNG/Purple/texture_02 480 752 270 1 -1
-( -1488 -3904 0 ) ( -1648 -3904 0 ) ( -1648 -3904 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 -480 180 1 1
-( -1648 -3888 0 ) ( -1648 -3904 0 ) ( -1488 -3904 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 752 180 1 1
-( -1472 -3904 16 ) ( -1648 -3904 16 ) ( -1648 -3888 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 752 180 1 1
-( -1648 -3888 16 ) ( -1648 -3888 0 ) ( -1488 -3888 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 -480 180 1 1
-( -1488 -3904 0 ) ( -1472 -3904 16 ) ( -1472 -3888 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -8 760 180 1 1
-}
-// brush 2
-{
-( -1536 -3904 0 ) ( -1536 -3904 -48 ) ( -1536 -3888 -48 ) kenney_prototype-textures/PNG/Purple/texture_02 480 752 270 1 -1
-( -1488 -3904 0 ) ( -1536 -3904 -48 ) ( -1536 -3904 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 -480 180 1 1
-( -1488 -3904 0 ) ( -1536 -3904 0 ) ( -1536 -3888 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 752 180 1 1
-( -1536 -3888 0 ) ( -1536 -3888 -48 ) ( -1488 -3888 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 -480 180 1 1
-( -1536 -3888 -48 ) ( -1536 -3904 -48 ) ( -1488 -3904 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -1008 752 180 1 1
-}
-// brush 3
-{
-( -1648 -3904 32 ) ( -1648 -3904 16 ) ( -1648 -3888 16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 752 270 1 -1
-( -1472 -3904 16 ) ( -1648 -3904 16 ) ( -1648 -3904 32 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 -464 180 1 1
-( -1648 -3888 16 ) ( -1648 -3904 16 ) ( -1472 -3904 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 752 180 1 1
-( -1488 -3904 32 ) ( -1648 -3904 32 ) ( -1648 -3888 32 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 752 180 1 1
-( -1648 -3888 32 ) ( -1648 -3888 16 ) ( -1472 -3888 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -960 -464 180 1 1
-( -1488 -3888 32 ) ( -1472 -3888 16 ) ( -1472 -3904 16 ) kenney_prototype-textures/PNG/Purple/texture_02 904 760 0 1 -1
-}
-}
-// entity 23
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "24"
-"_tb_linked_group_id" "9457000a-db25-4815-b230-e043651b34a8"
-"_tb_transformation" "-1 -1.224646799147352e-16 3.8285686989269494e-16 4288 -3.8285686989269494e-16 -2.8327694488239903e-16 -1 -3407.999999999998 1.2246467991473532e-16 -1 2.83276944882399e-16 -288.000000000001 0 0 0 1"
-// brush 0
-{
-( -1344 -3904 80 ) ( -1344 -3904 32 ) ( -1344 -3888 32 ) kenney_prototype-textures/PNG/Orange/texture_02 32.50794 816 270 0.984375 -1
-( -1296 -3904 32 ) ( -1344 -3904 32 ) ( -1344 -3904 80 ) kenney_prototype-textures/PNG/Orange/texture_02 11.37793 898.84344 135 0.9943691 0.99437
-( -1344 -3888 32 ) ( -1344 -3904 32 ) ( -1296 -3904 32 ) kenney_prototype-textures/PNG/Orange/texture_02 682.66675 816 180 0.984375 1
-( -1344 -3888 80 ) ( -1344 -3888 32 ) ( -1296 -3888 32 ) kenney_prototype-textures/PNG/Orange/texture_02 682.66675 942.7301 180 0.984375 0.984375
-( -1344 -3888 80 ) ( -1296 -3888 32 ) ( -1296 -3904 32 ) kenney_prototype-textures/PNG/Orange/texture_02 292.5714 816 0 0.984375 -1
-}
-// brush 1
-{
-( -1456 -3904 16 ) ( -1456 -3904 0 ) ( -1456 -3888 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 816 270 1 -1
-( -1296 -3904 0 ) ( -1456 -3904 0 ) ( -1456 -3904 16 ) kenney_prototype-textures/PNG/Orange/texture_02 636.1212 1008 180 1.03125 1
-( -1456 -3888 0 ) ( -1456 -3904 0 ) ( -1296 -3904 0 ) kenney_prototype-textures/PNG/Orange/texture_02 494.93335 816 180 0.9375 1
-( -1280 -3904 16 ) ( -1456 -3904 16 ) ( -1456 -3888 16 ) kenney_prototype-textures/PNG/Orange/texture_02 636.1212 816 180 1.03125 1
-( -1456 -3888 16 ) ( -1456 -3888 0 ) ( -1296 -3888 0 ) kenney_prototype-textures/PNG/Orange/texture_02 636.1212 1008 180 1.03125 1
-( -1296 -3904 0 ) ( -1280 -3904 16 ) ( -1280 -3888 16 ) kenney_prototype-textures/PNG/Orange/texture_02 752 816 180 1 1
-}
-// brush 2
-{
-( -1344 -3904 0 ) ( -1344 -3904 -48 ) ( -1344 -3888 -48 ) kenney_prototype-textures/PNG/Orange/texture_02 975.23804 816 270 0.984375 -1
-( -1296 -3904 0 ) ( -1344 -3904 -48 ) ( -1344 -3904 0 ) kenney_prototype-textures/PNG/Orange/texture_02 682.66675 0 180 0.984375 0.984375
-( -1296 -3904 0 ) ( -1344 -3904 0 ) ( -1344 -3888 0 ) kenney_prototype-textures/PNG/Orange/texture_02 682.66675 816 180 0.984375 1
-( -1344 -3888 0 ) ( -1344 -3888 -48 ) ( -1296 -3888 0 ) kenney_prototype-textures/PNG/Orange/texture_02 34.133484 68.26593 225 0.9943691 0.9943682
-( -1344 -3888 -48 ) ( -1344 -3904 -48 ) ( -1296 -3904 0 ) kenney_prototype-textures/PNG/Orange/texture_02 682.66675 816 180 0.984375 1
-}
-// brush 3
-{
-( -1456 -3904 32 ) ( -1456 -3904 16 ) ( -1456 -3888 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16 816 270 1 -1
-( -1280 -3904 16 ) ( -1456 -3904 16 ) ( -1456 -3904 32 ) kenney_prototype-textures/PNG/Orange/texture_02 636.1212 992 180 1.03125 1
-( -1456 -3888 16 ) ( -1456 -3904 16 ) ( -1280 -3904 16 ) kenney_prototype-textures/PNG/Orange/texture_02 636.1212 816 180 1.03125 1
-( -1296 -3904 32 ) ( -1456 -3904 32 ) ( -1456 -3888 32 ) kenney_prototype-textures/PNG/Orange/texture_02 494.93335 816 180 0.9375 1
-( -1456 -3888 32 ) ( -1456 -3888 16 ) ( -1280 -3888 16 ) kenney_prototype-textures/PNG/Orange/texture_02 636.1212 992 180 1.03125 1
-( -1296 -3888 32 ) ( -1280 -3888 16 ) ( -1280 -3904 16 ) kenney_prototype-textures/PNG/Orange/texture_02 256 816 0 1 -1
-}
-}
-// entity 24
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "27"
-"_tb_linked_group_id" "5231e48d-9341-4e6f-b6b9-2093195f1513"
-"_tb_transformation" "-1.0106430996148604e-15 2.832769448823989e-16 1 -815.9999999999936 -1 -1.224646799147356e-16 -1.0106430996148604e-15 2032.000000000001 1.2246467991473532e-16 -1 2.83276944882399e-16 -320.000000000001 0 0 0 1"
-// brush 0
-{
-( -336 -3600 48 ) ( -336 -3600 0 ) ( -336 -3552 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -585.1428 975.23804 180 0.984375 0.984375
-( -320 -3600 48 ) ( -320 -3600 0 ) ( -336 -3600 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -336 270 0.984375 1
-( -336 -3600 0 ) ( -320 -3600 0 ) ( -320 -3552 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -585.1428 -336 270 0.984375 1
-( -336 -3600 48 ) ( -336 -3552 0 ) ( -320 -3552 0 ) kenney_prototype-textures/PNG/Orange/texture_02 536.3811 -336 90 0.984375 -1
-( -320 -3552 0 ) ( -320 -3600 0 ) ( -320 -3600 48 ) kenney_prototype-textures/PNG/Orange/texture_02 -546.1328 477.864 135 0.9943691 0.99437
-}
-// brush 1
-{
-( -336 -3712 -16 ) ( -336 -3712 -32 ) ( -336 -3552 -32 ) kenney_prototype-textures/PNG/Orange/texture_02 -527.51514 16 180 1.03125 1
-( -320 -3712 -16 ) ( -320 -3712 -32 ) ( -336 -3712 -32 ) kenney_prototype-textures/PNG/Orange/texture_02 -32 -336 270 1 1
-( -336 -3712 -32 ) ( -320 -3712 -32 ) ( -320 -3552 -32 ) kenney_prototype-textures/PNG/Orange/texture_02 136.53345 -336 270 0.9375 1
-( -320 -3536 -16 ) ( -320 -3712 -16 ) ( -336 -3712 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -527.51514 -336 270 1.03125 1
-( -320 -3552 -32 ) ( -320 -3536 -16 ) ( -336 -3536 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -480 -336 270 1 1
-( -320 -3552 -32 ) ( -320 -3712 -32 ) ( -320 -3712 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -527.51514 16 180 1.03125 1
-}
-// brush 2
-{
-( -336 -3600 -32 ) ( -336 -3600 -80 ) ( -336 -3552 -32 ) kenney_prototype-textures/PNG/Orange/texture_02 -568.88855 -489.24634 225 0.9943691 0.9943682
-( -320 -3600 -32 ) ( -320 -3600 -80 ) ( -336 -3600 -80 ) kenney_prototype-textures/PNG/Orange/texture_02 942.7301 -336 270 0.984375 1
-( -320 -3552 -32 ) ( -320 -3600 -32 ) ( -336 -3600 -32 ) kenney_prototype-textures/PNG/Orange/texture_02 -585.1428 -336 270 0.984375 1
-( -336 -3600 -80 ) ( -320 -3600 -80 ) ( -320 -3552 -32 ) kenney_prototype-textures/PNG/Orange/texture_02 -585.1428 -336 270 0.984375 1
-( -320 -3552 -32 ) ( -320 -3600 -80 ) ( -320 -3600 -32 ) kenney_prototype-textures/PNG/Orange/texture_02 -585.1428 32.507935 180 0.984375 0.984375
-}
-// brush 3
-{
-( -336 -3712 0 ) ( -336 -3712 -16 ) ( -336 -3536 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -527.51514 0 180 1.03125 1
-( -320 -3712 0 ) ( -320 -3712 -16 ) ( -336 -3712 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 -336 270 1 1
-( -336 -3712 -16 ) ( -320 -3712 -16 ) ( -320 -3536 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -527.51514 -336 270 1.03125 1
-( -320 -3552 0 ) ( -320 -3712 0 ) ( -336 -3712 0 ) kenney_prototype-textures/PNG/Orange/texture_02 136.53345 -336 270 0.9375 1
-( -336 -3552 0 ) ( -336 -3536 -16 ) ( -320 -3536 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 464 -336 90 1 -1
-( -320 -3536 -16 ) ( -320 -3712 -16 ) ( -320 -3712 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -527.51514 0 180 1.03125 1
-}
-}
-// entity 25
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "28"
-"_tb_linked_group_id" "66323aeb-5f8a-43ed-91ee-24810e033b5a"
-"_tb_transformation" "-1.0106430996148604e-15 2.832769448823989e-16 1 -815.9999999999941 -1 -1.224646799147356e-16 -1.0106430996148604e-15 1840.000000000001 1.2246467991473532e-16 -1 2.83276944882399e-16 -320.000000000001 0 0 0 1"
-// brush 0
-{
-( -336 -3792 48 ) ( -336 -3792 0 ) ( -336 -3744 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -432 180 1 1
-( -320 -3792 48 ) ( -320 -3792 0 ) ( -336 -3792 0 ) kenney_prototype-textures/PNG/Purple/texture_02 432 -400 270 1 1
-( -336 -3792 0 ) ( -320 -3792 0 ) ( -320 -3744 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -400 270 1 1
-( -336 -3792 48 ) ( -336 -3744 0 ) ( -320 -3744 0 ) kenney_prototype-textures/PNG/Purple/texture_02 80 -400 90 1 -1
-( -320 -3744 0 ) ( -320 -3792 0 ) ( -320 -3792 48 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -432 180 1 1
-}
-// brush 1
-{
-( -336 -3904 -16 ) ( -336 -3904 -32 ) ( -336 -3744 -32 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -448 180 1 1
-( -320 -3904 -16 ) ( -320 -3904 -32 ) ( -336 -3904 -32 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -400 270 1 1
-( -336 -3904 -32 ) ( -320 -3904 -32 ) ( -320 -3744 -32 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -400 270 1 1
-( -320 -3728 -16 ) ( -320 -3904 -16 ) ( -336 -3904 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -400 270 1 1
-( -320 -3744 -32 ) ( -320 -3728 -16 ) ( -336 -3728 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -216 -392 270 1 1
-( -320 -3744 -32 ) ( -320 -3904 -32 ) ( -320 -3904 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -448 180 1 1
-}
-// brush 2
-{
-( -336 -3792 -32 ) ( -336 -3792 -80 ) ( -336 -3744 -32 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -448 180 1 1
-( -320 -3792 -32 ) ( -320 -3792 -80 ) ( -336 -3792 -80 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -400 270 1 1
-( -320 -3744 -32 ) ( -320 -3792 -32 ) ( -336 -3792 -32 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -400 270 1 1
-( -336 -3792 -80 ) ( -320 -3792 -80 ) ( -320 -3744 -32 ) kenney_prototype-textures/PNG/Purple/texture_02 -192 -400 270 1 1
-( -320 -3744 -32 ) ( -320 -3792 -80 ) ( -320 -3792 -32 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -448 180 1 1
-}
-// brush 3
-{
-( -336 -3904 0 ) ( -336 -3904 -16 ) ( -336 -3728 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -432 180 1 1
-( -320 -3904 0 ) ( -320 -3904 -16 ) ( -336 -3904 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 432 -400 270 1 1
-( -336 -3904 -16 ) ( -320 -3904 -16 ) ( -320 -3728 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -400 270 1 1
-( -320 -3744 0 ) ( -320 -3904 0 ) ( -336 -3904 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -400 270 1 1
-( -336 -3744 0 ) ( -336 -3728 -16 ) ( -320 -3728 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 88 -392 90 1 -1
-( -320 -3728 -16 ) ( -320 -3904 -16 ) ( -320 -3904 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -144 -432 180 1 1
-}
-}
-// entity 26
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "29"
-"_tb_linked_group_id" "68195735-7365-484a-bb65-7b5bde839601"
-"_tb_transformation" "-1.6384293293370261e-15 6.123233995736745e-17 1 -815.9999999999905 -1 -1.224646799147354e-16 -1.6384293293370261e-15 1648.000000000001 1.2246467991473532e-16 -1 6.123233995736766e-17 -320.00000000000097 0 0 0 1"
-// brush 0
-{
-( -336 -3984 48 ) ( -336 -3984 0 ) ( -336 -3936 0 ) kenney_prototype-textures/PNG/Green/texture_02 48.761963 -48.761917 180 0.984375 0.984375
-( -320 -3984 48 ) ( -320 -3984 0 ) ( -336 -3984 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 -336 270 0.984375 1
-( -336 -3984 0 ) ( -320 -3984 0 ) ( -320 -3936 0 ) kenney_prototype-textures/PNG/Green/texture_02 48.761963 -336 270 0.984375 1
-( -336 -3984 48 ) ( -336 -3936 0 ) ( -320 -3936 0 ) kenney_prototype-textures/PNG/Green/texture_02 -97.52368 -336 90 0.984375 -1
-( -320 -3936 0 ) ( -320 -3984 0 ) ( -320 -3984 48 ) kenney_prototype-textures/PNG/Green/texture_02 -819.19934 750.9302 135 0.9943691 0.99437
-}
-// brush 1
-{
-( -336 -4096 -16 ) ( -336 -4096 -32 ) ( -336 -3936 -32 ) kenney_prototype-textures/PNG/Green/texture_02 124.12109 16 180 1.03125 1
-( -320 -4096 -16 ) ( -320 -4096 -32 ) ( -336 -4096 -32 ) kenney_prototype-textures/PNG/Green/texture_02 -32 -336 270 1 1
-( -336 -4096 -32 ) ( -320 -4096 -32 ) ( -320 -3936 -32 ) kenney_prototype-textures/PNG/Green/texture_02 -273.0669 -336 270 0.9375 1
-( -320 -3920 -16 ) ( -320 -4096 -16 ) ( -336 -4096 -16 ) kenney_prototype-textures/PNG/Green/texture_02 124.12134 -336 270 1.03125 1
-( -320 -3936 -32 ) ( -320 -3920 -16 ) ( -336 -3920 -16 ) kenney_prototype-textures/PNG/Green/texture_02 160 -336 270 1 1
-( -320 -3936 -32 ) ( -320 -4096 -32 ) ( -320 -4096 -16 ) kenney_prototype-textures/PNG/Green/texture_02 124.12109 16 180 1.03125 1
-}
-// brush 2
-{
-( -336 -3984 -32 ) ( -336 -3984 -80 ) ( -336 -3936 -32 ) kenney_prototype-textures/PNG/Green/texture_02 -841.9551 -762.3131 225 0.9943691 0.9943682
-( -320 -3984 -32 ) ( -320 -3984 -80 ) ( -336 -3984 -80 ) kenney_prototype-textures/PNG/Green/texture_02 942.7301 -336 270 0.984375 1
-( -320 -3936 -32 ) ( -320 -3984 -32 ) ( -336 -3984 -32 ) kenney_prototype-textures/PNG/Green/texture_02 48.761963 -336 270 0.984375 1
-( -336 -3984 -80 ) ( -320 -3984 -80 ) ( -320 -3936 -32 ) kenney_prototype-textures/PNG/Green/texture_02 48.761963 -336 270 0.984375 1
-( -320 -3936 -32 ) ( -320 -3984 -80 ) ( -320 -3984 -32 ) kenney_prototype-textures/PNG/Green/texture_02 48.761963 32.507935 180 0.984375 0.984375
-}
-// brush 3
-{
-( -336 -4096 0 ) ( -336 -4096 -16 ) ( -336 -3920 -16 ) kenney_prototype-textures/PNG/Green/texture_02 124.12109 0 180 1.03125 1
-( -320 -4096 0 ) ( -320 -4096 -16 ) ( -336 -4096 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -16 -336 270 1 1
-( -336 -4096 -16 ) ( -320 -4096 -16 ) ( -320 -3920 -16 ) kenney_prototype-textures/PNG/Green/texture_02 124.12134 -336 270 1.03125 1
-( -320 -3936 0 ) ( -320 -4096 0 ) ( -336 -4096 0 ) kenney_prototype-textures/PNG/Green/texture_02 -273.0669 -336 270 0.9375 1
-( -336 -3936 0 ) ( -336 -3920 -16 ) ( -320 -3920 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -176 -336 90 1 -1
-( -320 -3920 -16 ) ( -320 -4096 -16 ) ( -320 -4096 0 ) kenney_prototype-textures/PNG/Green/texture_02 124.12109 0 180 1.03125 1
-}
-}
-// entity 27
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "30"
-"_tb_linked_group_id" "e9585cb5-64e3-44ef-b079-1378ba57f6ea"
-"_tb_transformation" "-1 -1.2246467991473532e-16 -2.4492935982947064e-16 4928 2.4492935982947064e-16 -6.123233995736762e-17 -1 -1360.0000000000018 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( -704 -1856 64 ) ( -704 -1856 16 ) ( -704 -1840 16 ) kenney_prototype-textures/PNG/Green/texture_02 16.253967 -208 270 0.984375 -1
-( -656 -1856 16 ) ( -704 -1856 16 ) ( -704 -1856 64 ) kenney_prototype-textures/PNG/Green/texture_02 477.8669 -568.8895 135 0.9943691 0.99437
-( -704 -1840 16 ) ( -704 -1856 16 ) ( -656 -1856 16 ) kenney_prototype-textures/PNG/Green/texture_02 308.82538 -208 180 0.984375 1
-( -704 -1840 64 ) ( -704 -1840 16 ) ( -656 -1840 16 ) kenney_prototype-textures/PNG/Green/texture_02 308.82538 -65.015884 180 0.984375 0.984375
-( -704 -1840 64 ) ( -656 -1840 16 ) ( -656 -1856 16 ) kenney_prototype-textures/PNG/Green/texture_02 -357.58698 -208 0 0.984375 -1
-}
-// brush 1
-{
-( -816 -1856 0 ) ( -816 -1856 -16 ) ( -816 -1840 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -16 -208 270 1 -1
-( -656 -1856 -16 ) ( -816 -1856 -16 ) ( -816 -1856 0 ) kenney_prototype-textures/PNG/Green/texture_02 232.7273 0 180 1.03125 1
-( -816 -1840 -16 ) ( -816 -1856 -16 ) ( -656 -1856 -16 ) kenney_prototype-textures/PNG/Green/texture_02 153.60004 -208 180 0.9375 1
-( -640 -1856 0 ) ( -816 -1856 0 ) ( -816 -1840 0 ) kenney_prototype-textures/PNG/Green/texture_02 232.7273 -208 180 1.03125 1
-( -816 -1840 0 ) ( -816 -1840 -16 ) ( -656 -1840 -16 ) kenney_prototype-textures/PNG/Green/texture_02 232.7273 0 180 1.03125 1
-( -656 -1856 -16 ) ( -640 -1856 0 ) ( -640 -1840 0 ) kenney_prototype-textures/PNG/Green/texture_02 368 -208 180 1 1
-}
-// brush 2
-{
-( -704 -1856 -16 ) ( -704 -1856 -64 ) ( -704 -1840 -64 ) kenney_prototype-textures/PNG/Green/texture_02 958.9841 -208 270 0.984375 -1
-( -656 -1856 -16 ) ( -704 -1856 -64 ) ( -704 -1856 -16 ) kenney_prototype-textures/PNG/Green/texture_02 308.82538 16.25397 180 0.984375 0.984375
-( -656 -1856 -16 ) ( -704 -1856 -16 ) ( -704 -1840 -16 ) kenney_prototype-textures/PNG/Green/texture_02 308.82538 -208 180 0.984375 1
-( -704 -1840 -16 ) ( -704 -1840 -64 ) ( -656 -1840 -16 ) kenney_prototype-textures/PNG/Green/texture_02 477.8668 534.75525 225 0.9943691 0.9943682
-( -704 -1840 -64 ) ( -704 -1856 -64 ) ( -656 -1856 -16 ) kenney_prototype-textures/PNG/Green/texture_02 308.82538 -208 180 0.984375 1
-}
-// brush 3
-{
-( -816 -1856 16 ) ( -816 -1856 0 ) ( -816 -1840 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 -208 270 1 -1
-( -640 -1856 0 ) ( -816 -1856 0 ) ( -816 -1856 16 ) kenney_prototype-textures/PNG/Green/texture_02 232.7273 -16 180 1.03125 1
-( -816 -1840 0 ) ( -816 -1856 0 ) ( -640 -1856 0 ) kenney_prototype-textures/PNG/Green/texture_02 232.7273 -208 180 1.03125 1
-( -656 -1856 16 ) ( -816 -1856 16 ) ( -816 -1840 16 ) kenney_prototype-textures/PNG/Green/texture_02 153.60004 -208 180 0.9375 1
-( -816 -1840 16 ) ( -816 -1840 0 ) ( -640 -1840 0 ) kenney_prototype-textures/PNG/Green/texture_02 232.7273 -16 180 1.03125 1
-( -656 -1840 16 ) ( -640 -1840 0 ) ( -640 -1856 0 ) kenney_prototype-textures/PNG/Green/texture_02 -384 -208 0 1 -1
-}
-}
-// entity 28
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "31"
-"_tb_linked_group_id" "9450ec63-90ae-424d-8dcb-4a5141b36b43"
-"_tb_transformation" "-1 -1.224646799147352e-16 3.8285686989269494e-16 5120 -3.8285686989269494e-16 -2.8327694488239903e-16 -1 -1359.9999999999982 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( -512 -1856 64 ) ( -512 -1856 16 ) ( -512 -1840 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -272 270 1 -1
-( -464 -1856 16 ) ( -512 -1856 16 ) ( -512 -1856 64 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -448 180 1 1
-( -512 -1840 16 ) ( -512 -1856 16 ) ( -464 -1856 16 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -272 180 1 1
-( -512 -1840 64 ) ( -512 -1840 16 ) ( -464 -1840 16 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -448 180 1 1
-( -512 -1840 64 ) ( -464 -1840 16 ) ( -464 -1856 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -128 -272 0 1 -1
-}
-// brush 1
-{
-( -624 -1856 0 ) ( -624 -1856 -16 ) ( -624 -1840 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -272 270 1 -1
-( -464 -1856 -16 ) ( -624 -1856 -16 ) ( -624 -1856 0 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -464 180 1 1
-( -624 -1840 -16 ) ( -624 -1856 -16 ) ( -464 -1856 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -272 180 1 1
-( -448 -1856 0 ) ( -624 -1856 0 ) ( -624 -1840 0 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -272 180 1 1
-( -624 -1840 0 ) ( -624 -1840 -16 ) ( -464 -1840 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -464 180 1 1
-( -464 -1856 -16 ) ( -448 -1856 0 ) ( -448 -1840 0 ) kenney_prototype-textures/PNG/Purple/texture_02 1016 -264 180 1 1
-}
-// brush 2
-{
-( -512 -1856 -16 ) ( -512 -1856 -64 ) ( -512 -1840 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -272 270 1 -1
-( -464 -1856 -16 ) ( -512 -1856 -64 ) ( -512 -1856 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -464 180 1 1
-( -464 -1856 -16 ) ( -512 -1856 -16 ) ( -512 -1840 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -272 180 1 1
-( -512 -1840 -16 ) ( -512 -1840 -64 ) ( -464 -1840 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -464 180 1 1
-( -512 -1840 -64 ) ( -512 -1856 -64 ) ( -464 -1856 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 16 -272 180 1 1
-}
-// brush 3
-{
-( -624 -1856 16 ) ( -624 -1856 0 ) ( -624 -1840 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -272 270 1 -1
-( -448 -1856 0 ) ( -624 -1856 0 ) ( -624 -1856 16 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -448 180 1 1
-( -624 -1840 0 ) ( -624 -1856 0 ) ( -448 -1856 0 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -272 180 1 1
-( -464 -1856 16 ) ( -624 -1856 16 ) ( -624 -1840 16 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -272 180 1 1
-( -624 -1840 16 ) ( -624 -1840 0 ) ( -448 -1840 0 ) kenney_prototype-textures/PNG/Purple/texture_02 64 -448 180 1 1
-( -464 -1840 16 ) ( -448 -1840 0 ) ( -448 -1856 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -120 -264 0 1 -1
-}
-}
-// entity 29
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "32"
-"_tb_linked_group_id" "f591d222-3815-4348-9d22-0b7b237c8d09"
-"_tb_transformation" "-1 -1.224646799147352e-16 3.8285686989269494e-16 5312 -3.8285686989269494e-16 -2.8327694488239903e-16 -1 -1359.9999999999982 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( -320 -1856 64 ) ( -320 -1856 16 ) ( -320 -1840 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.253967 -208 270 0.984375 -1
-( -272 -1856 16 ) ( -320 -1856 16 ) ( -320 -1856 64 ) kenney_prototype-textures/PNG/Orange/texture_02 750.9334 182.0442 135 0.9943691 0.99437
-( -320 -1840 16 ) ( -320 -1856 16 ) ( -272 -1856 16 ) kenney_prototype-textures/PNG/Orange/texture_02 698.92065 -208 180 0.984375 1
-( -320 -1840 64 ) ( -320 -1840 16 ) ( -272 -1840 16 ) kenney_prototype-textures/PNG/Orange/texture_02 698.92065 -65.015884 180 0.984375 0.984375
-( -320 -1840 64 ) ( -272 -1840 16 ) ( -272 -1856 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -747.68256 -208 0 0.984375 -1
-}
-// brush 1
-{
-( -432 -1856 0 ) ( -432 -1856 -16 ) ( -432 -1840 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 -208 270 1 -1
-( -272 -1856 -16 ) ( -432 -1856 -16 ) ( -432 -1856 0 ) kenney_prototype-textures/PNG/Orange/texture_02 605.0908 0 180 1.03125 1
-( -432 -1840 -16 ) ( -432 -1856 -16 ) ( -272 -1856 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 563.19995 -208 180 0.9375 1
-( -256 -1856 0 ) ( -432 -1856 0 ) ( -432 -1840 0 ) kenney_prototype-textures/PNG/Orange/texture_02 605.0909 -208 180 1.03125 1
-( -432 -1840 0 ) ( -432 -1840 -16 ) ( -272 -1840 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 605.0908 0 180 1.03125 1
-( -272 -1856 -16 ) ( -256 -1856 0 ) ( -256 -1840 0 ) kenney_prototype-textures/PNG/Orange/texture_02 752 -208 180 1 1
-}
-// brush 2
-{
-( -320 -1856 -16 ) ( -320 -1856 -64 ) ( -320 -1840 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 -208 270 0.984375 -1
-( -272 -1856 -16 ) ( -320 -1856 -64 ) ( -320 -1856 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 698.92065 16.25397 180 0.984375 0.984375
-( -272 -1856 -16 ) ( -320 -1856 -16 ) ( -320 -1840 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 698.92065 -208 180 0.984375 1
-( -320 -1840 -16 ) ( -320 -1840 -64 ) ( -272 -1840 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 750.9333 807.822 225 0.9943691 0.9943682
-( -320 -1840 -64 ) ( -320 -1856 -64 ) ( -272 -1856 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 698.92065 -208 180 0.984375 1
-}
-// brush 3
-{
-( -432 -1856 16 ) ( -432 -1856 0 ) ( -432 -1840 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -208 270 1 -1
-( -256 -1856 0 ) ( -432 -1856 0 ) ( -432 -1856 16 ) kenney_prototype-textures/PNG/Orange/texture_02 605.0908 -16 180 1.03125 1
-( -432 -1840 0 ) ( -432 -1856 0 ) ( -256 -1856 0 ) kenney_prototype-textures/PNG/Orange/texture_02 605.0909 -208 180 1.03125 1
-( -272 -1856 16 ) ( -432 -1856 16 ) ( -432 -1840 16 ) kenney_prototype-textures/PNG/Orange/texture_02 563.19995 -208 180 0.9375 1
-( -432 -1840 16 ) ( -432 -1840 0 ) ( -256 -1840 0 ) kenney_prototype-textures/PNG/Orange/texture_02 605.0908 -16 180 1.03125 1
-( -272 -1840 16 ) ( -256 -1840 0 ) ( -256 -1856 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -768 -208 0 1 -1
-}
-}
-// entity 30
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "33"
-"_tb_linked_group_id" "b51413b9-65f9-4bbb-b65f-cefa9e031ba8"
-"_tb_transformation" "2.2049832191018243e-15 -6.123233995736739e-17 -1 3279.999999999988 1 1.2246467991473544e-16 2.2049832191018243e-15 -7616 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 2784 -2032 16 ) ( 2784 -1984 16 ) ( 2784 -1984 64 ) kenney_prototype-textures/PNG/Green/texture_02 -682.6669 591.6459 45 0.9943691 -0.99437
-( 2800 -1984 64 ) ( 2800 -2032 16 ) ( 2784 -2032 16 ) kenney_prototype-textures/PNG/Green/texture_02 1007.74634 -752 270 0.984375 -1
-( 2800 -1984 16 ) ( 2784 -1984 16 ) ( 2784 -2032 16 ) kenney_prototype-textures/PNG/Green/texture_02 -32.507812 -752 90 0.984375 1
-( 2784 -1984 64 ) ( 2784 -1984 16 ) ( 2800 -1984 16 ) kenney_prototype-textures/PNG/Green/texture_02 16.253963 -752 270 0.984375 -1
-( 2800 -1984 64 ) ( 2800 -1984 16 ) ( 2800 -2032 16 ) kenney_prototype-textures/PNG/Green/texture_02 -32.507935 -65.015884 0 0.984375 -0.984375
-}
-// brush 1
-{
-( 2784 -2032 -16 ) ( 2784 -1872 -16 ) ( 2784 -1872 0 ) kenney_prototype-textures/PNG/Green/texture_02 -232.7273 0 0 1.03125 -1
-( 2784 -2032 -16 ) ( 2784 -2048 0 ) ( 2800 -2048 0 ) kenney_prototype-textures/PNG/Green/texture_02 -16 -752 90 1 1
-( 2800 -1872 -16 ) ( 2784 -1872 -16 ) ( 2784 -2032 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -51.199707 -752 90 0.9375 1
-( 2784 -2048 0 ) ( 2784 -1872 0 ) ( 2800 -1872 0 ) kenney_prototype-textures/PNG/Green/texture_02 -232.72693 -752 90 1.03125 1
-( 2784 -1872 0 ) ( 2784 -1872 -16 ) ( 2800 -1872 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -16 -752 270 1 -1
-( 2800 -1872 0 ) ( 2800 -1872 -16 ) ( 2800 -2032 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -232.7273 0 0 1.03125 -1
-}
-// brush 2
-{
-( 2784 -2032 -16 ) ( 2784 -1984 -64 ) ( 2784 -1984 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -32.507935 16.25397 0 0.984375 -0.984375
-( 2800 -1984 -64 ) ( 2784 -1984 -64 ) ( 2784 -2032 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -32.507812 -752 90 0.984375 1
-( 2784 -2032 -16 ) ( 2784 -1984 -16 ) ( 2800 -1984 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -32.507812 -752 90 0.984375 1
-( 2784 -1984 -16 ) ( 2784 -1984 -64 ) ( 2800 -1984 -64 ) kenney_prototype-textures/PNG/Green/texture_02 958.9841 -752 270 0.984375 -1
-( 2800 -1984 -16 ) ( 2800 -1984 -64 ) ( 2800 -2032 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -682.6669 -625.7766 315 0.9943691 -0.9943682
-}
-// brush 3
-{
-( 2784 -2048 0 ) ( 2784 -1872 0 ) ( 2784 -1872 16 ) kenney_prototype-textures/PNG/Green/texture_02 -232.7273 -16 0 1.03125 -1
-( 2800 -2032 16 ) ( 2800 -2048 0 ) ( 2784 -2048 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 -752 270 1 -1
-( 2800 -1872 0 ) ( 2784 -1872 0 ) ( 2784 -2048 0 ) kenney_prototype-textures/PNG/Green/texture_02 -232.72693 -752 90 1.03125 1
-( 2784 -2032 16 ) ( 2784 -1872 16 ) ( 2800 -1872 16 ) kenney_prototype-textures/PNG/Green/texture_02 -51.199707 -752 90 0.9375 1
-( 2784 -1872 16 ) ( 2784 -1872 0 ) ( 2800 -1872 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 -752 270 1 -1
-( 2800 -1872 16 ) ( 2800 -1872 0 ) ( 2800 -2048 0 ) kenney_prototype-textures/PNG/Green/texture_02 -232.7273 -16 0 1.03125 -1
-}
-}
-// entity 31
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "34"
-"_tb_linked_group_id" "5b41dabd-3117-499d-a5e5-d32757fee255"
-"_tb_transformation" "1.5771969893796585e-15 -2.832769448823988e-16 -1 3279.9999999999914 1 1.2246467991473576e-16 1.5771969893796585e-15 -7808 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 2784 -2224 16 ) ( 2784 -2176 16 ) ( 2784 -2176 64 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -448 0 1 -1
-( 2800 -2176 64 ) ( 2800 -2224 16 ) ( 2784 -2224 16 ) kenney_prototype-textures/PNG/Purple/texture_02 256 -816 270 1 -1
-( 2800 -2176 16 ) ( 2784 -2176 16 ) ( 2784 -2224 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -816 90 1 1
-( 2784 -2176 64 ) ( 2784 -2176 16 ) ( 2800 -2176 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -816 270 1 -1
-( 2800 -2176 64 ) ( 2800 -2176 16 ) ( 2800 -2224 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -448 0 1 -1
-}
-// brush 1
-{
-( 2784 -2224 -16 ) ( 2784 -2064 -16 ) ( 2784 -2064 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -464 0 1 -1
-( 2784 -2224 -16 ) ( 2784 -2240 0 ) ( 2800 -2240 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -392 -808 90 1 1
-( 2800 -2064 -16 ) ( 2784 -2064 -16 ) ( 2784 -2224 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -816 90 1 1
-( 2784 -2240 0 ) ( 2784 -2064 0 ) ( 2800 -2064 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -816 90 1 1
-( 2784 -2064 0 ) ( 2784 -2064 -16 ) ( 2800 -2064 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -816 270 1 -1
-( 2800 -2064 0 ) ( 2800 -2064 -16 ) ( 2800 -2224 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -464 0 1 -1
-}
-// brush 2
-{
-( 2784 -2224 -16 ) ( 2784 -2176 -64 ) ( 2784 -2176 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -464 0 1 -1
-( 2800 -2176 -64 ) ( 2784 -2176 -64 ) ( 2784 -2224 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -368 -816 90 1 1
-( 2784 -2224 -16 ) ( 2784 -2176 -16 ) ( 2800 -2176 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -816 90 1 1
-( 2784 -2176 -16 ) ( 2784 -2176 -64 ) ( 2800 -2176 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -816 270 1 -1
-( 2800 -2176 -16 ) ( 2800 -2176 -64 ) ( 2800 -2224 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -464 0 1 -1
-}
-// brush 3
-{
-( 2784 -2240 0 ) ( 2784 -2064 0 ) ( 2784 -2064 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -448 0 1 -1
-( 2800 -2224 16 ) ( 2800 -2240 0 ) ( 2784 -2240 0 ) kenney_prototype-textures/PNG/Purple/texture_02 264 -808 270 1 -1
-( 2800 -2064 0 ) ( 2784 -2064 0 ) ( 2784 -2240 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -816 90 1 1
-( 2784 -2224 16 ) ( 2784 -2064 16 ) ( 2800 -2064 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -816 90 1 1
-( 2784 -2064 16 ) ( 2784 -2064 0 ) ( 2800 -2064 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -816 270 1 -1
-( 2800 -2064 16 ) ( 2800 -2064 0 ) ( 2800 -2240 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -320 -448 0 1 -1
-}
-}
-// entity 32
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "35"
-"_tb_linked_group_id" "bca2db88-1e4d-4093-b269-1ff6ca8d8c72"
-"_tb_transformation" "1.5771969893796585e-15 -2.832769448823988e-16 -1 3279.999999999991 1 1.2246467991473576e-16 1.5771969893796585e-15 -8000 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 2784 -2416 16 ) ( 2784 -2368 16 ) ( 2784 -2368 64 ) kenney_prototype-textures/PNG/Orange/texture_02 -409.59998 318.57947 45 0.9943691 -0.99437
-( 2800 -2368 64 ) ( 2800 -2416 16 ) ( 2784 -2416 16 ) kenney_prototype-textures/PNG/Orange/texture_02 617.6509 -752 270 0.984375 -1
-( 2800 -2368 16 ) ( 2784 -2368 16 ) ( 2784 -2416 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -666.4126 -752 90 0.984375 1
-( 2784 -2368 64 ) ( 2784 -2368 16 ) ( 2800 -2368 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.253963 -752 270 0.984375 -1
-( 2800 -2368 64 ) ( 2800 -2368 16 ) ( 2800 -2416 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -666.4126 -65.015884 0 0.984375 -0.984375
-}
-// brush 1
-{
-( 2784 -2416 -16 ) ( 2784 -2256 -16 ) ( 2784 -2256 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -884.3638 0 0 1.03125 -1
-( 2784 -2416 -16 ) ( 2784 -2432 0 ) ( 2800 -2432 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -656 -752 90 1 1
-( 2800 -2256 -16 ) ( 2784 -2256 -16 ) ( 2784 -2416 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -665.59985 -752 90 0.9375 1
-( 2784 -2432 0 ) ( 2784 -2256 0 ) ( 2800 -2256 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -884.3633 -752 90 1.03125 1
-( 2784 -2256 0 ) ( 2784 -2256 -16 ) ( 2800 -2256 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 -752 270 1 -1
-( 2800 -2256 0 ) ( 2800 -2256 -16 ) ( 2800 -2416 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -884.3638 0 0 1.03125 -1
-}
-// brush 2
-{
-( 2784 -2416 -16 ) ( 2784 -2368 -64 ) ( 2784 -2368 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -666.4126 16.25397 0 0.984375 -0.984375
-( 2800 -2368 -64 ) ( 2784 -2368 -64 ) ( 2784 -2416 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -666.4126 -752 90 0.984375 1
-( 2784 -2416 -16 ) ( 2784 -2368 -16 ) ( 2800 -2368 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -666.4126 -752 90 0.984375 1
-( 2784 -2368 -16 ) ( 2784 -2368 -64 ) ( 2800 -2368 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 -752 270 0.984375 -1
-( 2800 -2368 -16 ) ( 2800 -2368 -64 ) ( 2800 -2416 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -409.59998 -352.7102 315 0.9943691 -0.9943682
-}
-// brush 3
-{
-( 2784 -2432 0 ) ( 2784 -2256 0 ) ( 2784 -2256 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -884.3638 -16 0 1.03125 -1
-( 2800 -2416 16 ) ( 2800 -2432 0 ) ( 2784 -2432 0 ) kenney_prototype-textures/PNG/Orange/texture_02 640 -752 270 1 -1
-( 2800 -2256 0 ) ( 2784 -2256 0 ) ( 2784 -2432 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -884.3633 -752 90 1.03125 1
-( 2784 -2416 16 ) ( 2784 -2256 16 ) ( 2800 -2256 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -665.59985 -752 90 0.9375 1
-( 2784 -2256 16 ) ( 2784 -2256 0 ) ( 2800 -2256 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -752 270 1 -1
-( 2800 -2256 16 ) ( 2800 -2256 0 ) ( 2800 -2432 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -884.3638 -16 0 1.03125 -1
-}
-}
-// entity 33
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "39"
-"_tb_linked_group_id" "a471bf92-a06c-4a71-b742-3fce33138be6"
-"_tb_transformation" "-1 -1.2246467991473547e-16 -5.282063047118696e-16 8160 5.282063047118696e-16 -2.8327694488239893e-16 -1 -3136.0000000000027 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 2528 -3632 64 ) ( 2528 -3632 16 ) ( 2528 -3616 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 480 270 1 -1
-( 2576 -3632 16 ) ( 2528 -3632 16 ) ( 2528 -3632 64 ) kenney_prototype-textures/PNG/Purple/texture_02 32 -448 180 1 1
-( 2528 -3616 16 ) ( 2528 -3632 16 ) ( 2576 -3632 16 ) kenney_prototype-textures/PNG/Purple/texture_02 32 480 180 1 1
-( 2528 -3616 64 ) ( 2528 -3616 16 ) ( 2576 -3616 16 ) kenney_prototype-textures/PNG/Purple/texture_02 32 -448 180 1 1
-( 2528 -3616 64 ) ( 2576 -3616 16 ) ( 2576 -3632 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -96 480 0 1 -1
-}
-// brush 1
-{
-( 2416 -3632 0 ) ( 2416 -3632 -16 ) ( 2416 -3616 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 480 270 1 -1
-( 2576 -3632 -16 ) ( 2416 -3632 -16 ) ( 2416 -3632 0 ) kenney_prototype-textures/PNG/Purple/texture_02 32 -464 180 1 1
-( 2416 -3616 -16 ) ( 2416 -3632 -16 ) ( 2576 -3632 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 32 480 180 1 1
-( 2592 -3632 0 ) ( 2416 -3632 0 ) ( 2416 -3616 0 ) kenney_prototype-textures/PNG/Purple/texture_02 32 480 180 1 1
-( 2416 -3616 0 ) ( 2416 -3616 -16 ) ( 2576 -3616 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 32 -464 180 1 1
-( 2576 -3632 -16 ) ( 2592 -3632 0 ) ( 2592 -3616 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -40 488 180 1 1
-}
-// brush 2
-{
-( 2528 -3632 -16 ) ( 2528 -3632 -64 ) ( 2528 -3616 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 480 270 1 -1
-( 2576 -3632 -16 ) ( 2528 -3632 -64 ) ( 2528 -3632 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 32 -464 180 1 1
-( 2576 -3632 -16 ) ( 2528 -3632 -16 ) ( 2528 -3616 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 32 480 180 1 1
-( 2528 -3616 -16 ) ( 2528 -3616 -64 ) ( 2576 -3616 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 32 -464 180 1 1
-( 2528 -3616 -64 ) ( 2528 -3632 -64 ) ( 2576 -3632 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -16 480 180 1 1
-}
-// brush 3
-{
-( 2416 -3632 16 ) ( 2416 -3632 0 ) ( 2416 -3616 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 480 270 1 -1
-( 2592 -3632 0 ) ( 2416 -3632 0 ) ( 2416 -3632 16 ) kenney_prototype-textures/PNG/Purple/texture_02 32 -448 180 1 1
-( 2416 -3616 0 ) ( 2416 -3632 0 ) ( 2592 -3632 0 ) kenney_prototype-textures/PNG/Purple/texture_02 32 480 180 1 1
-( 2576 -3632 16 ) ( 2416 -3632 16 ) ( 2416 -3616 16 ) kenney_prototype-textures/PNG/Purple/texture_02 32 480 180 1 1
-( 2416 -3616 16 ) ( 2416 -3616 0 ) ( 2592 -3616 0 ) kenney_prototype-textures/PNG/Purple/texture_02 32 -448 180 1 1
-( 2576 -3616 16 ) ( 2592 -3616 0 ) ( 2592 -3632 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -88 488 0 1 -1
-}
-}
-// entity 34
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "40"
-"_tb_linked_group_id" "5d4f4d9c-bb2c-4be0-b2f2-89186286f80c"
-"_tb_transformation" "-1 -1.2246467991473547e-16 -5.282063047118696e-16 8352 5.282063047118696e-16 -2.8327694488239893e-16 -1 -3136.000000000003 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 2720 -3632 64 ) ( 2720 -3632 16 ) ( 2720 -3616 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.25397 544 270 0.984375 -1
-( 2768 -3632 16 ) ( 2720 -3632 16 ) ( 2720 -3632 64 ) kenney_prototype-textures/PNG/Orange/texture_02 -159.28894 68.26868 135 0.9943691 0.99437
-( 2720 -3616 16 ) ( 2720 -3632 16 ) ( 2768 -3632 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -308.8252 544 180 0.984375 1
-( 2720 -3616 64 ) ( 2720 -3616 16 ) ( 2768 -3616 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -308.82544 -65.015884 180 0.984375 0.984375
-( 2720 -3616 64 ) ( 2768 -3616 16 ) ( 2768 -3632 16 ) kenney_prototype-textures/PNG/Orange/texture_02 260.06348 544 0 0.984375 -1
-}
-// brush 1
-{
-( 2608 -3632 0 ) ( 2608 -3632 -16 ) ( 2608 -3616 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 544 270 1 -1
-( 2768 -3632 -16 ) ( 2608 -3632 -16 ) ( 2608 -3632 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -543.0303 0 180 1.03125 1
-( 2608 -3616 -16 ) ( 2608 -3632 -16 ) ( 2768 -3632 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -290.1333 544 180 0.9375 1
-( 2784 -3632 0 ) ( 2608 -3632 0 ) ( 2608 -3616 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -543.03 544 180 1.03125 1
-( 2608 -3616 0 ) ( 2608 -3616 -16 ) ( 2768 -3616 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -543.0303 0 180 1.03125 1
-( 2768 -3632 -16 ) ( 2784 -3632 0 ) ( 2784 -3616 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -304 544 180 1 1
-}
-// brush 2
-{
-( 2720 -3632 -16 ) ( 2720 -3632 -64 ) ( 2720 -3616 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 544 270 0.984375 -1
-( 2768 -3632 -16 ) ( 2720 -3632 -64 ) ( 2720 -3632 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -308.82544 16.253971 180 0.984375 0.984375
-( 2768 -3632 -16 ) ( 2720 -3632 -16 ) ( 2720 -3616 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -308.8252 544 180 0.984375 1
-( 2720 -3616 -16 ) ( 2720 -3616 -64 ) ( 2768 -3616 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -159.28894 -102.398926 225 0.9943691 0.9943682
-( 2720 -3616 -64 ) ( 2720 -3632 -64 ) ( 2768 -3632 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -308.8252 544 180 0.984375 1
-}
-// brush 3
-{
-( 2608 -3632 16 ) ( 2608 -3632 0 ) ( 2608 -3616 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 544 270 1 -1
-( 2784 -3632 0 ) ( 2608 -3632 0 ) ( 2608 -3632 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -543.0303 -16 180 1.03125 1
-( 2608 -3616 0 ) ( 2608 -3632 0 ) ( 2784 -3632 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -543.03 544 180 1.03125 1
-( 2768 -3632 16 ) ( 2608 -3632 16 ) ( 2608 -3616 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -290.1333 544 180 0.9375 1
-( 2608 -3616 16 ) ( 2608 -3616 0 ) ( 2784 -3616 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -543.0303 -16 180 1.03125 1
-( 2768 -3616 16 ) ( 2784 -3616 0 ) ( 2784 -3632 0 ) kenney_prototype-textures/PNG/Orange/texture_02 288 544 0 1 -1
-}
-}
-// entity 35
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "41"
-"_tb_linked_group_id" "4c917eb3-64bb-431b-a470-c99b7efb113b"
-"_tb_transformation" "0.9999999999999998 1.2246467862436026e-16 -2.1073423060422713e-08 -3343.9999895475794 2.1073423060422713e-08 6.123234253811766e-17 0.9999999999999998 -4112.000119022694 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 2288 -3632 64 ) ( 2240 -3632 16 ) ( 2240 -3616 16 ) kenney_prototype-textures/PNG/Green/texture_02 227.55566 -560 180 0.984375 -1
-( 2288 -3632 64 ) ( 2288 -3632 16 ) ( 2240 -3632 16 ) kenney_prototype-textures/PNG/Green/texture_02 -276.31738 -65.015884 0 0.984375 -0.984375
-( 2288 -3632 16 ) ( 2288 -3616 16 ) ( 2240 -3616 16 ) kenney_prototype-textures/PNG/Green/texture_02 -276.31738 -560 0 0.984375 1
-( 2240 -3616 16 ) ( 2288 -3616 16 ) ( 2288 -3616 64 ) kenney_prototype-textures/PNG/Green/texture_02 -648.53284 557.5093 45 0.9943691 -0.99437
-( 2288 -3616 64 ) ( 2288 -3616 16 ) ( 2288 -3632 16 ) kenney_prototype-textures/PNG/Green/texture_02 16.25397 -560 270 0.984375 1
-}
-// brush 1
-{
-( 2240 -3616 -16 ) ( 2224 -3616 0 ) ( 2224 -3632 0 ) kenney_prototype-textures/PNG/Green/texture_02 -192 -560 0 1 1
-( 2400 -3632 0 ) ( 2400 -3632 -16 ) ( 2240 -3632 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -279.27295 0 0 1.03125 -1
-( 2400 -3632 -16 ) ( 2400 -3616 -16 ) ( 2240 -3616 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -511.99976 -560 0 0.9375 1
-( 2224 -3616 0 ) ( 2400 -3616 0 ) ( 2400 -3632 0 ) kenney_prototype-textures/PNG/Green/texture_02 -279.27246 -560 0 1.03125 1
-( 2240 -3616 -16 ) ( 2400 -3616 -16 ) ( 2400 -3616 0 ) kenney_prototype-textures/PNG/Green/texture_02 -279.27295 0 0 1.03125 -1
-( 2400 -3616 0 ) ( 2400 -3616 -16 ) ( 2400 -3632 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -16 -560 270 1 1
-}
-// brush 2
-{
-( 2288 -3632 -64 ) ( 2288 -3616 -64 ) ( 2240 -3616 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -276.31738 -560 0 0.984375 1
-( 2288 -3632 -16 ) ( 2288 -3632 -64 ) ( 2240 -3632 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -648.53284 -591.6454 315 0.9943691 -0.9943682
-( 2240 -3616 -16 ) ( 2288 -3616 -16 ) ( 2288 -3632 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -276.31738 -560 0 0.984375 1
-( 2240 -3616 -16 ) ( 2288 -3616 -64 ) ( 2288 -3616 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -276.31738 16.253971 0 0.984375 -0.984375
-( 2288 -3616 -16 ) ( 2288 -3616 -64 ) ( 2288 -3632 -64 ) kenney_prototype-textures/PNG/Green/texture_02 958.9841 -560 270 0.984375 1
-}
-// brush 3
-{
-( 2240 -3632 16 ) ( 2224 -3632 0 ) ( 2224 -3616 0 ) kenney_prototype-textures/PNG/Green/texture_02 176 -560 180 1 -1
-( 2400 -3632 16 ) ( 2400 -3632 0 ) ( 2224 -3632 0 ) kenney_prototype-textures/PNG/Green/texture_02 -279.27295 -16 0 1.03125 -1
-( 2400 -3632 0 ) ( 2400 -3616 0 ) ( 2224 -3616 0 ) kenney_prototype-textures/PNG/Green/texture_02 -279.27246 -560 0 1.03125 1
-( 2240 -3616 16 ) ( 2400 -3616 16 ) ( 2400 -3632 16 ) kenney_prototype-textures/PNG/Green/texture_02 -511.99976 -560 0 0.9375 1
-( 2224 -3616 0 ) ( 2400 -3616 0 ) ( 2400 -3616 16 ) kenney_prototype-textures/PNG/Green/texture_02 -279.27295 -16 0 1.03125 -1
-( 2400 -3616 16 ) ( 2400 -3616 0 ) ( 2400 -3632 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 -560 270 1 1
-}
-}
-// entity 36
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "42"
-"_tb_linked_group_id" "fdd2f450-12f3-46fc-82b8-3fe58999d857"
-"_tb_transformation" "2.0750966144311386e-15 2.8327694488239923e-16 1 3087.9999999999886 -1 -1.2246467991473473e-16 2.0750966144311386e-15 2303.999999999998 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 3568 -3328 64 ) ( 3568 -3328 16 ) ( 3568 -3280 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 -448 180 1 1
-( 3584 -3328 64 ) ( 3584 -3328 16 ) ( 3568 -3328 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 432 270 1 1
-( 3568 -3328 16 ) ( 3584 -3328 16 ) ( 3584 -3280 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 432 270 1 1
-( 3568 -3328 64 ) ( 3568 -3280 16 ) ( 3584 -3280 16 ) kenney_prototype-textures/PNG/Purple/texture_02 640 432 90 1 -1
-( 3584 -3280 16 ) ( 3584 -3328 16 ) ( 3584 -3328 64 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 -448 180 1 1
-}
-// brush 1
-{
-( 3568 -3440 0 ) ( 3568 -3440 -16 ) ( 3568 -3280 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 -464 180 1 1
-( 3584 -3440 0 ) ( 3584 -3440 -16 ) ( 3568 -3440 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 432 270 1 1
-( 3568 -3440 -16 ) ( 3584 -3440 -16 ) ( 3584 -3280 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 432 270 1 1
-( 3584 -3264 0 ) ( 3584 -3440 0 ) ( 3568 -3440 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 432 270 1 1
-( 3584 -3280 -16 ) ( 3584 -3264 0 ) ( 3568 -3264 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -776 440 270 1 1
-( 3584 -3280 -16 ) ( 3584 -3440 -16 ) ( 3584 -3440 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 -464 180 1 1
-}
-// brush 2
-{
-( 3568 -3328 -16 ) ( 3568 -3328 -64 ) ( 3568 -3280 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 -464 180 1 1
-( 3584 -3328 -16 ) ( 3584 -3328 -64 ) ( 3568 -3328 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 432 270 1 1
-( 3584 -3280 -16 ) ( 3584 -3328 -16 ) ( 3568 -3328 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 432 270 1 1
-( 3568 -3328 -64 ) ( 3584 -3328 -64 ) ( 3584 -3280 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -752 432 270 1 1
-( 3584 -3280 -16 ) ( 3584 -3328 -64 ) ( 3584 -3328 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 -464 180 1 1
-}
-// brush 3
-{
-( 3568 -3440 16 ) ( 3568 -3440 0 ) ( 3568 -3264 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 -448 180 1 1
-( 3584 -3440 16 ) ( 3584 -3440 0 ) ( 3568 -3440 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 432 270 1 1
-( 3568 -3440 0 ) ( 3584 -3440 0 ) ( 3584 -3264 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 432 270 1 1
-( 3584 -3280 16 ) ( 3584 -3440 16 ) ( 3568 -3440 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 432 270 1 1
-( 3568 -3280 16 ) ( 3568 -3264 0 ) ( 3584 -3264 0 ) kenney_prototype-textures/PNG/Purple/texture_02 648 440 90 1 -1
-( 3584 -3264 0 ) ( 3584 -3440 0 ) ( 3584 -3440 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -704 -448 180 1 1
-}
-}
-// entity 37
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "43"
-"_tb_linked_group_id" "7b101df8-9549-48dc-a9be-93a01593cd7c"
-"_tb_transformation" "2.0750966144311386e-15 2.8327694488239923e-16 1 3087.9999999999886 -1 -1.2246467991473473e-16 2.0750966144311386e-15 2495.999999999998 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 3568 -3136 64 ) ( 3568 -3136 16 ) ( 3568 -3088 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -113.77783 -65.015884 180 0.984375 0.984375
-( 3584 -3136 64 ) ( 3584 -3136 16 ) ( 3568 -3136 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.253971 496 270 0.984375 1
-( 3568 -3136 16 ) ( 3584 -3136 16 ) ( 3584 -3088 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -113.77734 496 270 0.984375 1
-( 3568 -3136 64 ) ( 3568 -3088 16 ) ( 3584 -3088 16 ) kenney_prototype-textures/PNG/Orange/texture_02 65.015625 496 90 0.984375 -1
-( 3584 -3088 16 ) ( 3584 -3136 16 ) ( 3584 -3136 64 ) kenney_prototype-textures/PNG/Orange/texture_02 -227.55518 136.53076 135 0.9943691 0.99437
-}
-// brush 1
-{
-( 3568 -3248 0 ) ( 3568 -3248 -16 ) ( 3568 -3088 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -77.57568 0 180 1.03125 1
-( 3584 -3248 0 ) ( 3584 -3248 -16 ) ( 3568 -3248 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 496 270 1 1
-( 3568 -3248 -16 ) ( 3584 -3248 -16 ) ( 3584 -3088 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -392.5332 496 270 0.9375 1
-( 3584 -3072 0 ) ( 3584 -3248 0 ) ( 3568 -3248 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -77.575195 496 270 1.03125 1
-( 3584 -3088 -16 ) ( 3584 -3072 0 ) ( 3568 -3072 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 496 270 1 1
-( 3584 -3088 -16 ) ( 3584 -3248 -16 ) ( 3584 -3248 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -77.57568 0 180 1.03125 1
-}
-// brush 2
-{
-( 3568 -3136 -16 ) ( 3568 -3136 -64 ) ( 3568 -3088 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -227.55518 -170.66821 225 0.9943691 0.9943682
-( 3584 -3136 -16 ) ( 3584 -3136 -64 ) ( 3568 -3136 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 496 270 0.984375 1
-( 3584 -3088 -16 ) ( 3584 -3136 -16 ) ( 3568 -3136 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -113.77734 496 270 0.984375 1
-( 3568 -3136 -64 ) ( 3584 -3136 -64 ) ( 3584 -3088 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -113.77734 496 270 0.984375 1
-( 3584 -3088 -16 ) ( 3584 -3136 -64 ) ( 3584 -3136 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -113.77783 16.25397 180 0.984375 0.984375
-}
-// brush 3
-{
-( 3568 -3248 16 ) ( 3568 -3248 0 ) ( 3568 -3072 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -77.57568 -16 180 1.03125 1
-( 3584 -3248 16 ) ( 3584 -3248 0 ) ( 3568 -3248 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 496 270 1 1
-( 3568 -3248 0 ) ( 3584 -3248 0 ) ( 3584 -3072 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -77.575195 496 270 1.03125 1
-( 3584 -3088 16 ) ( 3584 -3248 16 ) ( 3568 -3248 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -392.5332 496 270 0.9375 1
-( 3568 -3088 16 ) ( 3568 -3072 0 ) ( 3584 -3072 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 496 90 1 -1
-( 3584 -3072 0 ) ( 3584 -3248 0 ) ( 3584 -3248 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -77.57568 -16 180 1.03125 1
-}
-}
-// entity 38
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "44"
-"_tb_linked_group_id" "fcb4402d-192d-4a58-974c-845b96638fe2"
-"_tb_transformation" "1 1.22464679914735e-16 -1.1256858547736457e-15 -2431.9999999999986 1.1256858547736457e-15 2.8327694488239913e-16 1 -1056.0000000000064 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 3200 -576 64 ) ( 3152 -576 16 ) ( 3152 -560 16 ) kenney_prototype-textures/PNG/Orange/texture_02 130.03125 -576 180 0.984375 -1
-( 3200 -576 64 ) ( 3200 -576 16 ) ( 3152 -576 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -178.7937 -65.015884 0 0.984375 -0.984375
-( 3200 -576 16 ) ( 3200 -560 16 ) ( 3152 -560 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -178.79297 -576 0 0.984375 1
-( 3152 -560 16 ) ( 3200 -560 16 ) ( 3200 -560 64 ) kenney_prototype-textures/PNG/Orange/texture_02 -273.06616 182.04199 45 0.9943691 -0.99437
-( 3200 -560 64 ) ( 3200 -560 16 ) ( 3200 -576 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.253971 -576 270 0.984375 1
-}
-// brush 1
-{
-( 3152 -560 -16 ) ( 3136 -560 0 ) ( 3136 -576 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -80 -576 0 1 1
-( 3312 -576 0 ) ( 3312 -576 -16 ) ( 3152 -576 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -139.63647 0 0 1.03125 -1
-( 3312 -576 -16 ) ( 3312 -560 -16 ) ( 3152 -560 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -460.7998 -576 0 0.9375 1
-( 3136 -560 0 ) ( 3312 -560 0 ) ( 3312 -576 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -139.63574 -576 0 1.03125 1
-( 3152 -560 -16 ) ( 3312 -560 -16 ) ( 3312 -560 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -139.63647 0 0 1.03125 -1
-( 3312 -560 0 ) ( 3312 -560 -16 ) ( 3312 -576 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 -576 270 1 1
-}
-// brush 2
-{
-( 3200 -576 -64 ) ( 3200 -560 -64 ) ( 3152 -560 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -178.79297 -576 0 0.984375 1
-( 3200 -576 -16 ) ( 3200 -576 -64 ) ( 3152 -576 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -273.06616 -216.17944 315 0.9943691 -0.9943682
-( 3152 -560 -16 ) ( 3200 -560 -16 ) ( 3200 -576 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -178.79297 -576 0 0.984375 1
-( 3152 -560 -16 ) ( 3200 -560 -64 ) ( 3200 -560 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -178.7937 16.25397 0 0.984375 -0.984375
-( 3200 -560 -16 ) ( 3200 -560 -64 ) ( 3200 -576 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 -576 270 0.984375 1
-}
-// brush 3
-{
-( 3152 -576 16 ) ( 3136 -576 0 ) ( 3136 -560 0 ) kenney_prototype-textures/PNG/Orange/texture_02 64 -576 180 1 -1
-( 3312 -576 16 ) ( 3312 -576 0 ) ( 3136 -576 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -139.63647 -16 0 1.03125 -1
-( 3312 -576 0 ) ( 3312 -560 0 ) ( 3136 -560 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -139.63574 -576 0 1.03125 1
-( 3152 -560 16 ) ( 3312 -560 16 ) ( 3312 -576 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -460.7998 -576 0 0.9375 1
-( 3136 -560 0 ) ( 3312 -560 0 ) ( 3312 -560 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -139.63647 -16 0 1.03125 -1
-( 3312 -560 16 ) ( 3312 -560 0 ) ( 3312 -576 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -576 270 1 1
-}
-}
-// entity 39
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "45"
-"_tb_linked_group_id" "279c2324-aff7-4ab7-80d7-cb9ba5ced5fd"
-"_tb_transformation" "-8.343680044987078e-16 2.832769448823989e-16 1 1568.0000000000045 -1 -1.2246467991473557e-16 -8.343680044987078e-16 4944 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 2048 -688 64 ) ( 2048 -688 16 ) ( 2048 -640 16 ) kenney_prototype-textures/PNG/Orange/texture_02 325.07935 -65.015884 180 0.984375 0.984375
-( 2064 -688 64 ) ( 2064 -688 16 ) ( 2048 -688 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.253971 0 270 0.984375 1
-( 2048 -688 16 ) ( 2064 -688 16 ) ( 2064 -640 16 ) kenney_prototype-textures/PNG/Orange/texture_02 325.08008 0 270 0.984375 1
-( 2048 -688 64 ) ( 2048 -640 16 ) ( 2064 -640 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -373.8418 0 90 0.984375 -1
-( 2064 -640 16 ) ( 2064 -688 16 ) ( 2064 -688 64 ) kenney_prototype-textures/PNG/Orange/texture_02 489.24457 -580.26733 135 0.9943691 0.99437
-}
-// brush 1
-{
-( 2048 -800 0 ) ( 2048 -800 -16 ) ( 2048 -640 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 248.24243 0 180 1.03125 1
-( 2064 -800 0 ) ( 2064 -800 -16 ) ( 2048 -800 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 0 270 1 1
-( 2048 -800 -16 ) ( 2064 -800 -16 ) ( 2064 -640 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 170.66675 0 270 0.9375 1
-( 2064 -624 0 ) ( 2064 -800 0 ) ( 2048 -800 0 ) kenney_prototype-textures/PNG/Orange/texture_02 248.24292 0 270 1.03125 1
-( 2064 -640 -16 ) ( 2064 -624 0 ) ( 2048 -624 0 ) kenney_prototype-textures/PNG/Orange/texture_02 384 0 270 1 1
-( 2064 -640 -16 ) ( 2064 -800 -16 ) ( 2064 -800 0 ) kenney_prototype-textures/PNG/Orange/texture_02 248.24243 0 180 1.03125 1
-}
-// brush 2
-{
-( 2048 -688 -16 ) ( 2048 -688 -64 ) ( 2048 -640 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 489.24457 546.13293 225 0.9943691 0.9943682
-( 2064 -688 -16 ) ( 2064 -688 -64 ) ( 2048 -688 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 0 270 0.984375 1
-( 2064 -640 -16 ) ( 2064 -688 -16 ) ( 2048 -688 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 325.08008 0 270 0.984375 1
-( 2048 -688 -64 ) ( 2064 -688 -64 ) ( 2064 -640 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 325.08008 0 270 0.984375 1
-( 2064 -640 -16 ) ( 2064 -688 -64 ) ( 2064 -688 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 325.07935 16.25397 180 0.984375 0.984375
-}
-// brush 3
-{
-( 2048 -800 16 ) ( 2048 -800 0 ) ( 2048 -624 0 ) kenney_prototype-textures/PNG/Orange/texture_02 248.24243 -16 180 1.03125 1
-( 2064 -800 16 ) ( 2064 -800 0 ) ( 2048 -800 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 0 270 1 1
-( 2048 -800 0 ) ( 2064 -800 0 ) ( 2064 -624 0 ) kenney_prototype-textures/PNG/Orange/texture_02 248.24292 0 270 1.03125 1
-( 2064 -640 16 ) ( 2064 -800 16 ) ( 2048 -800 16 ) kenney_prototype-textures/PNG/Orange/texture_02 170.66675 0 270 0.9375 1
-( 2048 -640 16 ) ( 2048 -624 0 ) ( 2064 -624 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -400 0 90 1 -1
-( 2064 -624 0 ) ( 2064 -800 0 ) ( 2064 -800 16 ) kenney_prototype-textures/PNG/Orange/texture_02 248.24243 -16 180 1.03125 1
-}
-}
-// entity 40
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "46"
-"_tb_linked_group_id" "08b80f21-c432-444f-8713-f9c26f508056"
-"_tb_transformation" "1 1.22464679914735e-16 -1.1256858547736457e-15 -3951.9999999999986 1.1256858547736457e-15 2.8327694488239913e-16 1 -544.0000000000064 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 1680 -64 64 ) ( 1632 -64 16 ) ( 1632 -48 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -390.09558 -64 180 0.984375 -1
-( 1680 -64 64 ) ( 1680 -64 16 ) ( 1632 -64 16 ) kenney_prototype-textures/PNG/Orange/texture_02 341.33337 -65.015884 0 0.984375 -0.984375
-( 1680 -64 16 ) ( 1680 -48 16 ) ( 1632 -48 16 ) kenney_prototype-textures/PNG/Orange/texture_02 341.33386 -64 0 0.984375 1
-( 1632 -48 16 ) ( 1680 -48 16 ) ( 1680 -48 64 ) kenney_prototype-textures/PNG/Orange/texture_02 807.8225 -898.8458 45 0.9943691 -0.99437
-( 1680 -48 64 ) ( 1680 -48 16 ) ( 1680 -64 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.25397 -64 270 0.984375 1
-}
-// brush 1
-{
-( 1632 -48 -16 ) ( 1616 -48 0 ) ( 1616 -64 0 ) kenney_prototype-textures/PNG/Orange/texture_02 416 -64 0 1 1
-( 1792 -64 0 ) ( 1792 -64 -16 ) ( 1632 -64 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 310.30298 0 0 1.03125 -1
-( 1792 -64 -16 ) ( 1792 -48 -16 ) ( 1632 -48 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 136.53345 -64 0 0.9375 1
-( 1616 -48 0 ) ( 1792 -48 0 ) ( 1792 -64 0 ) kenney_prototype-textures/PNG/Orange/texture_02 310.3036 -64 0 1.03125 1
-( 1632 -48 -16 ) ( 1792 -48 -16 ) ( 1792 -48 0 ) kenney_prototype-textures/PNG/Orange/texture_02 310.30298 0 0 1.03125 -1
-( 1792 -48 0 ) ( 1792 -48 -16 ) ( 1792 -64 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 -64 270 1 1
-}
-// brush 2
-{
-( 1680 -64 -64 ) ( 1680 -48 -64 ) ( 1632 -48 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 341.33386 -64 0 0.984375 1
-( 1680 -64 -16 ) ( 1680 -64 -64 ) ( 1632 -64 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 807.8225 864.7102 315 0.9943691 -0.9943682
-( 1632 -48 -16 ) ( 1680 -48 -16 ) ( 1680 -64 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 341.33386 -64 0 0.984375 1
-( 1632 -48 -16 ) ( 1680 -48 -64 ) ( 1680 -48 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 341.33337 16.253967 0 0.984375 -0.984375
-( 1680 -48 -16 ) ( 1680 -48 -64 ) ( 1680 -64 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 -64 270 0.984375 1
-}
-// brush 3
-{
-( 1632 -64 16 ) ( 1616 -64 0 ) ( 1616 -48 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -432 -64 180 1 -1
-( 1792 -64 16 ) ( 1792 -64 0 ) ( 1616 -64 0 ) kenney_prototype-textures/PNG/Orange/texture_02 310.30298 -16 0 1.03125 -1
-( 1792 -64 0 ) ( 1792 -48 0 ) ( 1616 -48 0 ) kenney_prototype-textures/PNG/Orange/texture_02 310.3036 -64 0 1.03125 1
-( 1632 -48 16 ) ( 1792 -48 16 ) ( 1792 -64 16 ) kenney_prototype-textures/PNG/Orange/texture_02 136.53345 -64 0 0.9375 1
-( 1616 -48 0 ) ( 1792 -48 0 ) ( 1792 -48 16 ) kenney_prototype-textures/PNG/Orange/texture_02 310.30298 -16 0 1.03125 -1
-( 1792 -48 16 ) ( 1792 -48 0 ) ( 1792 -64 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -64 270 1 1
-}
-}
-// entity 41
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "47"
-"_tb_linked_group_id" "8f78e278-85c1-459d-a029-61defb12d6bc"
-"_tb_transformation" "-7.044813998280222e-16 1.6081226496766356e-16 -1 5088.000000000004 1 1.2246467991473544e-16 -7.044813998280222e-16 -6479.999999999999 1.2246467991473532e-16 -1 -1.6081226496766364e-16 -304.0000000000009 0 0 0 1"
-// brush 0
-{
-( 4592 -896 16 ) ( 4592 -848 16 ) ( 4592 -848 64 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 0 1 -1
-( 4608 -848 64 ) ( 4608 -896 16 ) ( 4592 -896 16 ) kenney_prototype-textures/PNG/Purple/texture_02 560 -576 270 1 -1
-( 4608 -848 16 ) ( 4592 -848 16 ) ( 4592 -896 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 90 1 1
-( 4592 -848 64 ) ( 4592 -848 16 ) ( 4608 -848 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -576 270 1 -1
-( 4608 -848 64 ) ( 4608 -848 16 ) ( 4608 -896 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 0 1 -1
-}
-// brush 1
-{
-( 4592 -896 -16 ) ( 4592 -736 -16 ) ( 4592 -736 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 0 1 -1
-( 4592 -896 -16 ) ( 4592 -912 0 ) ( 4608 -912 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -696 -568 90 1 1
-( 4608 -736 -16 ) ( 4592 -736 -16 ) ( 4592 -896 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 90 1 1
-( 4592 -912 0 ) ( 4592 -736 0 ) ( 4608 -736 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 90 1 1
-( 4592 -736 0 ) ( 4592 -736 -16 ) ( 4608 -736 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -576 270 1 -1
-( 4608 -736 0 ) ( 4608 -736 -16 ) ( 4608 -896 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 0 1 -1
-}
-// brush 2
-{
-( 4592 -896 -16 ) ( 4592 -848 -64 ) ( 4592 -848 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 0 1 -1
-( 4608 -848 -64 ) ( 4592 -848 -64 ) ( 4592 -896 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -672 -576 90 1 1
-( 4592 -896 -16 ) ( 4592 -848 -16 ) ( 4608 -848 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 90 1 1
-( 4592 -848 -16 ) ( 4592 -848 -64 ) ( 4608 -848 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -576 270 1 -1
-( 4608 -848 -16 ) ( 4608 -848 -64 ) ( 4608 -896 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 0 1 -1
-}
-// brush 3
-{
-( 4592 -912 0 ) ( 4592 -736 0 ) ( 4592 -736 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 0 1 -1
-( 4608 -896 16 ) ( 4608 -912 0 ) ( 4592 -912 0 ) kenney_prototype-textures/PNG/Purple/texture_02 568 -568 270 1 -1
-( 4608 -736 0 ) ( 4592 -736 0 ) ( 4592 -912 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 90 1 1
-( 4592 -896 16 ) ( 4592 -736 16 ) ( 4608 -736 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 90 1 1
-( 4592 -736 16 ) ( 4592 -736 0 ) ( 4608 -736 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -576 270 1 -1
-( 4608 -736 16 ) ( 4608 -736 0 ) ( 4608 -912 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 0 1 -1
-}
-}
-// entity 42
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "49"
-"_tb_linked_group_id" "725b91a6-62bf-444b-9053-3dd664c4df7f"
-"_tb_transformation" "-1 -1.2246467991473554e-16 1.3093828746457485e-15 10272 -1.3093828746457485e-15 1.6081226496766349e-16 -1 -1599.9999999999927 1.2246467991473532e-16 -1 -1.6081226496766364e-16 -304.0000000000009 0 0 0 1"
-// brush 0
-{
-( 4640 -2096 64 ) ( 4640 -2096 16 ) ( 4640 -2080 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -32 270 1 -1
-( 4688 -2096 16 ) ( 4640 -2096 16 ) ( 4640 -2096 64 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -448 180 1 1
-( 4640 -2080 16 ) ( 4640 -2096 16 ) ( 4688 -2096 16 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -32 180 1 1
-( 4640 -2080 64 ) ( 4640 -2080 16 ) ( 4688 -2080 16 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -448 180 1 1
-( 4640 -2080 64 ) ( 4688 -2080 16 ) ( 4688 -2096 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -160 -32 0 1 -1
-}
-// brush 1
-{
-( 4528 -2096 0 ) ( 4528 -2096 -16 ) ( 4528 -2080 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -32 270 1 -1
-( 4688 -2096 -16 ) ( 4528 -2096 -16 ) ( 4528 -2096 0 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -464 180 1 1
-( 4528 -2080 -16 ) ( 4528 -2096 -16 ) ( 4688 -2096 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -32 180 1 1
-( 4704 -2096 0 ) ( 4528 -2096 0 ) ( 4528 -2080 0 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -32 180 1 1
-( 4528 -2080 0 ) ( 4528 -2080 -16 ) ( 4688 -2080 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -464 180 1 1
-( 4688 -2096 -16 ) ( 4704 -2096 0 ) ( 4704 -2080 0 ) kenney_prototype-textures/PNG/Purple/texture_02 24 -24 180 1 1
-}
-// brush 2
-{
-( 4640 -2096 -16 ) ( 4640 -2096 -64 ) ( 4640 -2080 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -32 270 1 -1
-( 4688 -2096 -16 ) ( 4640 -2096 -64 ) ( 4640 -2096 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -464 180 1 1
-( 4688 -2096 -16 ) ( 4640 -2096 -16 ) ( 4640 -2080 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -32 180 1 1
-( 4640 -2080 -16 ) ( 4640 -2080 -64 ) ( 4688 -2080 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -464 180 1 1
-( 4640 -2080 -64 ) ( 4640 -2096 -64 ) ( 4688 -2096 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 48 -32 180 1 1
-}
-// brush 3
-{
-( 4528 -2096 16 ) ( 4528 -2096 0 ) ( 4528 -2080 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -32 270 1 -1
-( 4704 -2096 0 ) ( 4528 -2096 0 ) ( 4528 -2096 16 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -448 180 1 1
-( 4528 -2080 0 ) ( 4528 -2096 0 ) ( 4704 -2096 0 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -32 180 1 1
-( 4688 -2096 16 ) ( 4528 -2096 16 ) ( 4528 -2080 16 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -32 180 1 1
-( 4528 -2080 16 ) ( 4528 -2080 0 ) ( 4704 -2080 0 ) kenney_prototype-textures/PNG/Purple/texture_02 96 -448 180 1 1
-( 4688 -2080 16 ) ( 4704 -2080 0 ) ( 4704 -2096 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -152 -24 0 1 -1
-}
-}
-// entity 43
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "50"
-"_tb_linked_group_id" "7aadad3e-534c-4f77-aec0-958b0017bf08"
-"_tb_transformation" "-1 -1.2246467991473554e-16 1.3093828746457485e-15 10928 -1.3093828746457485e-15 1.6081226496766349e-16 -1 -607.9999999999927 1.2246467991473532e-16 -1 -1.6081226496766364e-16 -304.0000000000009 0 0 0 1"
-// brush 0
-{
-( 5296 -1104 64 ) ( 5296 -1104 16 ) ( 5296 -1088 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 0 270 1 -1
-( 5344 -1104 16 ) ( 5296 -1104 16 ) ( 5296 -1104 64 ) kenney_prototype-textures/PNG/Purple/texture_02 752 -448 180 1 1
-( 5296 -1088 16 ) ( 5296 -1104 16 ) ( 5344 -1104 16 ) kenney_prototype-textures/PNG/Purple/texture_02 752 0 180 1 1
-( 5296 -1088 64 ) ( 5296 -1088 16 ) ( 5344 -1088 16 ) kenney_prototype-textures/PNG/Purple/texture_02 752 -448 180 1 1
-( 5296 -1088 64 ) ( 5344 -1088 16 ) ( 5344 -1104 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -816 0 0 1 -1
-}
-// brush 1
-{
-( 5184 -1104 0 ) ( 5184 -1104 -16 ) ( 5184 -1088 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 0 270 1 -1
-( 5344 -1104 -16 ) ( 5184 -1104 -16 ) ( 5184 -1104 0 ) kenney_prototype-textures/PNG/Purple/texture_02 752 -464 180 1 1
-( 5184 -1088 -16 ) ( 5184 -1104 -16 ) ( 5344 -1104 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 752 0 180 1 1
-( 5360 -1104 0 ) ( 5184 -1104 0 ) ( 5184 -1088 0 ) kenney_prototype-textures/PNG/Purple/texture_02 752 0 180 1 1
-( 5184 -1088 0 ) ( 5184 -1088 -16 ) ( 5344 -1088 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 752 -464 180 1 1
-( 5344 -1104 -16 ) ( 5360 -1104 0 ) ( 5360 -1088 0 ) kenney_prototype-textures/PNG/Purple/texture_02 680 8 180 1 1
-}
-// brush 2
-{
-( 5296 -1104 -16 ) ( 5296 -1104 -64 ) ( 5296 -1088 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 0 270 1 -1
-( 5344 -1104 -16 ) ( 5296 -1104 -64 ) ( 5296 -1104 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 752 -464 180 1 1
-( 5344 -1104 -16 ) ( 5296 -1104 -16 ) ( 5296 -1088 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 752 0 180 1 1
-( 5296 -1088 -16 ) ( 5296 -1088 -64 ) ( 5344 -1088 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 752 -464 180 1 1
-( 5296 -1088 -64 ) ( 5296 -1104 -64 ) ( 5344 -1104 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 704 0 180 1 1
-}
-// brush 3
-{
-( 5184 -1104 16 ) ( 5184 -1104 0 ) ( 5184 -1088 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 0 270 1 -1
-( 5360 -1104 0 ) ( 5184 -1104 0 ) ( 5184 -1104 16 ) kenney_prototype-textures/PNG/Purple/texture_02 752 -448 180 1 1
-( 5184 -1088 0 ) ( 5184 -1104 0 ) ( 5360 -1104 0 ) kenney_prototype-textures/PNG/Purple/texture_02 752 0 180 1 1
-( 5344 -1104 16 ) ( 5184 -1104 16 ) ( 5184 -1088 16 ) kenney_prototype-textures/PNG/Purple/texture_02 752 0 180 1 1
-( 5184 -1088 16 ) ( 5184 -1088 0 ) ( 5360 -1088 0 ) kenney_prototype-textures/PNG/Purple/texture_02 752 -448 180 1 1
-( 5344 -1088 16 ) ( 5360 -1088 0 ) ( 5360 -1104 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -808 8 0 1 -1
-}
-}
-// entity 44
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "51"
-"_tb_linked_group_id" "68bd2ecc-1ceb-4605-b56a-204b6e09d50c"
-"_tb_transformation" "1 1.2246467991473443e-16 -3.1240872990989275e-15 544.0000000000023 3.1240872990989275e-15 2.8327694488239938e-16 1 -2064.0000000000173 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 6176 -1584 64 ) ( 6128 -1584 16 ) ( 6128 -1568 16 ) kenney_prototype-textures/PNG/Orange/texture_02 81.27002 464 180 0.984375 -1
-( 6176 -1584 64 ) ( 6176 -1584 16 ) ( 6128 -1584 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -130.03174 -65.015884 0 0.984375 -0.984375
-( 6176 -1584 16 ) ( 6176 -1568 16 ) ( 6128 -1568 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -130.03174 464 0 0.984375 1
-( 6128 -1568 16 ) ( 6176 -1568 16 ) ( 6176 -1568 64 ) kenney_prototype-textures/PNG/Orange/texture_02 -341.33252 250.30615 45 0.9943691 -0.99437
-( 6176 -1568 64 ) ( 6176 -1568 16 ) ( 6176 -1584 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.25397 464 270 0.984375 1
-}
-// brush 1
-{
-( 6128 -1568 -16 ) ( 6112 -1568 0 ) ( 6112 -1584 0 ) kenney_prototype-textures/PNG/Orange/texture_02 16 464 0 1 1
-( 6288 -1584 0 ) ( 6288 -1584 -16 ) ( 6128 -1584 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 46.54541 0 0 1.03125 -1
-( 6288 -1584 -16 ) ( 6288 -1568 -16 ) ( 6128 -1568 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -563.1997 464 0 0.9375 1
-( 6112 -1568 0 ) ( 6288 -1568 0 ) ( 6288 -1584 0 ) kenney_prototype-textures/PNG/Orange/texture_02 46.54541 464 0 1.03125 1
-( 6128 -1568 -16 ) ( 6288 -1568 -16 ) ( 6288 -1568 0 ) kenney_prototype-textures/PNG/Orange/texture_02 46.54541 0 0 1.03125 -1
-( 6288 -1568 0 ) ( 6288 -1568 -16 ) ( 6288 -1584 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 464 270 1 1
-}
-// brush 2
-{
-( 6176 -1584 -64 ) ( 6176 -1568 -64 ) ( 6128 -1568 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -130.03174 464 0 0.984375 1
-( 6176 -1584 -16 ) ( 6176 -1584 -64 ) ( 6128 -1584 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -341.33252 -284.4475 315 0.9943691 -0.9943682
-( 6128 -1568 -16 ) ( 6176 -1568 -16 ) ( 6176 -1584 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -130.03174 464 0 0.984375 1
-( 6128 -1568 -16 ) ( 6176 -1568 -64 ) ( 6176 -1568 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -130.03174 16.253971 0 0.984375 -0.984375
-( 6176 -1568 -16 ) ( 6176 -1568 -64 ) ( 6176 -1584 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 464 270 0.984375 1
-}
-// brush 3
-{
-( 6128 -1584 16 ) ( 6112 -1584 0 ) ( 6112 -1568 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -32 464 180 1 -1
-( 6288 -1584 16 ) ( 6288 -1584 0 ) ( 6112 -1584 0 ) kenney_prototype-textures/PNG/Orange/texture_02 46.54541 -16 0 1.03125 -1
-( 6288 -1584 0 ) ( 6288 -1568 0 ) ( 6112 -1568 0 ) kenney_prototype-textures/PNG/Orange/texture_02 46.54541 464 0 1.03125 1
-( 6128 -1568 16 ) ( 6288 -1568 16 ) ( 6288 -1584 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -563.1997 464 0 0.9375 1
-( 6112 -1568 0 ) ( 6288 -1568 0 ) ( 6288 -1568 16 ) kenney_prototype-textures/PNG/Orange/texture_02 46.54541 -16 0 1.03125 -1
-( 6288 -1568 16 ) ( 6288 -1568 0 ) ( 6288 -1584 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 464 270 1 1
-}
-}
-// entity 45
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "52"
-"_tb_linked_group_id" "0fd65215-6315-4ed3-a6ec-3c4ba0c1d281"
-"_tb_transformation" "1 1.2246467991473562e-16 4.8082861382448324e-15 735.9999999999982 -4.8082861382448324e-15 6.123233995736708e-17 1 -2063.999999999972 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 6368 -1584 64 ) ( 6320 -1584 16 ) ( 6320 -1568 16 ) kenney_prototype-textures/PNG/Green/texture_02 276.31738 464 180 0.984375 -1
-( 6368 -1584 64 ) ( 6368 -1584 16 ) ( 6320 -1584 16 ) kenney_prototype-textures/PNG/Green/texture_02 -325.0791 -65.015884 0 0.984375 -0.984375
-( 6368 -1584 16 ) ( 6368 -1568 16 ) ( 6320 -1568 16 ) kenney_prototype-textures/PNG/Green/texture_02 -325.0791 464 0 0.984375 1
-( 6320 -1568 16 ) ( 6368 -1568 16 ) ( 6368 -1568 64 ) kenney_prototype-textures/PNG/Green/texture_02 -477.86597 386.83936 45 0.9943691 -0.99437
-( 6368 -1568 64 ) ( 6368 -1568 16 ) ( 6368 -1584 16 ) kenney_prototype-textures/PNG/Green/texture_02 16.25397 464 270 0.984375 1
-}
-// brush 1
-{
-( 6320 -1568 -16 ) ( 6304 -1568 0 ) ( 6304 -1584 0 ) kenney_prototype-textures/PNG/Green/texture_02 -176 464 0 1 1
-( 6480 -1584 0 ) ( 6480 -1584 -16 ) ( 6320 -1584 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -139.63574 0 0 1.03125 -1
-( 6480 -1584 -16 ) ( 6480 -1568 -16 ) ( 6320 -1568 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -768 464 0 0.9375 1
-( 6304 -1568 0 ) ( 6480 -1568 0 ) ( 6480 -1584 0 ) kenney_prototype-textures/PNG/Green/texture_02 -139.63672 464 0 1.03125 1
-( 6320 -1568 -16 ) ( 6480 -1568 -16 ) ( 6480 -1568 0 ) kenney_prototype-textures/PNG/Green/texture_02 -139.63574 0 0 1.03125 -1
-( 6480 -1568 0 ) ( 6480 -1568 -16 ) ( 6480 -1584 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -16 464 270 1 1
-}
-// brush 2
-{
-( 6368 -1584 -64 ) ( 6368 -1568 -64 ) ( 6320 -1568 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -325.0791 464 0 0.984375 1
-( 6368 -1584 -16 ) ( 6368 -1584 -64 ) ( 6320 -1584 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -477.86597 -420.98145 315 0.9943691 -0.9943682
-( 6320 -1568 -16 ) ( 6368 -1568 -16 ) ( 6368 -1584 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -325.0791 464 0 0.984375 1
-( 6320 -1568 -16 ) ( 6368 -1568 -64 ) ( 6368 -1568 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -325.0791 16.253971 0 0.984375 -0.984375
-( 6368 -1568 -16 ) ( 6368 -1568 -64 ) ( 6368 -1584 -64 ) kenney_prototype-textures/PNG/Green/texture_02 -65.01587 464 270 0.984375 1
-}
-// brush 3
-{
-( 6320 -1584 16 ) ( 6304 -1584 0 ) ( 6304 -1568 0 ) kenney_prototype-textures/PNG/Green/texture_02 160 464 180 1 -1
-( 6480 -1584 16 ) ( 6480 -1584 0 ) ( 6304 -1584 0 ) kenney_prototype-textures/PNG/Green/texture_02 -139.63574 -16 0 1.03125 -1
-( 6480 -1584 0 ) ( 6480 -1568 0 ) ( 6304 -1568 0 ) kenney_prototype-textures/PNG/Green/texture_02 -139.63672 464 0 1.03125 1
-( 6320 -1568 16 ) ( 6480 -1568 16 ) ( 6480 -1584 16 ) kenney_prototype-textures/PNG/Green/texture_02 -768 464 0 0.9375 1
-( 6304 -1568 0 ) ( 6480 -1568 0 ) ( 6480 -1568 16 ) kenney_prototype-textures/PNG/Green/texture_02 -139.63574 -16 0 1.03125 -1
-( 6480 -1568 16 ) ( 6480 -1568 0 ) ( 6480 -1584 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 464 270 1 1
-}
-}
-// entity 46
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "53"
-"_tb_linked_group_id" "cbe608fe-a657-436a-acf7-2b4e432e7a01"
-"_tb_transformation" "1 1.2246467991473562e-16 4.8082861382448324e-15 927.9999999999982 -4.8082861382448324e-15 6.123233995736708e-17 1 -2063.9999999999736 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 6560 -1584 64 ) ( 6512 -1584 16 ) ( 6512 -1568 16 ) kenney_prototype-textures/PNG/Red/texture_02 471.36523 464 180 0.984375 -1
-( 6560 -1584 64 ) ( 6560 -1584 16 ) ( 6512 -1584 16 ) kenney_prototype-textures/PNG/Red/texture_02 -520.12695 -65.015884 0 0.984375 -0.984375
-( 6560 -1584 16 ) ( 6560 -1568 16 ) ( 6512 -1568 16 ) kenney_prototype-textures/PNG/Red/texture_02 -520.12695 464 0 0.984375 1
-( 6512 -1568 16 ) ( 6560 -1568 16 ) ( 6560 -1568 64 ) kenney_prototype-textures/PNG/Red/texture_02 -614.3989 523.38086 45 0.9943691 -0.9943682
-( 6560 -1568 64 ) ( 6560 -1568 16 ) ( 6560 -1584 16 ) kenney_prototype-textures/PNG/Red/texture_02 16.25397 464 270 0.984375 1
-}
-// brush 1
-{
-( 6512 -1568 -16 ) ( 6496 -1568 0 ) ( 6496 -1584 0 ) kenney_prototype-textures/PNG/Red/texture_02 -368 464 0 1 1
-( 6672 -1584 0 ) ( 6672 -1584 -16 ) ( 6512 -1584 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -325.81836 0 0 1.03125 -1
-( 6672 -1584 -16 ) ( 6672 -1568 -16 ) ( 6512 -1568 -16 ) kenney_prototype-textures/PNG/Red/texture_02 51.199707 464 0 0.9375 1
-( 6496 -1568 0 ) ( 6672 -1568 0 ) ( 6672 -1584 0 ) kenney_prototype-textures/PNG/Red/texture_02 -325.81836 464 0 1.03125 1
-( 6512 -1568 -16 ) ( 6672 -1568 -16 ) ( 6672 -1568 0 ) kenney_prototype-textures/PNG/Red/texture_02 -325.81836 0 0 1.03125 -1
-( 6672 -1568 0 ) ( 6672 -1568 -16 ) ( 6672 -1584 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -16 464 270 1 1
-}
-// brush 2
-{
-( 6560 -1584 -64 ) ( 6560 -1568 -64 ) ( 6512 -1568 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -520.12695 464 0 0.984375 1
-( 6560 -1584 -16 ) ( 6560 -1584 -64 ) ( 6512 -1584 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -614.4031 -557.5061 315 0.9943682 -0.99437
-( 6512 -1568 -16 ) ( 6560 -1568 -16 ) ( 6560 -1584 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -520.12695 464 0 0.984375 1
-( 6512 -1568 -16 ) ( 6560 -1568 -64 ) ( 6560 -1568 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -520.12695 16.253971 0 0.984375 -0.984375
-( 6560 -1568 -16 ) ( 6560 -1568 -64 ) ( 6560 -1584 -64 ) kenney_prototype-textures/PNG/Red/texture_02 -65.01587 464 270 0.984375 1
-}
-// brush 3
-{
-( 6512 -1584 16 ) ( 6496 -1584 0 ) ( 6496 -1568 0 ) kenney_prototype-textures/PNG/Red/texture_02 352 464 180 1 -1
-( 6672 -1584 16 ) ( 6672 -1584 0 ) ( 6496 -1584 0 ) kenney_prototype-textures/PNG/Red/texture_02 -325.81836 -16 0 1.03125 -1
-( 6672 -1584 0 ) ( 6672 -1568 0 ) ( 6496 -1568 0 ) kenney_prototype-textures/PNG/Red/texture_02 -325.81836 464 0 1.03125 1
-( 6512 -1568 16 ) ( 6672 -1568 16 ) ( 6672 -1584 16 ) kenney_prototype-textures/PNG/Red/texture_02 51.199707 464 0 0.9375 1
-( 6496 -1568 0 ) ( 6672 -1568 0 ) ( 6672 -1568 16 ) kenney_prototype-textures/PNG/Red/texture_02 -325.81836 -16 0 1.03125 -1
-( 6672 -1568 16 ) ( 6672 -1568 0 ) ( 6672 -1584 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 464 270 1 1
-}
-}
-// entity 47
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "54"
-"_tb_linked_group_id" "41a6be2b-dc64-4c9d-a457-de96f6acb0a5"
-"_tb_transformation" "1 1.2246467991473443e-16 -3.1240872990989275e-15 528.0000000000023 3.1240872990989275e-15 2.8327694488239938e-16 1 -1584.0000000000173 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 6160 -1104 64 ) ( 6112 -1104 16 ) ( 6112 -1088 16 ) kenney_prototype-textures/PNG/Orange/texture_02 65.01611 944 180 0.984375 -1
-( 6160 -1104 64 ) ( 6160 -1104 16 ) ( 6112 -1104 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -113.77783 -65.015884 0 0.984375 -0.984375
-( 6160 -1104 16 ) ( 6160 -1088 16 ) ( 6112 -1088 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -113.77783 944 0 0.984375 1
-( 6112 -1088 16 ) ( 6160 -1088 16 ) ( 6160 -1088 64 ) kenney_prototype-textures/PNG/Orange/texture_02 -329.9546 238.92871 45 0.9943691 -0.99437
-( 6160 -1088 64 ) ( 6160 -1088 16 ) ( 6160 -1104 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.25397 944 270 0.984375 1
-}
-// brush 1
-{
-( 6112 -1088 -16 ) ( 6096 -1088 0 ) ( 6096 -1104 0 ) kenney_prototype-textures/PNG/Orange/texture_02 32 944 0 1 1
-( 6272 -1104 0 ) ( 6272 -1104 -16 ) ( 6112 -1104 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 62.060547 0 0 1.03125 -1
-( 6272 -1104 -16 ) ( 6272 -1088 -16 ) ( 6112 -1088 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -546.1328 944 0 0.9375 1
-( 6096 -1088 0 ) ( 6272 -1088 0 ) ( 6272 -1104 0 ) kenney_prototype-textures/PNG/Orange/texture_02 62.060547 944 0 1.03125 1
-( 6112 -1088 -16 ) ( 6272 -1088 -16 ) ( 6272 -1088 0 ) kenney_prototype-textures/PNG/Orange/texture_02 62.060547 0 0 1.03125 -1
-( 6272 -1088 0 ) ( 6272 -1088 -16 ) ( 6272 -1104 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 944 270 1 1
-}
-// brush 2
-{
-( 6160 -1104 -64 ) ( 6160 -1088 -64 ) ( 6112 -1088 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -113.77783 944 0 0.984375 1
-( 6160 -1104 -16 ) ( 6160 -1104 -64 ) ( 6112 -1104 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -329.9546 -273.07007 315 0.9943691 -0.9943682
-( 6112 -1088 -16 ) ( 6160 -1088 -16 ) ( 6160 -1104 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -113.77783 944 0 0.984375 1
-( 6112 -1088 -16 ) ( 6160 -1088 -64 ) ( 6160 -1088 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -113.77783 16.253971 0 0.984375 -0.984375
-( 6160 -1088 -16 ) ( 6160 -1088 -64 ) ( 6160 -1104 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 944 270 0.984375 1
-}
-// brush 3
-{
-( 6112 -1104 16 ) ( 6096 -1104 0 ) ( 6096 -1088 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -48 944 180 1 -1
-( 6272 -1104 16 ) ( 6272 -1104 0 ) ( 6096 -1104 0 ) kenney_prototype-textures/PNG/Orange/texture_02 62.060547 -16 0 1.03125 -1
-( 6272 -1104 0 ) ( 6272 -1088 0 ) ( 6096 -1088 0 ) kenney_prototype-textures/PNG/Orange/texture_02 62.060547 944 0 1.03125 1
-( 6112 -1088 16 ) ( 6272 -1088 16 ) ( 6272 -1104 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -546.1328 944 0 0.9375 1
-( 6096 -1088 0 ) ( 6272 -1088 0 ) ( 6272 -1088 16 ) kenney_prototype-textures/PNG/Orange/texture_02 62.060547 -16 0 1.03125 -1
-( 6272 -1088 16 ) ( 6272 -1088 0 ) ( 6272 -1104 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 944 270 1 1
-}
-}
-// entity 48
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "55"
-"_tb_linked_group_id" "8de38cab-784b-4193-b616-dfd96350941b"
-"_tb_transformation" "1 1.2246467991473562e-16 4.8082861382448324e-15 719.9999999999982 -4.8082861382448324e-15 6.123233995736708e-17 1 -1583.9999999999718 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 6352 -1104 64 ) ( 6304 -1104 16 ) ( 6304 -1088 16 ) kenney_prototype-textures/PNG/Green/texture_02 260.06348 944 180 0.984375 -1
-( 6352 -1104 64 ) ( 6352 -1104 16 ) ( 6304 -1104 16 ) kenney_prototype-textures/PNG/Green/texture_02 -308.8252 -65.015884 0 0.984375 -0.984375
-( 6352 -1104 16 ) ( 6352 -1088 16 ) ( 6304 -1088 16 ) kenney_prototype-textures/PNG/Green/texture_02 -308.8252 944 0 0.984375 1
-( 6304 -1088 16 ) ( 6352 -1088 16 ) ( 6352 -1088 64 ) kenney_prototype-textures/PNG/Green/texture_02 -466.48853 375.4619 45 0.9943691 -0.99437
-( 6352 -1088 64 ) ( 6352 -1088 16 ) ( 6352 -1104 16 ) kenney_prototype-textures/PNG/Green/texture_02 16.25397 944 270 0.984375 1
-}
-// brush 1
-{
-( 6304 -1088 -16 ) ( 6288 -1088 0 ) ( 6288 -1104 0 ) kenney_prototype-textures/PNG/Green/texture_02 -160 944 0 1 1
-( 6464 -1104 0 ) ( 6464 -1104 -16 ) ( 6304 -1104 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -124.120605 0 0 1.03125 -1
-( 6464 -1104 -16 ) ( 6464 -1088 -16 ) ( 6304 -1088 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -750.9336 944 0 0.9375 1
-( 6288 -1088 0 ) ( 6464 -1088 0 ) ( 6464 -1104 0 ) kenney_prototype-textures/PNG/Green/texture_02 -124.12158 944 0 1.03125 1
-( 6304 -1088 -16 ) ( 6464 -1088 -16 ) ( 6464 -1088 0 ) kenney_prototype-textures/PNG/Green/texture_02 -124.120605 0 0 1.03125 -1
-( 6464 -1088 0 ) ( 6464 -1088 -16 ) ( 6464 -1104 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -16 944 270 1 1
-}
-// brush 2
-{
-( 6352 -1104 -64 ) ( 6352 -1088 -64 ) ( 6304 -1088 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -308.8252 944 0 0.984375 1
-( 6352 -1104 -16 ) ( 6352 -1104 -64 ) ( 6304 -1104 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -466.48853 -409.60352 315 0.9943691 -0.9943682
-( 6304 -1088 -16 ) ( 6352 -1088 -16 ) ( 6352 -1104 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -308.8252 944 0 0.984375 1
-( 6304 -1088 -16 ) ( 6352 -1088 -64 ) ( 6352 -1088 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -308.8252 16.253971 0 0.984375 -0.984375
-( 6352 -1088 -16 ) ( 6352 -1088 -64 ) ( 6352 -1104 -64 ) kenney_prototype-textures/PNG/Green/texture_02 -65.01587 944 270 0.984375 1
-}
-// brush 3
-{
-( 6304 -1104 16 ) ( 6288 -1104 0 ) ( 6288 -1088 0 ) kenney_prototype-textures/PNG/Green/texture_02 144 944 180 1 -1
-( 6464 -1104 16 ) ( 6464 -1104 0 ) ( 6288 -1104 0 ) kenney_prototype-textures/PNG/Green/texture_02 -124.120605 -16 0 1.03125 -1
-( 6464 -1104 0 ) ( 6464 -1088 0 ) ( 6288 -1088 0 ) kenney_prototype-textures/PNG/Green/texture_02 -124.12158 944 0 1.03125 1
-( 6304 -1088 16 ) ( 6464 -1088 16 ) ( 6464 -1104 16 ) kenney_prototype-textures/PNG/Green/texture_02 -750.9336 944 0 0.9375 1
-( 6288 -1088 0 ) ( 6464 -1088 0 ) ( 6464 -1088 16 ) kenney_prototype-textures/PNG/Green/texture_02 -124.120605 -16 0 1.03125 -1
-( 6464 -1088 16 ) ( 6464 -1088 0 ) ( 6464 -1104 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 944 270 1 1
-}
-}
-// entity 49
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "56"
-"_tb_linked_group_id" "b8f13831-7af6-464b-a8e2-ff57a696a4b7"
-"_tb_transformation" "1 1.2246467991473562e-16 4.8082861382448324e-15 911.9999999999982 -4.8082861382448324e-15 6.123233995736708e-17 1 -1583.9999999999736 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 6544 -1104 64 ) ( 6496 -1104 16 ) ( 6496 -1088 16 ) kenney_prototype-textures/PNG/Red/texture_02 455.11133 944 180 0.984375 -1
-( 6544 -1104 64 ) ( 6544 -1104 16 ) ( 6496 -1104 16 ) kenney_prototype-textures/PNG/Red/texture_02 -503.87305 -65.015884 0 0.984375 -0.984375
-( 6544 -1104 16 ) ( 6544 -1088 16 ) ( 6496 -1088 16 ) kenney_prototype-textures/PNG/Red/texture_02 -503.87305 944 0 0.984375 1
-( 6496 -1088 16 ) ( 6544 -1088 16 ) ( 6544 -1088 64 ) kenney_prototype-textures/PNG/Red/texture_02 -603.0215 512.0029 45 0.9943691 -0.9943682
-( 6544 -1088 64 ) ( 6544 -1088 16 ) ( 6544 -1104 16 ) kenney_prototype-textures/PNG/Red/texture_02 16.25397 944 270 0.984375 1
-}
-// brush 1
-{
-( 6496 -1088 -16 ) ( 6480 -1088 0 ) ( 6480 -1104 0 ) kenney_prototype-textures/PNG/Red/texture_02 -352 944 0 1 1
-( 6656 -1104 0 ) ( 6656 -1104 -16 ) ( 6496 -1104 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -310.30322 0 0 1.03125 -1
-( 6656 -1104 -16 ) ( 6656 -1088 -16 ) ( 6496 -1088 -16 ) kenney_prototype-textures/PNG/Red/texture_02 68.2666 944 0 0.9375 1
-( 6480 -1088 0 ) ( 6656 -1088 0 ) ( 6656 -1104 0 ) kenney_prototype-textures/PNG/Red/texture_02 -310.30322 944 0 1.03125 1
-( 6496 -1088 -16 ) ( 6656 -1088 -16 ) ( 6656 -1088 0 ) kenney_prototype-textures/PNG/Red/texture_02 -310.30322 0 0 1.03125 -1
-( 6656 -1088 0 ) ( 6656 -1088 -16 ) ( 6656 -1104 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -16 944 270 1 1
-}
-// brush 2
-{
-( 6544 -1104 -64 ) ( 6544 -1088 -64 ) ( 6496 -1088 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -503.87305 944 0 0.984375 1
-( 6544 -1104 -16 ) ( 6544 -1104 -64 ) ( 6496 -1104 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -603.02515 -546.1282 315 0.9943682 -0.99437
-( 6496 -1088 -16 ) ( 6544 -1088 -16 ) ( 6544 -1104 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -503.87305 944 0 0.984375 1
-( 6496 -1088 -16 ) ( 6544 -1088 -64 ) ( 6544 -1088 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -503.87305 16.253971 0 0.984375 -0.984375
-( 6544 -1088 -16 ) ( 6544 -1088 -64 ) ( 6544 -1104 -64 ) kenney_prototype-textures/PNG/Red/texture_02 -65.01587 944 270 0.984375 1
-}
-// brush 3
-{
-( 6496 -1104 16 ) ( 6480 -1104 0 ) ( 6480 -1088 0 ) kenney_prototype-textures/PNG/Red/texture_02 336 944 180 1 -1
-( 6656 -1104 16 ) ( 6656 -1104 0 ) ( 6480 -1104 0 ) kenney_prototype-textures/PNG/Red/texture_02 -310.30322 -16 0 1.03125 -1
-( 6656 -1104 0 ) ( 6656 -1088 0 ) ( 6480 -1088 0 ) kenney_prototype-textures/PNG/Red/texture_02 -310.30322 944 0 1.03125 1
-( 6496 -1088 16 ) ( 6656 -1088 16 ) ( 6656 -1104 16 ) kenney_prototype-textures/PNG/Red/texture_02 68.2666 944 0 0.9375 1
-( 6480 -1088 0 ) ( 6656 -1088 0 ) ( 6656 -1088 16 ) kenney_prototype-textures/PNG/Red/texture_02 -310.30322 -16 0 1.03125 -1
-( 6656 -1088 16 ) ( 6656 -1088 0 ) ( 6656 -1104 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 944 270 1 1
-}
-}
-// entity 50
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "57"
-"_tb_linked_group_id" "42d425a9-fcb0-4c49-bd99-ce596788b715"
-"_tb_transformation" "-6.123233995736761e-16 2.8327694488239893e-16 1 3616.0000000000045 -1 -1.224646799147355e-16 -6.123233995736761e-16 4048 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 4096 -1584 64 ) ( 4096 -1584 16 ) ( 4096 -1536 16 ) kenney_prototype-textures/PNG/Orange/texture_02 438.85718 -65.015884 180 0.984375 0.984375
-( 4112 -1584 64 ) ( 4112 -1584 16 ) ( 4096 -1584 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.253967 0 270 0.984375 1
-( 4096 -1584 16 ) ( 4112 -1584 16 ) ( 4112 -1536 16 ) kenney_prototype-textures/PNG/Orange/texture_02 438.85718 0 270 0.984375 1
-( 4096 -1584 64 ) ( 4096 -1536 16 ) ( 4112 -1536 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -487.6189 0 90 0.984375 -1
-( 4112 -1536 16 ) ( 4112 -1584 16 ) ( 4112 -1584 64 ) kenney_prototype-textures/PNG/Orange/texture_02 876.0891 -967.1124 135 0.9943691 0.99437
-}
-// brush 1
-{
-( 4096 -1696 0 ) ( 4096 -1696 -16 ) ( 4096 -1536 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 403.39404 0 180 1.03125 1
-( 4112 -1696 0 ) ( 4112 -1696 -16 ) ( 4096 -1696 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 0 270 1 1
-( 4096 -1696 -16 ) ( 4112 -1696 -16 ) ( 4112 -1536 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 238.93335 0 270 0.9375 1
-( 4112 -1520 0 ) ( 4112 -1696 0 ) ( 4096 -1696 0 ) kenney_prototype-textures/PNG/Orange/texture_02 403.39404 0 270 1.03125 1
-( 4112 -1536 -16 ) ( 4112 -1520 0 ) ( 4096 -1520 0 ) kenney_prototype-textures/PNG/Orange/texture_02 512 0 270 1 1
-( 4112 -1536 -16 ) ( 4112 -1696 -16 ) ( 4112 -1696 0 ) kenney_prototype-textures/PNG/Orange/texture_02 403.39404 0 180 1.03125 1
-}
-// brush 2
-{
-( 4096 -1584 -16 ) ( 4096 -1584 -64 ) ( 4096 -1536 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 876.0891 932.9769 225 0.9943691 0.9943682
-( 4112 -1584 -16 ) ( 4112 -1584 -64 ) ( 4096 -1584 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 0 270 0.984375 1
-( 4112 -1536 -16 ) ( 4112 -1584 -16 ) ( 4096 -1584 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 438.85718 0 270 0.984375 1
-( 4096 -1584 -64 ) ( 4112 -1584 -64 ) ( 4112 -1536 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 438.85718 0 270 0.984375 1
-( 4112 -1536 -16 ) ( 4112 -1584 -64 ) ( 4112 -1584 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 438.85718 16.25397 180 0.984375 0.984375
-}
-// brush 3
-{
-( 4096 -1696 16 ) ( 4096 -1696 0 ) ( 4096 -1520 0 ) kenney_prototype-textures/PNG/Orange/texture_02 403.39404 -16 180 1.03125 1
-( 4112 -1696 16 ) ( 4112 -1696 0 ) ( 4096 -1696 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 0 270 1 1
-( 4096 -1696 0 ) ( 4112 -1696 0 ) ( 4112 -1520 0 ) kenney_prototype-textures/PNG/Orange/texture_02 403.39404 0 270 1.03125 1
-( 4112 -1536 16 ) ( 4112 -1696 16 ) ( 4096 -1696 16 ) kenney_prototype-textures/PNG/Orange/texture_02 238.93335 0 270 0.9375 1
-( 4096 -1536 16 ) ( 4096 -1520 0 ) ( 4112 -1520 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -528 0 90 1 -1
-( 4112 -1520 0 ) ( 4112 -1696 0 ) ( 4112 -1696 16 ) kenney_prototype-textures/PNG/Orange/texture_02 403.39404 -16 180 1.03125 1
-}
-}
-// entity 51
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "58"
-"_tb_linked_group_id" "ad0f161f-860a-46e4-bc13-a552b5ee086f"
-"_tb_transformation" "-8.544696836917435e-15 6.123233995736662e-17 1 3616.0000000000496 -1 -1.2246467991473584e-16 -8.544696836917435e-15 3856.0000000000036 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 4096 -1776 64 ) ( 4096 -1776 16 ) ( 4096 -1728 16 ) kenney_prototype-textures/PNG/Green/texture_02 243.80957 958.9841 180 0.984375 0.984375
-( 4112 -1776 64 ) ( 4112 -1776 16 ) ( 4096 -1776 16 ) kenney_prototype-textures/PNG/Green/texture_02 16.253971 0 270 0.984375 1
-( 4096 -1776 16 ) ( 4112 -1776 16 ) ( 4112 -1728 16 ) kenney_prototype-textures/PNG/Green/texture_02 243.80957 0 270 0.984375 1
-( 4096 -1776 64 ) ( 4096 -1728 16 ) ( 4112 -1728 16 ) kenney_prototype-textures/PNG/Green/texture_02 -292.5713 0 90 0.984375 -1
-( 4112 -1728 16 ) ( 4112 -1776 16 ) ( 4112 -1776 64 ) kenney_prototype-textures/PNG/Green/texture_02 739.55554 -830.579 135 0.9943691 0.99437
-}
-// brush 1
-{
-( 4096 -1888 0 ) ( 4096 -1888 -16 ) ( 4096 -1728 -16 ) kenney_prototype-textures/PNG/Green/texture_02 217.21228 0 180 1.03125 1
-( 4112 -1888 0 ) ( 4112 -1888 -16 ) ( 4096 -1888 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -16 0 270 1 1
-( 4096 -1888 -16 ) ( 4112 -1888 -16 ) ( 4112 -1728 -16 ) kenney_prototype-textures/PNG/Green/texture_02 34.133057 0 270 0.9375 1
-( 4112 -1712 0 ) ( 4112 -1888 0 ) ( 4096 -1888 0 ) kenney_prototype-textures/PNG/Green/texture_02 217.21179 0 270 1.03125 1
-( 4112 -1728 -16 ) ( 4112 -1712 0 ) ( 4096 -1712 0 ) kenney_prototype-textures/PNG/Green/texture_02 320 0 270 1 1
-( 4112 -1728 -16 ) ( 4112 -1888 -16 ) ( 4112 -1888 0 ) kenney_prototype-textures/PNG/Green/texture_02 217.21228 0 180 1.03125 1
-}
-// brush 2
-{
-( 4096 -1776 -16 ) ( 4096 -1776 -64 ) ( 4096 -1728 -16 ) kenney_prototype-textures/PNG/Green/texture_02 739.55554 796.44324 225 0.9943691 0.9943682
-( 4112 -1776 -16 ) ( 4112 -1776 -64 ) ( 4096 -1776 -64 ) kenney_prototype-textures/PNG/Green/texture_02 -65.01587 0 270 0.984375 1
-( 4112 -1728 -16 ) ( 4112 -1776 -16 ) ( 4096 -1776 -16 ) kenney_prototype-textures/PNG/Green/texture_02 243.80957 0 270 0.984375 1
-( 4096 -1776 -64 ) ( 4112 -1776 -64 ) ( 4112 -1728 -16 ) kenney_prototype-textures/PNG/Green/texture_02 243.80957 0 270 0.984375 1
-( 4112 -1728 -16 ) ( 4112 -1776 -64 ) ( 4112 -1776 -16 ) kenney_prototype-textures/PNG/Green/texture_02 243.80957 16.25397 180 0.984375 0.984375
-}
-// brush 3
-{
-( 4096 -1888 16 ) ( 4096 -1888 0 ) ( 4096 -1712 0 ) kenney_prototype-textures/PNG/Green/texture_02 217.21228 -16 180 1.03125 1
-( 4112 -1888 16 ) ( 4112 -1888 0 ) ( 4096 -1888 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 0 270 1 1
-( 4096 -1888 0 ) ( 4112 -1888 0 ) ( 4112 -1712 0 ) kenney_prototype-textures/PNG/Green/texture_02 217.21179 0 270 1.03125 1
-( 4112 -1728 16 ) ( 4112 -1888 16 ) ( 4096 -1888 16 ) kenney_prototype-textures/PNG/Green/texture_02 34.133057 0 270 0.9375 1
-( 4096 -1728 16 ) ( 4096 -1712 0 ) ( 4112 -1712 0 ) kenney_prototype-textures/PNG/Green/texture_02 -336 0 90 1 -1
-( 4112 -1712 0 ) ( 4112 -1888 0 ) ( 4112 -1888 16 ) kenney_prototype-textures/PNG/Green/texture_02 217.21228 -16 180 1.03125 1
-}
-}
-// entity 52
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "59"
-"_tb_linked_group_id" "ebde4e35-5337-49c0-8949-75092ecb1f2f"
-"_tb_transformation" "-8.544696836917435e-15 6.123233995736662e-17 1 3616.000000000047 -1 -1.2246467991473584e-16 -8.544696836917435e-15 3664.0000000000036 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 4096 -1968 64 ) ( 4096 -1968 16 ) ( 4096 -1920 16 ) kenney_prototype-textures/PNG/Red/texture_02 48.76172 958.9841 180 0.984375 0.984375
-( 4112 -1968 64 ) ( 4112 -1968 16 ) ( 4096 -1968 16 ) kenney_prototype-textures/PNG/Red/texture_02 16.253971 0 270 0.984375 1
-( 4096 -1968 16 ) ( 4112 -1968 16 ) ( 4112 -1920 16 ) kenney_prototype-textures/PNG/Red/texture_02 48.76172 0 270 0.984375 1
-( 4096 -1968 64 ) ( 4096 -1920 16 ) ( 4112 -1920 16 ) kenney_prototype-textures/PNG/Red/texture_02 -97.52368 0 90 0.984375 -1
-( 4112 -1920 16 ) ( 4112 -1968 16 ) ( 4112 -1968 64 ) kenney_prototype-textures/PNG/Red/texture_02 603.02246 -694.04333 135 0.9943691 0.9943682
-}
-// brush 1
-{
-( 4096 -2080 0 ) ( 4096 -2080 -16 ) ( 4096 -1920 -16 ) kenney_prototype-textures/PNG/Red/texture_02 31.030273 0 180 1.03125 1
-( 4112 -2080 0 ) ( 4112 -2080 -16 ) ( 4096 -2080 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -16 0 270 1 1
-( 4096 -2080 -16 ) ( 4112 -2080 -16 ) ( 4112 -1920 -16 ) kenney_prototype-textures/PNG/Red/texture_02 853.3335 0 270 0.9375 1
-( 4112 -1904 0 ) ( 4112 -2080 0 ) ( 4096 -2080 0 ) kenney_prototype-textures/PNG/Red/texture_02 31.030273 0 270 1.03125 1
-( 4112 -1920 -16 ) ( 4112 -1904 0 ) ( 4096 -1904 0 ) kenney_prototype-textures/PNG/Red/texture_02 128 0 270 1 1
-( 4112 -1920 -16 ) ( 4112 -2080 -16 ) ( 4112 -2080 0 ) kenney_prototype-textures/PNG/Red/texture_02 31.030273 0 180 1.03125 1
-}
-// brush 2
-{
-( 4096 -1968 -16 ) ( 4096 -1968 -64 ) ( 4096 -1920 -16 ) kenney_prototype-textures/PNG/Red/texture_02 603.0215 659.9125 225 0.9943682 0.99437
-( 4112 -1968 -16 ) ( 4112 -1968 -64 ) ( 4096 -1968 -64 ) kenney_prototype-textures/PNG/Red/texture_02 -65.01587 0 270 0.984375 1
-( 4112 -1920 -16 ) ( 4112 -1968 -16 ) ( 4096 -1968 -16 ) kenney_prototype-textures/PNG/Red/texture_02 48.76172 0 270 0.984375 1
-( 4096 -1968 -64 ) ( 4112 -1968 -64 ) ( 4112 -1920 -16 ) kenney_prototype-textures/PNG/Red/texture_02 48.76172 0 270 0.984375 1
-( 4112 -1920 -16 ) ( 4112 -1968 -64 ) ( 4112 -1968 -16 ) kenney_prototype-textures/PNG/Red/texture_02 48.76172 16.25397 180 0.984375 0.984375
-}
-// brush 3
-{
-( 4096 -2080 16 ) ( 4096 -2080 0 ) ( 4096 -1904 0 ) kenney_prototype-textures/PNG/Red/texture_02 31.030273 -16 180 1.03125 1
-( 4112 -2080 16 ) ( 4112 -2080 0 ) ( 4096 -2080 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 0 270 1 1
-( 4096 -2080 0 ) ( 4112 -2080 0 ) ( 4112 -1904 0 ) kenney_prototype-textures/PNG/Red/texture_02 31.030273 0 270 1.03125 1
-( 4112 -1920 16 ) ( 4112 -2080 16 ) ( 4096 -2080 16 ) kenney_prototype-textures/PNG/Red/texture_02 853.3335 0 270 0.9375 1
-( 4096 -1920 16 ) ( 4096 -1904 0 ) ( 4112 -1904 0 ) kenney_prototype-textures/PNG/Red/texture_02 -144 0 90 1 -1
-( 4112 -1904 0 ) ( 4112 -2080 0 ) ( 4112 -2080 16 ) kenney_prototype-textures/PNG/Red/texture_02 31.030273 -16 180 1.03125 1
-}
-}
-// entity 53
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "62"
-"_tb_linked_group_id" "755eece4-7c2e-44dc-bdc2-2a6fbf073e7f"
-"_tb_transformation" "1.9600538592723536e-15 -6.123233995736743e-17 -1 3567.999999999988 1 1.2246467991473544e-16 1.9600538592723536e-15 -7024.000000000001 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 3072 -1440 16 ) ( 3072 -1392 16 ) ( 3072 -1392 64 ) kenney_prototype-textures/PNG/Green/texture_02 -79.64447 1012.6234 45 0.9943691 -0.99437
-( 3088 -1392 64 ) ( 3088 -1440 16 ) ( 3072 -1440 16 ) kenney_prototype-textures/PNG/Green/texture_02 585.14294 -16 270 0.984375 -1
-( 3088 -1392 16 ) ( 3072 -1392 16 ) ( 3072 -1440 16 ) kenney_prototype-textures/PNG/Green/texture_02 -633.90466 -16 90 0.984375 1
-( 3072 -1392 64 ) ( 3072 -1392 16 ) ( 3088 -1392 16 ) kenney_prototype-textures/PNG/Green/texture_02 16.253971 -16 270 0.984375 -1
-( 3088 -1392 64 ) ( 3088 -1392 16 ) ( 3088 -1440 16 ) kenney_prototype-textures/PNG/Green/texture_02 -633.90466 958.9841 0 0.984375 -0.984375
-}
-// brush 1
-{
-( 3072 -1440 -16 ) ( 3072 -1280 -16 ) ( 3072 -1280 0 ) kenney_prototype-textures/PNG/Green/texture_02 -806.7877 0 0 1.03125 -1
-( 3072 -1440 -16 ) ( 3072 -1456 0 ) ( 3088 -1456 0 ) kenney_prototype-textures/PNG/Green/texture_02 -608 -16 90 1 1
-( 3088 -1280 -16 ) ( 3072 -1280 -16 ) ( 3072 -1440 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -682.6666 -16 90 0.9375 1
-( 3072 -1456 0 ) ( 3072 -1280 0 ) ( 3088 -1280 0 ) kenney_prototype-textures/PNG/Green/texture_02 -806.7881 -16 90 1.03125 1
-( 3072 -1280 0 ) ( 3072 -1280 -16 ) ( 3088 -1280 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -16 -16 270 1 -1
-( 3088 -1280 0 ) ( 3088 -1280 -16 ) ( 3088 -1440 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -806.7877 0 0 1.03125 -1
-}
-// brush 2
-{
-( 3072 -1440 -16 ) ( 3072 -1392 -64 ) ( 3072 -1392 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -633.90466 16.25397 0 0.984375 -0.984375
-( 3088 -1392 -64 ) ( 3072 -1392 -64 ) ( 3072 -1440 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -633.90466 -16 90 0.984375 1
-( 3072 -1440 -16 ) ( 3072 -1392 -16 ) ( 3088 -1392 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -633.90466 -16 90 0.984375 1
-( 3072 -1392 -16 ) ( 3072 -1392 -64 ) ( 3088 -1392 -64 ) kenney_prototype-textures/PNG/Green/texture_02 958.9841 -16 270 0.984375 -1
-( 3088 -1392 -16 ) ( 3088 -1392 -64 ) ( 3088 -1440 -16 ) kenney_prototype-textures/PNG/Green/texture_02 -79.64447 -22.755615 315 0.9943691 -0.9943682
-}
-// brush 3
-{
-( 3072 -1456 0 ) ( 3072 -1280 0 ) ( 3072 -1280 16 ) kenney_prototype-textures/PNG/Green/texture_02 -806.7877 -16 0 1.03125 -1
-( 3088 -1440 16 ) ( 3088 -1456 0 ) ( 3072 -1456 0 ) kenney_prototype-textures/PNG/Green/texture_02 592 -16 270 1 -1
-( 3088 -1280 0 ) ( 3072 -1280 0 ) ( 3072 -1456 0 ) kenney_prototype-textures/PNG/Green/texture_02 -806.7881 -16 90 1.03125 1
-( 3072 -1440 16 ) ( 3072 -1280 16 ) ( 3088 -1280 16 ) kenney_prototype-textures/PNG/Green/texture_02 -682.6666 -16 90 0.9375 1
-( 3072 -1280 16 ) ( 3072 -1280 0 ) ( 3088 -1280 0 ) kenney_prototype-textures/PNG/Green/texture_02 0 -16 270 1 -1
-( 3088 -1280 16 ) ( 3088 -1280 0 ) ( 3088 -1456 0 ) kenney_prototype-textures/PNG/Green/texture_02 -806.7877 -16 0 1.03125 -1
-}
-}
-// entity 54
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "63"
-"_tb_linked_group_id" "b53b008e-13e4-4f10-99d3-5dc5a854a9a2"
-"_tb_transformation" "1.9600538592723536e-15 -6.123233995736743e-17 -1 3567.999999999989 1 1.2246467991473544e-16 1.9600538592723536e-15 -6832.000000000001 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 3072 -1248 16 ) ( 3072 -1200 16 ) ( 3072 -1200 64 ) kenney_prototype-textures/PNG/Red/texture_02 -216.17792 125.15564 45 0.9943691 -0.9943682
-( 3088 -1200 64 ) ( 3088 -1248 16 ) ( 3072 -1248 16 ) kenney_prototype-textures/PNG/Red/texture_02 780.1903 -16 270 0.984375 -1
-( 3088 -1200 16 ) ( 3072 -1200 16 ) ( 3072 -1248 16 ) kenney_prototype-textures/PNG/Red/texture_02 -828.9525 -16 90 0.984375 1
-( 3072 -1200 64 ) ( 3072 -1200 16 ) ( 3088 -1200 16 ) kenney_prototype-textures/PNG/Red/texture_02 16.253971 -16 270 0.984375 -1
-( 3088 -1200 64 ) ( 3088 -1200 16 ) ( 3088 -1248 16 ) kenney_prototype-textures/PNG/Red/texture_02 -828.9525 958.9841 0 0.984375 -0.984375
-}
-// brush 1
-{
-( 3072 -1248 -16 ) ( 3072 -1088 -16 ) ( 3072 -1088 0 ) kenney_prototype-textures/PNG/Red/texture_02 -992.9697 0 0 1.03125 -1
-( 3072 -1248 -16 ) ( 3072 -1264 0 ) ( 3088 -1264 0 ) kenney_prototype-textures/PNG/Red/texture_02 -800 -16 90 1 1
-( 3088 -1088 -16 ) ( 3072 -1088 -16 ) ( 3072 -1248 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -887.4668 -16 90 0.9375 1
-( 3072 -1264 0 ) ( 3072 -1088 0 ) ( 3088 -1088 0 ) kenney_prototype-textures/PNG/Red/texture_02 -992.96985 -16 90 1.03125 1
-( 3072 -1088 0 ) ( 3072 -1088 -16 ) ( 3088 -1088 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -16 -16 270 1 -1
-( 3088 -1088 0 ) ( 3088 -1088 -16 ) ( 3088 -1248 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -992.9697 0 0 1.03125 -1
-}
-// brush 2
-{
-( 3072 -1248 -16 ) ( 3072 -1200 -64 ) ( 3072 -1200 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -828.9525 16.25397 0 0.984375 -0.984375
-( 3088 -1200 -64 ) ( 3072 -1200 -64 ) ( 3072 -1248 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -828.9525 -16 90 0.984375 1
-( 3072 -1248 -16 ) ( 3072 -1200 -16 ) ( 3088 -1200 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -828.9525 -16 90 0.984375 1
-( 3072 -1200 -16 ) ( 3072 -1200 -64 ) ( 3088 -1200 -64 ) kenney_prototype-textures/PNG/Red/texture_02 958.9841 -16 270 0.984375 -1
-( 3088 -1200 -16 ) ( 3088 -1200 -64 ) ( 3088 -1248 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -216.17712 -159.28992 315 0.9943682 -0.99437
-}
-// brush 3
-{
-( 3072 -1264 0 ) ( 3072 -1088 0 ) ( 3072 -1088 16 ) kenney_prototype-textures/PNG/Red/texture_02 -992.9697 -16 0 1.03125 -1
-( 3088 -1248 16 ) ( 3088 -1264 0 ) ( 3072 -1264 0 ) kenney_prototype-textures/PNG/Red/texture_02 784 -16 270 1 -1
-( 3088 -1088 0 ) ( 3072 -1088 0 ) ( 3072 -1264 0 ) kenney_prototype-textures/PNG/Red/texture_02 -992.96985 -16 90 1.03125 1
-( 3072 -1248 16 ) ( 3072 -1088 16 ) ( 3088 -1088 16 ) kenney_prototype-textures/PNG/Red/texture_02 -887.4668 -16 90 0.9375 1
-( 3072 -1088 16 ) ( 3072 -1088 0 ) ( 3088 -1088 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 -16 270 1 -1
-( 3088 -1088 16 ) ( 3088 -1088 0 ) ( 3088 -1264 0 ) kenney_prototype-textures/PNG/Red/texture_02 -992.9697 -16 0 1.03125 -1
-}
-}
-// entity 55
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "65"
-"_tb_linked_group_id" "f6e893d0-c035-4590-84a4-926ebc1fcef5"
-"_tb_transformation" "-6.768339997517186e-15 6.123233995736685e-17 1 1552.0000000000377 -1 -1.2246467991473574e-16 -6.768339997517186e-15 -303.99999999999727 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 2032 -5936 64 ) ( 2032 -5936 16 ) ( 2032 -5888 16 ) kenney_prototype-textures/PNG/Red/texture_02 -910.22217 -65.015884 180 0.984375 0.984375
-( 2048 -5936 64 ) ( 2048 -5936 16 ) ( 2032 -5936 16 ) kenney_prototype-textures/PNG/Red/texture_02 16.253967 -16 270 0.984375 1
-( 2032 -5936 16 ) ( 2048 -5936 16 ) ( 2048 -5888 16 ) kenney_prototype-textures/PNG/Red/texture_02 -910.22217 -16 270 0.984375 1
-( 2032 -5936 64 ) ( 2032 -5888 16 ) ( 2048 -5888 16 ) kenney_prototype-textures/PNG/Red/texture_02 861.46045 -16 90 0.984375 -1
-( 2048 -5888 16 ) ( 2048 -5936 16 ) ( 2048 -5936 64 ) kenney_prototype-textures/PNG/Red/texture_02 -170.66602 79.64746 135 0.9943691 0.9943682
-}
-// brush 1
-{
-( 2032 -6048 0 ) ( 2032 -6048 -16 ) ( 2032 -5888 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 0 180 1.03125 1
-( 2048 -6048 0 ) ( 2048 -6048 -16 ) ( 2032 -6048 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -16 -16 270 1 1
-( 2032 -6048 -16 ) ( 2048 -6048 -16 ) ( 2048 -5888 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -307.1997 -16 270 0.9375 1
-( 2048 -5872 0 ) ( 2048 -6048 0 ) ( 2032 -6048 0 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 -16 270 1.03125 1
-( 2048 -5888 -16 ) ( 2048 -5872 0 ) ( 2032 -5872 0 ) kenney_prototype-textures/PNG/Red/texture_02 -768 -16 270 1 1
-( 2048 -5888 -16 ) ( 2048 -6048 -16 ) ( 2048 -6048 0 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 0 180 1.03125 1
-}
-// brush 2
-{
-( 2032 -5936 -16 ) ( 2032 -5936 -64 ) ( 2032 -5888 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -170.66968 -113.77319 225 0.9943682 0.99437
-( 2048 -5936 -16 ) ( 2048 -5936 -64 ) ( 2032 -5936 -64 ) kenney_prototype-textures/PNG/Red/texture_02 -65.01587 -16 270 0.984375 1
-( 2048 -5888 -16 ) ( 2048 -5936 -16 ) ( 2032 -5936 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -910.22217 -16 270 0.984375 1
-( 2032 -5936 -64 ) ( 2048 -5936 -64 ) ( 2048 -5888 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -910.22217 -16 270 0.984375 1
-( 2048 -5888 -16 ) ( 2048 -5936 -64 ) ( 2048 -5936 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -910.22217 16.25397 180 0.984375 0.984375
-}
-// brush 3
-{
-( 2032 -6048 16 ) ( 2032 -6048 0 ) ( 2032 -5872 0 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 -16 180 1.03125 1
-( 2048 -6048 16 ) ( 2048 -6048 0 ) ( 2032 -6048 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 -16 270 1 1
-( 2032 -6048 0 ) ( 2048 -6048 0 ) ( 2048 -5872 0 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 -16 270 1.03125 1
-( 2048 -5888 16 ) ( 2048 -6048 16 ) ( 2032 -6048 16 ) kenney_prototype-textures/PNG/Red/texture_02 -307.1997 -16 270 0.9375 1
-( 2032 -5888 16 ) ( 2032 -5872 0 ) ( 2048 -5872 0 ) kenney_prototype-textures/PNG/Red/texture_02 752 -16 90 1 -1
-( 2048 -5872 0 ) ( 2048 -6048 0 ) ( 2048 -6048 16 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 -16 180 1.03125 1
-}
-}
-// entity 56
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "66"
-"_tb_linked_group_id" "3cb60bb4-4e2d-455d-af65-4446c592ec90"
-"_tb_transformation" "2.0750966144311386e-15 2.8327694488239923e-16 1 1551.9999999999886 -1 -1.2246467991473473e-16 2.0750966144311386e-15 -496.0000000000018 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 2032 -6128 64 ) ( 2032 -6128 16 ) ( 2032 -6080 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -81.27002 -65.015884 180 0.984375 0.984375
-( 2048 -6128 64 ) ( 2048 -6128 16 ) ( 2032 -6128 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.253967 -16 270 0.984375 1
-( 2032 -6128 16 ) ( 2048 -6128 16 ) ( 2048 -6080 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -81.26953 -16 270 0.984375 1
-( 2032 -6128 64 ) ( 2032 -6080 16 ) ( 2048 -6080 16 ) kenney_prototype-textures/PNG/Orange/texture_02 32.507812 -16 90 0.984375 -1
-( 2048 -6080 16 ) ( 2048 -6128 16 ) ( 2048 -6128 64 ) kenney_prototype-textures/PNG/Orange/texture_02 -307.19922 216.17285 135 0.9943691 0.99437
-}
-// brush 1
-{
-( 2032 -6240 0 ) ( 2032 -6240 -16 ) ( 2032 -6080 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9092 0 180 1.03125 1
-( 2048 -6240 0 ) ( 2048 -6240 -16 ) ( 2032 -6240 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 -16 270 1 1
-( 2032 -6240 -16 ) ( 2048 -6240 -16 ) ( 2048 -6080 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -511.9995 -16 270 0.9375 1
-( 2048 -6064 0 ) ( 2048 -6240 0 ) ( 2032 -6240 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9087 -16 270 1.03125 1
-( 2048 -6080 -16 ) ( 2048 -6064 0 ) ( 2032 -6064 0 ) kenney_prototype-textures/PNG/Orange/texture_02 64 -16 270 1 1
-( 2048 -6080 -16 ) ( 2048 -6240 -16 ) ( 2048 -6240 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9092 0 180 1.03125 1
-}
-// brush 2
-{
-( 2032 -6128 -16 ) ( 2032 -6128 -64 ) ( 2032 -6080 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -307.19922 -250.31421 225 0.9943691 0.9943682
-( 2048 -6128 -16 ) ( 2048 -6128 -64 ) ( 2032 -6128 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 -16 270 0.984375 1
-( 2048 -6080 -16 ) ( 2048 -6128 -16 ) ( 2032 -6128 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -81.26953 -16 270 0.984375 1
-( 2032 -6128 -64 ) ( 2048 -6128 -64 ) ( 2048 -6080 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -81.26953 -16 270 0.984375 1
-( 2048 -6080 -16 ) ( 2048 -6128 -64 ) ( 2048 -6128 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -81.27002 16.25397 180 0.984375 0.984375
-}
-// brush 3
-{
-( 2032 -6240 16 ) ( 2032 -6240 0 ) ( 2032 -6064 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9092 -16 180 1.03125 1
-( 2048 -6240 16 ) ( 2048 -6240 0 ) ( 2032 -6240 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -16 270 1 1
-( 2032 -6240 0 ) ( 2048 -6240 0 ) ( 2048 -6064 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9087 -16 270 1.03125 1
-( 2048 -6080 16 ) ( 2048 -6240 16 ) ( 2032 -6240 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -511.9995 -16 270 0.9375 1
-( 2032 -6080 16 ) ( 2032 -6064 0 ) ( 2048 -6064 0 ) kenney_prototype-textures/PNG/Orange/texture_02 944 -16 90 1 -1
-( 2048 -6064 0 ) ( 2048 -6240 0 ) ( 2048 -6240 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9092 -16 180 1.03125 1
-}
-}
-// entity 57
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "67"
-"_tb_linked_group_id" "dd5ab267-1f5b-4f24-bb0a-bd86d7911370"
-"_tb_transformation" "2.0750966144311386e-15 2.8327694488239923e-16 1 1551.9999999999886 -1 -1.2246467991473473e-16 2.0750966144311386e-15 -688.0000000000018 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 2032 -6320 64 ) ( 2032 -6320 16 ) ( 2032 -6272 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 180 1 1
-( 2048 -6320 64 ) ( 2048 -6320 16 ) ( 2032 -6320 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -80 270 1 1
-( 2032 -6320 16 ) ( 2048 -6320 16 ) ( 2048 -6272 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -80 270 1 1
-( 2032 -6320 64 ) ( 2032 -6272 16 ) ( 2048 -6272 16 ) kenney_prototype-textures/PNG/Purple/texture_02 560 -80 90 1 -1
-( 2048 -6272 16 ) ( 2048 -6320 16 ) ( 2048 -6320 64 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 180 1 1
-}
-// brush 1
-{
-( 2032 -6432 0 ) ( 2032 -6432 -16 ) ( 2032 -6272 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 180 1 1
-( 2048 -6432 0 ) ( 2048 -6432 -16 ) ( 2032 -6432 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -80 270 1 1
-( 2032 -6432 -16 ) ( 2048 -6432 -16 ) ( 2048 -6272 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -80 270 1 1
-( 2048 -6256 0 ) ( 2048 -6432 0 ) ( 2032 -6432 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -80 270 1 1
-( 2048 -6272 -16 ) ( 2048 -6256 0 ) ( 2032 -6256 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -696 -72 270 1 1
-( 2048 -6272 -16 ) ( 2048 -6432 -16 ) ( 2048 -6432 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 180 1 1
-}
-// brush 2
-{
-( 2032 -6320 -16 ) ( 2032 -6320 -64 ) ( 2032 -6272 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 180 1 1
-( 2048 -6320 -16 ) ( 2048 -6320 -64 ) ( 2032 -6320 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -80 270 1 1
-( 2048 -6272 -16 ) ( 2048 -6320 -16 ) ( 2032 -6320 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -80 270 1 1
-( 2032 -6320 -64 ) ( 2048 -6320 -64 ) ( 2048 -6272 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -672 -80 270 1 1
-( 2048 -6272 -16 ) ( 2048 -6320 -64 ) ( 2048 -6320 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 180 1 1
-}
-// brush 3
-{
-( 2032 -6432 16 ) ( 2032 -6432 0 ) ( 2032 -6256 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 180 1 1
-( 2048 -6432 16 ) ( 2048 -6432 0 ) ( 2032 -6432 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -80 270 1 1
-( 2032 -6432 0 ) ( 2048 -6432 0 ) ( 2048 -6256 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -80 270 1 1
-( 2048 -6272 16 ) ( 2048 -6432 16 ) ( 2032 -6432 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -80 270 1 1
-( 2032 -6272 16 ) ( 2032 -6256 0 ) ( 2048 -6256 0 ) kenney_prototype-textures/PNG/Purple/texture_02 568 -72 90 1 -1
-( 2048 -6256 0 ) ( 2048 -6432 0 ) ( 2048 -6432 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 180 1 1
-}
-}
-// entity 58
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "68"
-"_tb_linked_group_id" "aa401147-db66-423d-9297-8858ce5fd6b1"
-"_tb_transformation" "-6.768339997517186e-15 6.123233995736685e-17 1 1056.0000000000377 -1 -1.2246467991473574e-16 -6.768339997517186e-15 -303.99999999999727 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 1536 -5936 64 ) ( 1536 -5936 16 ) ( 1536 -5888 16 ) kenney_prototype-textures/PNG/Red/texture_02 -910.22217 958.9841 180 0.984375 0.984375
-( 1552 -5936 64 ) ( 1552 -5936 16 ) ( 1536 -5936 16 ) kenney_prototype-textures/PNG/Red/texture_02 16.253971 -512 270 0.984375 1
-( 1536 -5936 16 ) ( 1552 -5936 16 ) ( 1552 -5888 16 ) kenney_prototype-textures/PNG/Red/texture_02 -910.22217 -512 270 0.984375 1
-( 1536 -5936 64 ) ( 1536 -5888 16 ) ( 1552 -5888 16 ) kenney_prototype-textures/PNG/Red/texture_02 861.46045 -512 90 0.984375 -1
-( 1552 -5888 16 ) ( 1552 -5936 16 ) ( 1552 -5936 64 ) kenney_prototype-textures/PNG/Red/texture_02 -170.66602 79.64746 135 0.9943691 0.9943682
-}
-// brush 1
-{
-( 1536 -6048 0 ) ( 1536 -6048 -16 ) ( 1536 -5888 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 0 180 1.03125 1
-( 1552 -6048 0 ) ( 1552 -6048 -16 ) ( 1536 -6048 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -16 -512 270 1 1
-( 1536 -6048 -16 ) ( 1552 -6048 -16 ) ( 1552 -5888 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -307.1997 -512 270 0.9375 1
-( 1552 -5872 0 ) ( 1552 -6048 0 ) ( 1536 -6048 0 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 -512 270 1.03125 1
-( 1552 -5888 -16 ) ( 1552 -5872 0 ) ( 1536 -5872 0 ) kenney_prototype-textures/PNG/Red/texture_02 -768 -512 270 1 1
-( 1552 -5888 -16 ) ( 1552 -6048 -16 ) ( 1552 -6048 0 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 0 180 1.03125 1
-}
-// brush 2
-{
-( 1536 -5936 -16 ) ( 1536 -5936 -64 ) ( 1536 -5888 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -170.66968 -113.77319 225 0.9943682 0.99437
-( 1552 -5936 -16 ) ( 1552 -5936 -64 ) ( 1536 -5936 -64 ) kenney_prototype-textures/PNG/Red/texture_02 -65.01587 -512 270 0.984375 1
-( 1552 -5888 -16 ) ( 1552 -5936 -16 ) ( 1536 -5936 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -910.22217 -512 270 0.984375 1
-( 1536 -5936 -64 ) ( 1552 -5936 -64 ) ( 1552 -5888 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -910.22217 -512 270 0.984375 1
-( 1552 -5888 -16 ) ( 1552 -5936 -64 ) ( 1552 -5936 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -910.22217 16.25397 180 0.984375 0.984375
-}
-// brush 3
-{
-( 1536 -6048 16 ) ( 1536 -6048 0 ) ( 1536 -5872 0 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 -16 180 1.03125 1
-( 1552 -6048 16 ) ( 1552 -6048 0 ) ( 1536 -6048 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 -512 270 1 1
-( 1536 -6048 0 ) ( 1552 -6048 0 ) ( 1552 -5872 0 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 -512 270 1.03125 1
-( 1552 -5888 16 ) ( 1552 -6048 16 ) ( 1536 -6048 16 ) kenney_prototype-textures/PNG/Red/texture_02 -307.1997 -512 270 0.9375 1
-( 1536 -5888 16 ) ( 1536 -5872 0 ) ( 1552 -5872 0 ) kenney_prototype-textures/PNG/Red/texture_02 752 -512 90 1 -1
-( 1552 -5872 0 ) ( 1552 -6048 0 ) ( 1552 -6048 16 ) kenney_prototype-textures/PNG/Red/texture_02 -744.72754 -16 180 1.03125 1
-}
-}
-// entity 59
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "69"
-"_tb_linked_group_id" "5c0ec4b7-477a-4e06-b477-79948ef2d225"
-"_tb_transformation" "2.0750966144311386e-15 2.8327694488239923e-16 1 1055.9999999999886 -1 -1.2246467991473473e-16 2.0750966144311386e-15 -496.0000000000018 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 1536 -6128 64 ) ( 1536 -6128 16 ) ( 1536 -6080 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -81.27002 -65.015884 180 0.984375 0.984375
-( 1552 -6128 64 ) ( 1552 -6128 16 ) ( 1536 -6128 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.253971 -512 270 0.984375 1
-( 1536 -6128 16 ) ( 1552 -6128 16 ) ( 1552 -6080 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -81.26953 -512 270 0.984375 1
-( 1536 -6128 64 ) ( 1536 -6080 16 ) ( 1552 -6080 16 ) kenney_prototype-textures/PNG/Orange/texture_02 32.507812 -512 90 0.984375 -1
-( 1552 -6080 16 ) ( 1552 -6128 16 ) ( 1552 -6128 64 ) kenney_prototype-textures/PNG/Orange/texture_02 -307.19922 216.17285 135 0.9943691 0.99437
-}
-// brush 1
-{
-( 1536 -6240 0 ) ( 1536 -6240 -16 ) ( 1536 -6080 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9092 0 180 1.03125 1
-( 1552 -6240 0 ) ( 1552 -6240 -16 ) ( 1536 -6240 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 -512 270 1 1
-( 1536 -6240 -16 ) ( 1552 -6240 -16 ) ( 1552 -6080 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -511.9995 -512 270 0.9375 1
-( 1552 -6064 0 ) ( 1552 -6240 0 ) ( 1536 -6240 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9087 -512 270 1.03125 1
-( 1552 -6080 -16 ) ( 1552 -6064 0 ) ( 1536 -6064 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -960 -512 270 1 1
-( 1552 -6080 -16 ) ( 1552 -6240 -16 ) ( 1552 -6240 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9092 0 180 1.03125 1
-}
-// brush 2
-{
-( 1536 -6128 -16 ) ( 1536 -6128 -64 ) ( 1536 -6080 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -307.19922 -250.31421 225 0.9943691 0.9943682
-( 1552 -6128 -16 ) ( 1552 -6128 -64 ) ( 1536 -6128 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 -65.01587 -512 270 0.984375 1
-( 1552 -6080 -16 ) ( 1552 -6128 -16 ) ( 1536 -6128 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -81.26953 -512 270 0.984375 1
-( 1536 -6128 -64 ) ( 1552 -6128 -64 ) ( 1552 -6080 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -81.26953 -512 270 0.984375 1
-( 1552 -6080 -16 ) ( 1552 -6128 -64 ) ( 1552 -6128 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -81.27002 16.25397 180 0.984375 0.984375
-}
-// brush 3
-{
-( 1536 -6240 16 ) ( 1536 -6240 0 ) ( 1536 -6064 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9092 -16 180 1.03125 1
-( 1552 -6240 16 ) ( 1552 -6240 0 ) ( 1536 -6240 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 -512 270 1 1
-( 1536 -6240 0 ) ( 1552 -6240 0 ) ( 1552 -6064 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9087 -512 270 1.03125 1
-( 1552 -6080 16 ) ( 1552 -6240 16 ) ( 1536 -6240 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -511.9995 -512 270 0.9375 1
-( 1536 -6080 16 ) ( 1536 -6064 0 ) ( 1552 -6064 0 ) kenney_prototype-textures/PNG/Orange/texture_02 944 -512 90 1 -1
-( 1552 -6064 0 ) ( 1552 -6240 0 ) ( 1552 -6240 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -930.9092 -16 180 1.03125 1
-}
-}
-// entity 60
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "70"
-"_tb_linked_group_id" "defe90d7-716d-4383-9f4f-1a0a11975545"
-"_tb_transformation" "2.0750966144311386e-15 2.8327694488239923e-16 1 1055.9999999999886 -1 -1.2246467991473473e-16 2.0750966144311386e-15 -688.0000000000018 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 1536 -6320 64 ) ( 1536 -6320 16 ) ( 1536 -6272 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 180 1 1
-( 1552 -6320 64 ) ( 1552 -6320 16 ) ( 1536 -6320 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -576 270 1 1
-( 1536 -6320 16 ) ( 1552 -6320 16 ) ( 1552 -6272 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 270 1 1
-( 1536 -6320 64 ) ( 1536 -6272 16 ) ( 1552 -6272 16 ) kenney_prototype-textures/PNG/Purple/texture_02 560 -576 90 1 -1
-( 1552 -6272 16 ) ( 1552 -6320 16 ) ( 1552 -6320 64 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 180 1 1
-}
-// brush 1
-{
-( 1536 -6432 0 ) ( 1536 -6432 -16 ) ( 1536 -6272 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 180 1 1
-( 1552 -6432 0 ) ( 1552 -6432 -16 ) ( 1536 -6432 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -576 270 1 1
-( 1536 -6432 -16 ) ( 1552 -6432 -16 ) ( 1552 -6272 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 270 1 1
-( 1552 -6256 0 ) ( 1552 -6432 0 ) ( 1536 -6432 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 270 1 1
-( 1552 -6272 -16 ) ( 1552 -6256 0 ) ( 1536 -6256 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -696 -568 270 1 1
-( 1552 -6272 -16 ) ( 1552 -6432 -16 ) ( 1552 -6432 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 180 1 1
-}
-// brush 2
-{
-( 1536 -6320 -16 ) ( 1536 -6320 -64 ) ( 1536 -6272 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 180 1 1
-( 1552 -6320 -16 ) ( 1552 -6320 -64 ) ( 1536 -6320 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -576 270 1 1
-( 1552 -6272 -16 ) ( 1552 -6320 -16 ) ( 1536 -6320 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 270 1 1
-( 1536 -6320 -64 ) ( 1552 -6320 -64 ) ( 1552 -6272 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -672 -576 270 1 1
-( 1552 -6272 -16 ) ( 1552 -6320 -64 ) ( 1552 -6320 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -464 180 1 1
-}
-// brush 3
-{
-( 1536 -6432 16 ) ( 1536 -6432 0 ) ( 1536 -6256 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 180 1 1
-( 1552 -6432 16 ) ( 1552 -6432 0 ) ( 1536 -6432 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -576 270 1 1
-( 1536 -6432 0 ) ( 1552 -6432 0 ) ( 1552 -6256 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 270 1 1
-( 1552 -6272 16 ) ( 1552 -6432 16 ) ( 1536 -6432 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -576 270 1 1
-( 1536 -6272 16 ) ( 1536 -6256 0 ) ( 1552 -6256 0 ) kenney_prototype-textures/PNG/Purple/texture_02 568 -568 90 1 -1
-( 1552 -6256 0 ) ( 1552 -6432 0 ) ( 1552 -6432 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -624 -448 180 1 1
-}
-}
-// entity 61
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "71"
-"_tb_linked_group_id" "149b2bb2-d25c-416c-883e-69f066b002cf"
-"_tb_transformation" "-1 -1.2246467991473581e-16 -7.840215437089414e-15 7680.000000000004 7.840215437089414e-15 -6.123233995736671e-17 -1 -2640.000000000044 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 2048 -3136 64 ) ( 2048 -3136 16 ) ( 2048 -3120 16 ) kenney_prototype-textures/PNG/Red/texture_02 16.25397 48 270 0.984375 -1
-( 2096 -3136 16 ) ( 2048 -3136 16 ) ( 2048 -3136 64 ) kenney_prototype-textures/PNG/Red/texture_02 386.84436 -477.86768 135 0.9943691 0.9943682
-( 2048 -3120 16 ) ( 2048 -3136 16 ) ( 2096 -3136 16 ) kenney_prototype-textures/PNG/Red/texture_02 32.50757 48 180 0.984375 1
-( 2048 -3120 64 ) ( 2048 -3120 16 ) ( 2096 -3120 16 ) kenney_prototype-textures/PNG/Red/texture_02 32.50757 -65.015884 180 0.984375 0.984375
-( 2048 -3120 64 ) ( 2096 -3120 16 ) ( 2096 -3136 16 ) kenney_prototype-textures/PNG/Red/texture_02 -81.27026 48 0 0.984375 -1
-}
-// brush 1
-{
-( 1936 -3136 0 ) ( 1936 -3136 -16 ) ( 1936 -3120 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -16 48 270 1 -1
-( 2096 -3136 -16 ) ( 1936 -3136 -16 ) ( 1936 -3136 0 ) kenney_prototype-textures/PNG/Red/texture_02 853.3334 0 180 1.03125 1
-( 1936 -3120 -16 ) ( 1936 -3136 -16 ) ( 2096 -3136 -16 ) kenney_prototype-textures/PNG/Red/texture_02 17.06665 48 180 0.9375 1
-( 2112 -3136 0 ) ( 1936 -3136 0 ) ( 1936 -3120 0 ) kenney_prototype-textures/PNG/Red/texture_02 853.3329 48 180 1.03125 1
-( 1936 -3120 0 ) ( 1936 -3120 -16 ) ( 2096 -3120 -16 ) kenney_prototype-textures/PNG/Red/texture_02 853.3334 0 180 1.03125 1
-( 2096 -3136 -16 ) ( 2112 -3136 0 ) ( 2112 -3120 0 ) kenney_prototype-textures/PNG/Red/texture_02 48 48 180 1 1
-}
-// brush 2
-{
-( 2048 -3136 -16 ) ( 2048 -3136 -64 ) ( 2048 -3120 -64 ) kenney_prototype-textures/PNG/Red/texture_02 -65.01587 48 270 0.984375 -1
-( 2096 -3136 -16 ) ( 2048 -3136 -64 ) ( 2048 -3136 -16 ) kenney_prototype-textures/PNG/Red/texture_02 32.50757 16.253971 180 0.984375 0.984375
-( 2096 -3136 -16 ) ( 2048 -3136 -16 ) ( 2048 -3120 -16 ) kenney_prototype-textures/PNG/Red/texture_02 32.50757 48 180 0.984375 1
-( 2048 -3120 -16 ) ( 2048 -3120 -64 ) ( 2096 -3120 -16 ) kenney_prototype-textures/PNG/Red/texture_02 386.84583 443.7317 225 0.9943682 0.99437
-( 2048 -3120 -64 ) ( 2048 -3136 -64 ) ( 2096 -3136 -16 ) kenney_prototype-textures/PNG/Red/texture_02 32.50757 48 180 0.984375 1
-}
-// brush 3
-{
-( 1936 -3136 16 ) ( 1936 -3136 0 ) ( 1936 -3120 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 48 270 1 -1
-( 2112 -3136 0 ) ( 1936 -3136 0 ) ( 1936 -3136 16 ) kenney_prototype-textures/PNG/Red/texture_02 853.3334 -16 180 1.03125 1
-( 1936 -3120 0 ) ( 1936 -3136 0 ) ( 2112 -3136 0 ) kenney_prototype-textures/PNG/Red/texture_02 853.3329 48 180 1.03125 1
-( 2096 -3136 16 ) ( 1936 -3136 16 ) ( 1936 -3120 16 ) kenney_prototype-textures/PNG/Red/texture_02 17.06665 48 180 0.9375 1
-( 1936 -3120 16 ) ( 1936 -3120 0 ) ( 2112 -3120 0 ) kenney_prototype-textures/PNG/Red/texture_02 853.3334 -16 180 1.03125 1
-( 2096 -3120 16 ) ( 2112 -3120 0 ) ( 2112 -3136 0 ) kenney_prototype-textures/PNG/Red/texture_02 -64 48 0 1 -1
-}
-}
-// entity 62
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "72"
-"_tb_linked_group_id" "a2f2e167-fd09-4a04-8c81-cb28ad03fe4d"
-"_tb_transformation" "-1 -1.2246467991473502e-16 1.0032211748589104e-15 7487.999999999998 -1.0032211748589104e-15 -2.832769448823991e-16 -1 -2639.9999999999945 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 1856 -3136 64 ) ( 1856 -3136 16 ) ( 1856 -3120 16 ) kenney_prototype-textures/PNG/Orange/texture_02 16.25397 48 270 0.984375 -1
-( 1904 -3136 16 ) ( 1856 -3136 16 ) ( 1856 -3136 64 ) kenney_prototype-textures/PNG/Orange/texture_02 250.31091 -341.33215 135 0.9943691 0.99437
-( 1856 -3120 16 ) ( 1856 -3136 16 ) ( 1904 -3136 16 ) kenney_prototype-textures/PNG/Orange/texture_02 861.4607 48 180 0.984375 1
-( 1856 -3120 64 ) ( 1856 -3120 16 ) ( 1904 -3120 16 ) kenney_prototype-textures/PNG/Orange/texture_02 861.4602 -65.015884 180 0.984375 0.984375
-( 1856 -3120 64 ) ( 1904 -3120 16 ) ( 1904 -3136 16 ) kenney_prototype-textures/PNG/Orange/texture_02 -910.2224 48 0 0.984375 -1
-}
-// brush 1
-{
-( 1744 -3136 0 ) ( 1744 -3136 -16 ) ( 1744 -3120 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 -16 48 270 1 -1
-( 1904 -3136 -16 ) ( 1744 -3136 -16 ) ( 1744 -3136 0 ) kenney_prototype-textures/PNG/Orange/texture_02 667.15137 0 180 1.03125 1
-( 1744 -3120 -16 ) ( 1744 -3136 -16 ) ( 1904 -3136 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 836.2665 48 180 0.9375 1
-( 1920 -3136 0 ) ( 1744 -3136 0 ) ( 1744 -3120 0 ) kenney_prototype-textures/PNG/Orange/texture_02 667.15234 48 180 1.03125 1
-( 1744 -3120 0 ) ( 1744 -3120 -16 ) ( 1904 -3120 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 667.15137 0 180 1.03125 1
-( 1904 -3136 -16 ) ( 1920 -3136 0 ) ( 1920 -3120 0 ) kenney_prototype-textures/PNG/Orange/texture_02 880 48 180 1 1
-}
-// brush 2
-{
-( 1856 -3136 -16 ) ( 1856 -3136 -64 ) ( 1856 -3120 -64 ) kenney_prototype-textures/PNG/Orange/texture_02 958.9841 48 270 0.984375 -1
-( 1904 -3136 -16 ) ( 1856 -3136 -64 ) ( 1856 -3136 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 861.4602 16.253971 180 0.984375 0.984375
-( 1904 -3136 -16 ) ( 1856 -3136 -16 ) ( 1856 -3120 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 861.4607 48 180 0.984375 1
-( 1856 -3120 -16 ) ( 1856 -3120 -64 ) ( 1904 -3120 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 250.31079 307.20093 225 0.9943691 0.9943682
-( 1856 -3120 -64 ) ( 1856 -3136 -64 ) ( 1904 -3136 -16 ) kenney_prototype-textures/PNG/Orange/texture_02 861.4607 48 180 0.984375 1
-}
-// brush 3
-{
-( 1744 -3136 16 ) ( 1744 -3136 0 ) ( 1744 -3120 0 ) kenney_prototype-textures/PNG/Orange/texture_02 0 48 270 1 -1
-( 1920 -3136 0 ) ( 1744 -3136 0 ) ( 1744 -3136 16 ) kenney_prototype-textures/PNG/Orange/texture_02 667.15137 -16 180 1.03125 1
-( 1744 -3120 0 ) ( 1744 -3136 0 ) ( 1920 -3136 0 ) kenney_prototype-textures/PNG/Orange/texture_02 667.15234 48 180 1.03125 1
-( 1904 -3136 16 ) ( 1744 -3136 16 ) ( 1744 -3120 16 ) kenney_prototype-textures/PNG/Orange/texture_02 836.2665 48 180 0.9375 1
-( 1744 -3120 16 ) ( 1744 -3120 0 ) ( 1920 -3120 0 ) kenney_prototype-textures/PNG/Orange/texture_02 667.15137 -16 180 1.03125 1
-( 1904 -3120 16 ) ( 1920 -3120 0 ) ( 1920 -3136 0 ) kenney_prototype-textures/PNG/Orange/texture_02 -896 48 0 1 -1
-}
-}
-// entity 63
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "73"
-"_tb_linked_group_id" "04b7296d-9865-43fe-b467-5fa878e83f28"
-"_tb_transformation" "-1 -1.2246467991473502e-16 1.0032211748589104e-15 7295.999999999998 -1.0032211748589104e-15 -2.832769448823991e-16 -1 -2639.9999999999945 1.2246467991473532e-16 -1 2.83276944882399e-16 -304.000000000001 0 0 0 1"
-// brush 0
-{
-( 1664 -3136 64 ) ( 1664 -3136 16 ) ( 1664 -3120 16 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -16 270 1 -1
-( 1712 -3136 16 ) ( 1664 -3136 16 ) ( 1664 -3136 64 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -448 180 1 1
-( 1664 -3120 16 ) ( 1664 -3136 16 ) ( 1712 -3136 16 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -16 180 1 1
-( 1664 -3120 64 ) ( 1664 -3120 16 ) ( 1712 -3120 16 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -448 180 1 1
-( 1664 -3120 64 ) ( 1712 -3120 16 ) ( 1712 -3136 16 ) kenney_prototype-textures/PNG/Purple/texture_02 -256 -16 0 1 -1
-}
-// brush 1
-{
-( 1552 -3136 0 ) ( 1552 -3136 -16 ) ( 1552 -3120 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -16 270 1 -1
-( 1712 -3136 -16 ) ( 1552 -3136 -16 ) ( 1552 -3136 0 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -464 180 1 1
-( 1552 -3120 -16 ) ( 1552 -3136 -16 ) ( 1712 -3136 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -16 180 1 1
-( 1728 -3136 0 ) ( 1552 -3136 0 ) ( 1552 -3120 0 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -16 180 1 1
-( 1552 -3120 0 ) ( 1552 -3120 -16 ) ( 1712 -3120 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -464 180 1 1
-( 1712 -3136 -16 ) ( 1728 -3136 0 ) ( 1728 -3120 0 ) kenney_prototype-textures/PNG/Purple/texture_02 120 -8 180 1 1
-}
-// brush 2
-{
-( 1664 -3136 -16 ) ( 1664 -3136 -64 ) ( 1664 -3120 -64 ) kenney_prototype-textures/PNG/Purple/texture_02 464 -16 270 1 -1
-( 1712 -3136 -16 ) ( 1664 -3136 -64 ) ( 1664 -3136 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -464 180 1 1
-( 1712 -3136 -16 ) ( 1664 -3136 -16 ) ( 1664 -3120 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -16 180 1 1
-( 1664 -3120 -16 ) ( 1664 -3120 -64 ) ( 1712 -3120 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -464 180 1 1
-( 1664 -3120 -64 ) ( 1664 -3136 -64 ) ( 1712 -3136 -16 ) kenney_prototype-textures/PNG/Purple/texture_02 144 -16 180 1 1
-}
-// brush 3
-{
-( 1552 -3136 16 ) ( 1552 -3136 0 ) ( 1552 -3120 0 ) kenney_prototype-textures/PNG/Purple/texture_02 448 -16 270 1 -1
-( 1728 -3136 0 ) ( 1552 -3136 0 ) ( 1552 -3136 16 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -448 180 1 1
-( 1552 -3120 0 ) ( 1552 -3136 0 ) ( 1728 -3136 0 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -16 180 1 1
-( 1712 -3136 16 ) ( 1552 -3136 16 ) ( 1552 -3120 16 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -16 180 1 1
-( 1552 -3120 16 ) ( 1552 -3120 0 ) ( 1728 -3120 0 ) kenney_prototype-textures/PNG/Purple/texture_02 192 -448 180 1 1
-( 1712 -3120 16 ) ( 1728 -3120 0 ) ( 1728 -3136 0 ) kenney_prototype-textures/PNG/Purple/texture_02 -248 -8 0 1 -1
-}
-}
-// entity 64
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Arrow"
-"_tb_id" "74"
-"_tb_linked_group_id" "6043d881-2712-45af-9592-e6869a2a7a22"
-"_tb_transformation" "-6.768339997517186e-15 6.123233995736685e-17 1 2304.0000000000373 -1 -1.2246467991473574e-16 -6.768339997517186e-15 2640.0000000000027 1.2246467991473532e-16 -1 6.123233995736766e-17 -304.00000000000097 0 0 0 1"
-// brush 0
-{
-( 2784 -2992 64 ) ( 2784 -2992 16 ) ( 2784 -2944 16 ) kenney_prototype-textures/PNG/Red/texture_02 32.508057 -65.015884 180 0.984375 0.984375
-( 2800 -2992 64 ) ( 2800 -2992 16 ) ( 2784 -2992 16 ) kenney_prototype-textures/PNG/Red/texture_02 16.253963 736 270 0.984375 1
-( 2784 -2992 16 ) ( 2800 -2992 16 ) ( 2800 -2944 16 ) kenney_prototype-textures/PNG/Red/texture_02 32.508057 736 270 0.984375 1
-( 2784 -2992 64 ) ( 2784 -2944 16 ) ( 2800 -2944 16 ) kenney_prototype-textures/PNG/Red/texture_02 -81.27002 736 90 0.984375 -1
-( 2800 -2944 16 ) ( 2800 -2992 16 ) ( 2800 -2992 64 ) kenney_prototype-textures/PNG/Red/texture_02 -125.15503 34.13501 135 0.9943691 0.9943682
-}
-// brush 1
-{
-( 2784 -3104 0 ) ( 2784 -3104 -16 ) ( 2784 -2944 -16 ) kenney_prototype-textures/PNG/Red/texture_02 62.060547 0 180 1.03125 1
-( 2800 -3104 0 ) ( 2800 -3104 -16 ) ( 2784 -3104 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -16 736 270 1 1
-( 2784 -3104 -16 ) ( 2800 -3104 -16 ) ( 2800 -2944 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -238.93335 736 270 0.9375 1
-( 2800 -2928 0 ) ( 2800 -3104 0 ) ( 2784 -3104 0 ) kenney_prototype-textures/PNG/Red/texture_02 62.060547 736 270 1.03125 1
-( 2800 -2944 -16 ) ( 2800 -2928 0 ) ( 2784 -2928 0 ) kenney_prototype-textures/PNG/Red/texture_02 128 736 270 1 1
-( 2800 -2944 -16 ) ( 2800 -3104 -16 ) ( 2800 -3104 0 ) kenney_prototype-textures/PNG/Red/texture_02 62.060547 0 180 1.03125 1
-}
-// brush 2
-{
-( 2784 -2992 -16 ) ( 2784 -2992 -64 ) ( 2784 -2944 -16 ) kenney_prototype-textures/PNG/Red/texture_02 -125.15674 -68.264404 225 0.9943682 0.99437
-( 2800 -2992 -16 ) ( 2800 -2992 -64 ) ( 2784 -2992 -64 ) kenney_prototype-textures/PNG/Red/texture_02 -65.01587 736 270 0.984375 1
-( 2800 -2944 -16 ) ( 2800 -2992 -16 ) ( 2784 -2992 -16 ) kenney_prototype-textures/PNG/Red/texture_02 32.508057 736 270 0.984375 1
-( 2784 -2992 -64 ) ( 2800 -2992 -64 ) ( 2800 -2944 -16 ) kenney_prototype-textures/PNG/Red/texture_02 32.508057 736 270 0.984375 1
-( 2800 -2944 -16 ) ( 2800 -2992 -64 ) ( 2800 -2992 -16 ) kenney_prototype-textures/PNG/Red/texture_02 32.508057 16.25397 180 0.984375 0.984375
-}
-// brush 3
-{
-( 2784 -3104 16 ) ( 2784 -3104 0 ) ( 2784 -2928 0 ) kenney_prototype-textures/PNG/Red/texture_02 62.060547 -16 180 1.03125 1
-( 2800 -3104 16 ) ( 2800 -3104 0 ) ( 2784 -3104 0 ) kenney_prototype-textures/PNG/Red/texture_02 0 736 270 1 1
-( 2784 -3104 0 ) ( 2800 -3104 0 ) ( 2800 -2928 0 ) kenney_prototype-textures/PNG/Red/texture_02 62.060547 736 270 1.03125 1
-( 2800 -2944 16 ) ( 2800 -3104 16 ) ( 2784 -3104 16 ) kenney_prototype-textures/PNG/Red/texture_02 -238.93335 736 270 0.9375 1
-( 2784 -2944 16 ) ( 2784 -2928 0 ) ( 2800 -2928 0 ) kenney_prototype-textures/PNG/Red/texture_02 -144 736 90 1 -1
-( 2800 -2928 0 ) ( 2800 -3104 0 ) ( 2800 -3104 16 ) kenney_prototype-textures/PNG/Red/texture_02 62.060547 -16 180 1.03125 1
 }
 }

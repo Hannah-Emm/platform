@@ -1,0 +1,14 @@
+[remap]
+
+importer="func_godot.map"
+type="Resource"
+uid="uid://dtkfpns1m8pnt"
+path="res://.godot/imported/tunnel.8.map-831dd457fe8ab6c5743c470c9b2b629b.tres"
+
+[deps]
+
+source_file="res://maps/autosave/tunnel.8.map"
+dest_files=["res://.godot/imported/tunnel.8.map-831dd457fe8ab6c5743c470c9b2b629b.tres"]
+
+[params]
+
