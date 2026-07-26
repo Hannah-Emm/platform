@@ -3,19 +3,23 @@ extends Node3D
 signal display_message(message: String)
 signal display_temporary_message(message: String, duration: float)
 
-@export var person_count: int = 25
+@export var initial_person_count: int = 50
+@export var person_count_increment: int = 25
 
 @onready var level_timer: Timer = $LevelTimer
 @onready var player: CharacterBody3D = $Player
 
 var person_scene = load("res://Person.tscn")
 
+var person_count: int = initial_person_count
 var goal_point: Area3D
+var waiting_to_reset: bool = false
 
 func _ready() -> void:
 	reset_level()
 
 func reset_level() -> void:
+	waiting_to_reset = false
 	display_message.emit("")
 	get_tree().call_group("People", "queue_free")
 	spawn_people()
@@ -52,15 +56,22 @@ func reset_timer() -> void:
 	level_timer.start()
 
 func _on_level_timer_timeout() -> void:
-	display_message.emit("You lose!")
+	display_message.emit("You missed the train!\nPress Q to try again")
 	player.kill()
+	person_count = initial_person_count
+	waiting_to_reset = true
 
 func _on_finish_body_entered(body: Node3D) -> void:
 	if body == player and player.is_alive():
-		display_message.emit("You win!")
+		display_message.emit("You made it!")
 		level_timer.paused = true
 		player.kill()
+		person_count += person_count_increment
+		await get_tree().create_timer(2.0).timeout
+		display_message.emit("But you have another train to catch...")
+		await get_tree().create_timer(2.0).timeout
+		reset_level()
 
 func _input(_event: InputEvent) -> void:
-	if Input.is_action_just_pressed("action_reset"):
+	if waiting_to_reset and Input.is_action_just_pressed("action_reset"):
 		reset_level()
