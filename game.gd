@@ -22,7 +22,6 @@ func _ready() -> void:
 func reset_level() -> void:
 	waiting_to_reset = false
 	display_message.emit("")
-	trains_caught = 0
 	get_tree().call_group("People", "queue_free")
 	spawn_people()
 	spawn_player()
@@ -45,7 +44,7 @@ func spawn_player() -> void:
 	goal_point = goals.pop_front()
 	goal_point.body_entered.connect(_on_finish_body_entered.bind())
 	goal_point.show()
-	display_temporary_message.emit("Your train is on the " + goal_point.get_meta("platform_color") + " platform!", 5.0)
+	display_temporary_message.emit("Your train is on the " + goal_point.get_meta("platform_color") + " platform!", 7.5)
 
 	player.global_position = spawn_point.global_position
 	player.rotation = spawn_point.rotation
@@ -77,4 +76,5 @@ func _on_finish_body_entered(body: Node3D) -> void:
 
 func _input(_event: InputEvent) -> void:
 	if waiting_to_reset and Input.is_action_just_pressed("action_reset"):
+		trains_caught = 0
 		reset_level()

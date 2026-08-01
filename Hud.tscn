@@ -19,7 +19,7 @@ font_size = 32
 font_size = 64
 
 [sub_resource type="LabelSettings" id="LabelSettings_8hvrr"]
-font_size = 32
+font_size = 64
 
 [node name="HUD" type="CanvasLayer" unique_id=182429545]
 
@@ -85,7 +85,7 @@ anchor_left = 0.5
 anchor_right = 0.5
 anchor_bottom = 1.0
 offset_left = -0.5
-offset_top = 41.0
+offset_top = 329.0
 offset_right = 0.5
 grow_horizontal = 2
 grow_vertical = 2
